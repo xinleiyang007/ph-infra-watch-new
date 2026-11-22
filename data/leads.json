@@ -1,6 +1,6 @@
 {
   "schema_version": "discovery-leads-1.0",
-  "generated_at": "2026-11-22T07:51:13+00:00",
+  "generated_at": "2026-11-22T07:53:08+00:00",
   "source_note": "RSS feeds and Google News site-restricted discovery indexes; not a complete registry or verified projects. Links may be Google News redirect URLs.",
   "leads": [
     {
@@ -99,6 +99,20 @@
       "published_at": "2026-11-21T06:34:24+00:00",
       "first_seen_at": "2026-11-22T06:56:34+00:00",
       "summary_excerpt": "Lee visits construction site of SK data center in Ulsan with call for acceleration Korea JoongAng Daily",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "bf076b55f27dde11cdfd",
+      "title": "PH taps offshore wind potential to cut reliance on imported fuel - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ2dxd3NCUlRvQktJMENQLURPTDNzMW5QY3BXMWR0YlpraEpxV2c4VUxZQnMteWJtQWZtQ1NrN3U0SHl2cW1FRDNlQ1J0MS15ZmlHT3VpWk9SbzZJdEdHelNfX19mbXp6a3diSHF1cklSOHpIUVd2eGt6ZW9pazlOSC1KeWRyWVdPTTlYeDdEYWIwdkRpaGh5WFhhTVpSajB4TGVoQkJZdmh5dEg1bVJoYm85R0s5cWPSAbwBQVVfeXFMTUhEOWkwYmpRaXFrdTE0NXVuYW1BempIc3doNTNtSnVKVEVIMlU1QmxscTg5RnF0YU9pRkYyZzI5QWdGTHVfLXZ3YnJqNlNhckVrU3VSZlc1MFVVcFdBNEFPeUtCd3hZNnd1R0NGQ3lnN2pFVTVyYlJROGF5RmpqcmJiZEYwd3plR3ZTREY4a2pYbXRNWDFmTG5sN0E4UDAzZ21IMUlqRGVVajlxT2p2TTdyTDJGVGFneXA3Ujk?oc=5",
+      "publisher": "The Manila Times",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-21T03:39:00+00:00",
+      "first_seen_at": "2026-11-22T07:53:08+00:00",
+      "summary_excerpt": "PH taps offshore wind potential to cut reliance on imported fuel The Manila Times",
       "review_status": "unverified_discovery"
     },
     {
@@ -284,6 +298,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "3ce676d6dd051fe83daa",
+      "title": "DENR assures strict safeguards amid PH renewable energy goals - Philippine News Agency",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTDBlYzVWdWhKbTRObEN6RkxjMmRkc0hxVERkRjg5NGRiU2tUYnVxckNuZDQwQVFjMzlyT1AtOTQwTWRRR3A5UDJ5Mmk3cGNOd044ZG8yWGpTQnBVdVM1ekZQOHd5Nkk1cTdZMkxJSHZKc0FjVWhsWW5OUllacVNuYW9MZkFsTHFNRTdXdm9rXzFQYmlsNmZZ?oc=5",
+      "publisher": "Philippine News Agency",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-19T22:38:44+00:00",
+      "first_seen_at": "2026-11-22T07:53:08+00:00",
+      "summary_excerpt": "DENR assures strict safeguards amid PH renewable energy goals Philippine News Agency",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "ffac710653c41c40fbd2",
       "title": "6.5 GW of battery storage seen by 2028 - SunStar Publishing Inc.",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPajhDNldnODVhVE9fWkxpUW1udFFBVk9OdXR1a2dSZ0Q4N0lGUVVWOVF1WEZVVEI2eGFDMWg3QmwtdmM1Ung4VVV4dEI1M095dHhCZFRIUFEzT3JaVEYxMWE1Y3JUaXFUSEljLWkyZTV3bXBTcjlDc1Utcm5WUmpOUkxCTWdWUdIBhgFBVV95cUxPajhDNldnODVhVE9fWkxpUW1udFFBVk9OdXR1a2dSZ0Q4N0lGUVVWOVF1WEZVVEI2eGFDMWg3QmwtdmM1Ung4VVV4dEI1M095dHhCZFRIUFEzT3JaVEYxMWE1Y3JUaXFUSEljLWkyZTV3bXBTcjlDc1Utcm5WUmpOUkxCTWdWUQ?oc=5",
@@ -463,6 +491,20 @@
       "published_at": "2026-11-17T05:33:23+00:00",
       "first_seen_at": "2026-11-22T06:56:34+00:00",
       "summary_excerpt": "PM Modi leads foundation stone ceremony for Philippines' oldest gurudwara's redevelopment ET Government",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "1e83e1885ba73baf3d90",
+      "title": "Renewable energy accounts for 79% of PH investment approvals - Asian Power",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY1ZzY2kySjdLZWNSYXQ3S3BHNldlanp0ajdQakZrSWlHMTEzdWMwTG9aRFFZQlB2anB3Sm45dUpHNG1VS0ZBbk9tWHhEekY1N1ZuRFlKZmN5ZWhVYVRCOEw5MzF1S0RXT3BXc2hLWG9aalM2ZWxuQW5PNERXU1pCalJfM0dHa29Q?oc=5",
+      "publisher": "Asian Power",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-17T01:27:21+00:00",
+      "first_seen_at": "2026-11-22T07:53:08+00:00",
+      "summary_excerpt": "Renewable energy accounts for 79% of PH investment approvals Asian Power",
       "review_status": "unverified_discovery"
     },
     {
@@ -774,6 +816,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "844b27598688e7b1d8fa",
+      "title": "ACEN gives up nearly 5GW more in renewable contracts - Inquirer.net",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOXBTWVV4LU5jZUwzeVJscVB3SXVZVWlKSUJtSEcxYVdnRkNmSHpnbmxiSS02RmNPb1ZJQmZ6MGZqTFRJa2xaZjZNSURIOEVMQXZkel90X25YR3JKN2d2Z1ZZMndQdnZPNjhyMFZNOTROS0doQzVVZUlhU1M3UFZrZm5QeFVoVE8taWRLaXRqeUk5YzDSAZgBQVVfeXFMTWkydnZqaWRYUDRtVXl6ejVNd1hOVVh3QWN6eEF2RkdQbFVpeHhXb0tqaUl5Ykp0TURsbkF0T2hxZEtmbXFIenUxaUNQYVcwdzFjaVNFV3lOejQxVkVBcFFrNUpJOTNXenc3QzZGZ0pWMlcxQW1YZ2pOZTA0QnZwN0F5TDZGVWIyU3ozRHEwWC00NURlZ09WbHM?oc=5",
+      "publisher": "Inquirer.net",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-12T08:00:00+00:00",
+      "first_seen_at": "2026-11-22T07:53:08+00:00",
+      "summary_excerpt": "ACEN gives up nearly 5GW more in renewable contracts Inquirer.net",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "b971ce5c08dd9bb55fa8",
       "title": "Raslag unit advances plan for Philippine solar-storage hybrid - Renewables Now",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUUlIckdNYXhYLW4wT0tHUUJ2bEpadThKcFYyZ1hkOFBuS1BLUEZsWVdSbHJpUDhVOXVRYmpsZWtuYUM3aW8tNHBnN0xOUzAyTnNKajh1WFZDWkhVUGRRTXk4U3pta0pqWXJycTc3WVZtYzJIUzlBVVhqaUNscXIxMkgyaWNhb2hYQVprT1hOX0IwRGFwdGF4d3NGYlhlZlZsTmpr?oc=5",
@@ -827,6 +883,20 @@
       "published_at": "2026-11-11T08:00:00+00:00",
       "first_seen_at": "2026-11-22T07:09:32+00:00",
       "summary_excerpt": "Microsoft ‘aggressively’ looking at Southeast Asian clean energy projects amid data centre boom Singapore Economic Development Board (EDB)",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "d370f034ccc48cd076bd",
+      "title": "JERA Plans US$3 Billion Gas-Fired Power Plant to Support U.S. Data Centre Energy Demand - Construction Review",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQTJIZ1hCT2pUZ2NqVHpNbUt6QlUtbTR1RHQ4S24wVVM3Wk9PUXEzelA4MmVaeWZLQ0k0MEFvYlBub1liWDZmQ1hkc2REWWFWT21vZE5zR0t0UEJkRlBhaUdDcHBXNGpydHVHRjVQcTN3NXhwZXF1XzZFdTk0eWdXWlNlcFJjWS1IZmpSZDdiU3ZMUHhFRURacUt5VUlxNmtIanpGZC1kR3VBUHV6RGdvRmw5UDlfd21aYUEwOGNsa3NjSTdPbUJlb1h0MXcydw?oc=5",
+      "publisher": "Construction Review",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-11T08:00:00+00:00",
+      "first_seen_at": "2026-11-22T07:53:08+00:00",
+      "summary_excerpt": "JERA Plans US$3 Billion Gas-Fired Power Plant to Support U.S. Data Centre Energy Demand Construction Review",
       "review_status": "unverified_discovery"
     },
     {
@@ -1009,6 +1079,20 @@
       "published_at": "2026-11-10T08:00:00+00:00",
       "first_seen_at": "2026-11-22T07:09:32+00:00",
       "summary_excerpt": "NIA's solar powered irrigation project benefits farmers in Pangasinan town By Hilda Austria CALASIAO, Pangasinan – Farmer-members of irrigators associations in Alcala, Pangasinan are benefiting from five solar powered irrigation projects of the National Irri Facebook",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "022a76da3549a84d8b5d",
+      "title": "Alabat wind farm begins supplying power to Luzon grid - Malaya Business Insight",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY2hIVmdBNkhENGZVc0dCRHpjNl8wODVnMVNYN2xQOUs5RkU2MmhGYzRNNEVMaVdRdFRYLVZ4eUNRSTRzQnZZWDJ3Tl9EbjRXOEdnX1IyZlplbnlFd0lobHYtRWt6ZHF2X25CRnp0MWNxdGJFcTFlOUpYS3ExTWIzek04UTRaTVlTYkNuN2trNk45YVFuNmQ3Ug?oc=5",
+      "publisher": "Malaya Business Insight",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-09T16:24:22+00:00",
+      "first_seen_at": "2026-11-22T07:53:08+00:00",
+      "summary_excerpt": "Alabat wind farm begins supplying power to Luzon grid Malaya Business Insight",
       "review_status": "unverified_discovery"
     },
     {
@@ -2076,6 +2160,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "052b183f1534e57f3405",
+      "title": "Philippines Eyes 98-GW Renewable Energy Boom to Attract Global Investors - Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQkVRSEZ5MFFnZzJMRjQ4d2ZFNy05Mk5pSnZ5Z3BlbnRNY0FpWmlHVllCYl9Ic0pjcGhjTG5kMy1maEowZVR1VXNrbDBlRWhlbHBGcm0zU1lSdzFXWFM4SS1LSFl6dDhKdTdFU1hxS21YNnR2ODhJRl94eElUQ29SZDRSbnlXcHlvYlV2RTRMMl9maVk?oc=5",
+      "publisher": "Daily Tribune",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-10-27T07:00:00+00:00",
+      "first_seen_at": "2026-11-22T07:53:08+00:00",
+      "summary_excerpt": "Philippines Eyes 98-GW Renewable Energy Boom to Attract Global Investors Daily Tribune",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "8b16ba97735840abbac7",
       "title": "Citicore secures $552 million for 900 MW solar, 120 MWh storage portfolio in Philippines - pv magazine Global",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWlU2TFVPNk44ZjhlYTNsb0lHMG15U255cTFYZTk0QnVtcjJpejRNQXRnQ0lKTml3RkhEaTkyNE1OUnludTM0MEFrNjlVWEpxLXNwaWxKZ3MtVHpmYUd6OEFLdTZaNk52UGEzdXZyN3NuUm53ck90S3ZxQW1SSWVsYnlfU1F1WUJlX3lBdDlJQ2JMc3V1Uzhuc29wZVk3NHZ4cEtvZWRTUUgzSFJHV0dCWnVPVS1wM0ZqbjZVcTduVHBGLXJ1?oc=5",
@@ -2325,6 +2423,20 @@
       "published_at": "2026-10-21T06:41:27+00:00",
       "first_seen_at": "2026-11-22T06:56:34+00:00",
       "summary_excerpt": "SplashBidNoticeAbstractUI PhilGEPS",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "87e7b49a14ac6fcb278b",
+      "title": "printableBidNoticeAbstract - PhilGEPS",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYm9tbmZwX3FBUU9DdUtzcEItOHU0ZFZIRzVzSlJraEVIU2cteVVjQ0pXYVJ1LUpCaV9mQUFYM2Rjc2dXc2JDTWp3UDQyc0U3aEVsQVpUY01aaXBYYkk3aUlMS29NeHBmZXhXT2gta3U3WmNEUXpkbjFrdnZvS2hBdzRubzZpa2pJX2pHbllEclBKdmUwTE8zLXMzTHBwZmhyTHc?oc=5",
+      "publisher": "PhilGEPS",
+      "source_label": "PhilGEPS 采购资讯索引",
+      "source_id": "philgeps_procurement",
+      "source_method": "google_news_search",
+      "category_hint": "procurement",
+      "published_at": "2026-10-10T07:00:00+00:00",
+      "first_seen_at": "2026-11-22T07:53:08+00:00",
+      "summary_excerpt": "printableBidNoticeAbstract PhilGEPS",
       "review_status": "unverified_discovery"
     },
     {
