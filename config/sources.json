@@ -1,0 +1,20 @@
+{
+  "schema_version": "source-config-1.0",
+  "description": "公开 RSS 搜索入口。site: 限定机构域名为新闻索引发现，不等于直接抓取官网全部页面。可增加机构原生 RSS feed_url。",
+  "max_items_per_source": 35,
+  "retention_days": 365,
+  "sources": [
+    {"id":"doe_energy","label":"DOE 官方信息索引","method":"google_news_search","query":"site:doe.gov.ph (solar OR wind OR storage OR renewable OR auction)","category":"energy"},
+    {"id":"doe_procurement","label":"DOE 项目及招标索引","method":"google_news_search","query":"site:doe.gov.ph (bid OR procurement OR project OR contract)","category":"energy"},
+    {"id":"ppp_infrastructure","label":"PPP Center 项目索引","method":"google_news_search","query":"site:ppp.gov.ph (energy OR power OR digital OR data center OR ICT)","category":"infrastructure"},
+    {"id":"bcda_clark","label":"BCDA 基础设施索引","method":"google_news_search","query":"site:bcda.gov.ph (project OR data center OR energy OR ICT)","category":"ict"},
+    {"id":"dict_digital","label":"DICT 数字工程索引","method":"google_news_search","query":"site:dict.gov.ph (project OR data center OR fiber OR broadband OR ICT)","category":"ict"},
+    {"id":"philgeps_procurement","label":"PhilGEPS 采购资讯索引","method":"google_news_search","query":"site:philgeps.gov.ph (solar OR cabling OR CCTV OR data center OR power)","category":"procurement"},
+    {"id":"solar_ph","label":"菲律宾光伏项目新闻","method":"google_news_search","query":"Philippines (solar farm OR rooftop solar OR solar project) when:30d","category":"solar_ground"},
+    {"id":"wind_ph","label":"菲律宾风电项目新闻","method":"google_news_search","query":"Philippines (wind farm OR offshore wind OR wind power) when:30d","category":"wind"},
+    {"id":"bess_ph","label":"菲律宾储能项目新闻","method":"google_news_search","query":"Philippines (BESS OR battery energy storage) project when:30d","category":"storage"},
+    {"id":"ev_ph","label":"菲律宾充电桩新闻","method":"google_news_search","query":"Philippines EV charging station infrastructure project when:30d","category":"ev_charging"},
+    {"id":"datacenter_ph","label":"菲律宾数据中心建设新闻","method":"google_news_search","query":"Philippines (data center OR data centre) construction project when:30d","category":"smart_datacenter"},
+    {"id":"elv_fiber_ph","label":"菲律宾弱电和光纤项目新闻","method":"google_news_search","query":"Philippines (structured cabling OR fiber optic OR CCTV system OR ELV) project when:30d","category":"structured_cabling"}
+  ]
+}

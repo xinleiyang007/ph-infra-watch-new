@@ -1,0 +1,78 @@
+name: Collect PH project leads and publish Atlas
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'v7_1.html'
+      - 'index.html'
+      - 'data/projects.json'
+      - 'data/companies.json'
+      - 'config/sources.json'
+      - 'scripts/**'
+      - '.github/workflows/collect-public-leads.yml'
+  schedule:
+    # UTC 02:17 / 14:17 = Manila 10:17 / 22:17; not guaranteed exactly on time.
+    - cron: '17 2,14 * * *'
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: ph-infra-atlas-deploy
+  cancel-in-progress: false
+jobs:
+  refresh-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Collect publicly indexed RSS leads
+        id: collect
+        continue-on-error: true
+        run: python scripts/collect_public_feeds.py
+      - name: Rebuild company directory from approved projects
+        run: python scripts/build_companies.py
+      - name: Save public snapshots to repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/leads.json data/collection_status.json data/companies.json
+          if ! git diff --cached --quiet; then
+            git commit -m "data: refresh public project leads and company directory"
+            git push
+          else
+            echo "No new data snapshot to commit"
+          fi
+      - name: Prepare static site (do not publish source scripts)
+        run: |
+          mkdir -p _site
+          find . -maxdepth 1 -type f -name '*.html' -exec cp {} _site/ \;
+          cp -R data _site/data
+          touch _site/.nojekyll
+          if [ ! -f _site/index.html ]; then cp _site/v7_1.html _site/index.html; fi
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Upload static artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - name: Deploy GitHub Pages (same run as collection)
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Summarize feed status
+        if: always()
+        run: |
+          if [ '${{ steps.collect.outcome }}' = 'failure' ]; then
+            echo '⚠️ All feed sources failed: previous leads.json was kept; site deployed with existing data.' >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo '✅ Public feed collector completed; read data/collection_status.json for per-source details.' >> "$GITHUB_STEP_SUMMARY"
+          fi
