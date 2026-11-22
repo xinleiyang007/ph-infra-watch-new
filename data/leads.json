@@ -1,8 +1,36 @@
 {
   "schema_version": "discovery-leads-1.0",
-  "generated_at": "2026-11-22T08:17:00+00:00",
+  "generated_at": "2026-11-22T20:45:40+00:00",
   "source_note": "RSS feeds and Google News site-restricted discovery indexes; not a complete registry or verified projects. Links may be Google News redirect URLs.",
   "leads": [
+    {
+      "id": "75de27cbeb1ee01dca9c",
+      "title": "Chinese firm building windmills at sea - Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tYnJXMnJvdEoxcWJTVGpMZElVaTNMX25GTUd3SXNxbl80b041Q2V0ejdya1BjQ2hyZ0o5NXA0eWd5QV9jelg2dzlTTTQwMDU3Q3pYY0hJN1JjMzVMa21sOHBGZXFYUHJVbkJhUHQzbUhRdnpUd3lmc2FTNGU?oc=5",
+      "publisher": "Daily Tribune",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-22T19:37:30+00:00",
+      "first_seen_at": "2026-11-22T20:45:40+00:00",
+      "summary_excerpt": "Chinese firm building windmills at sea Daily Tribune",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "378899f69a69ec8789eb",
+      "title": "US gov’t backs Cagayan to Davao subsea cable - Inquirer.net",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa2pDV1p5STZ3ME4xSGk0RWdndlVUWmJteGtjQXVVWDdiYnBwU2Q0RHRnNGoxYXR1ZzFhOExUQWlUMl9ad2xLRXljY3p0eFBKOEJIM1pSRGdULTdyNDNwMEJNNzU1ZWVhNW9vWVZDS0dEZmg4REt4NDgtV0MzbWcwQVoyMHdFUTDSAYwBQVVfeXFMT0RIbE9VbUdIVU5zRHNNajVMZUhDV05vWVZxTXRXWHgwTXhhSXowQW1jM0Z4eW1lTWNJS21BWFo1OHNVUEpobWFUWGhvaWc1empOZFhFNXFPNy0xSlhWU19YclZBb2s1bjRqSkxvel9XNU1Cb1JyQ01TcEFsQjVGWGIzTFpFeHAyTnJvQm8?oc=5",
+      "publisher": "Inquirer.net",
+      "source_label": "菲律宾弱电和光纤项目新闻",
+      "source_id": "elv_fiber_ph",
+      "source_method": "google_news_search",
+      "category_hint": "structured_cabling",
+      "published_at": "2026-11-22T18:04:00+00:00",
+      "first_seen_at": "2026-11-22T20:45:40+00:00",
+      "summary_excerpt": "US gov’t backs Cagayan to Davao subsea cable Inquirer.net",
+      "review_status": "unverified_discovery"
+    },
     {
       "id": "6b9a1f24f8bd872435f8",
       "title": "PH to boost offshore wind - The Manila Times",
@@ -158,6 +186,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "48b5c3a97ef51662aa35",
+      "title": "All the latest updates on AI data centers - The Verge",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb0UxRGMyQ3VLZ1hCY2U3dVVzZnYyX1FZSGJ6OElGOFZ3amc1NnY2Z3Fhb2NIcUp4UFNQNTBQZ3RPa2RiaGEtYWROcHpadFpCV244Nng2VDZuOTBMZDNwdHR3ajl4RXhSSEFjSUZQMVlFd25GSXNZWHZxaVpJYXN0VFJSYUtwcWpOc1huZENJSTRjTlJtTUN3RXh4WFgxRkhOZnBLNVFwSHc?oc=5",
+      "publisher": "The Verge",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-20T19:39:17+00:00",
+      "first_seen_at": "2026-11-22T20:45:40+00:00",
+      "summary_excerpt": "All the latest updates on AI data centers The Verge",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "fa93461b3512fa043692",
       "title": "Korean industrial heavyweights chase Seoul's 45-GW offshore wind target - KED Global",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ac1BZa1lDaEZBU19rdURlb3dHSmJOeW5CdHB0MEJVNGdsTE83dzY2QmtPM25ManViNTZNclRiRUpnZVVFeWxzdmt1WE8xTGh0Qnc3UkFLYU1GZWYxQVZJQ2N5cHc2R05G?oc=5",
@@ -197,6 +239,20 @@
       "published_at": "2026-11-20T12:47:22+00:00",
       "first_seen_at": "2026-11-22T06:56:34+00:00",
       "summary_excerpt": "US trade agency to support Philippine’s Infinivan on new domestic subsea cable project Data Center Dynamics",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "10cb55297aa867821637",
+      "title": "Trump Puts Limits On Quad AI Plan, Will Penalise US Companies That Build Data Centres Overseas - Menafn",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcFF1NzRrUi1iTmZnN3B0bjBmb1pLc2NEOTBIcHdrZWExMlljMFdzRmhvVnA2MXplZjYyRGRlcVlqZUdDVG1pWjVkcjdVSGc4bm5NWDNoSGZETmhJZU5IdGVqSGZSU0UtbGl2dGwtUmpUSkhuSFE2VHR0dUhlZFNtX2R3NFFJWGRWbm5OWWJFVlNXX2NIMkROM29xdFV5QXZzMVVRdERUSmluNWZTMjdLeEhvZlVBbS1uV1hYZDg3LTk?oc=5",
+      "publisher": "Menafn",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-20T10:00:16+00:00",
+      "first_seen_at": "2026-11-22T20:45:40+00:00",
+      "summary_excerpt": "Trump Puts Limits On Quad AI Plan, Will Penalise US Companies That Build Data Centres Overseas Menafn",
       "review_status": "unverified_discovery"
     },
     {
@@ -326,6 +382,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "abc495c829462edd6d4a",
+      "title": "LGUs seek faster EV charging permits as cities advance local e-mobility plans - Power Philippines",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSzc1M2lNSEdkemRnWm0tMlRGU1BQd2JqVDNIdFIxRHBYaGhZVWdrcDRmRHFYMTRUV01jbUpuc1Q3aW01RkthTGUwZk9MY3hPUHB4S0hwWk5zNm11Y3RhNlVCM214OFk5UWt6dDhhSjM2QWxCNGEta3hXNW1lRngzblptUW5VRHJoV2pLcFNFMU1GVlprd2tYcXh6bjRCdWhrTFUyRURFY2FLTTA?oc=5",
+      "publisher": "Power Philippines",
+      "source_label": "菲律宾充电桩新闻",
+      "source_id": "ev_ph",
+      "source_method": "google_news_search",
+      "category_hint": "ev_charging",
+      "published_at": "2026-11-19T09:00:49+00:00",
+      "first_seen_at": "2026-11-22T20:45:40+00:00",
+      "summary_excerpt": "LGUs seek faster EV charging permits as cities advance local e-mobility plans Power Philippines",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "57623a4f3bcb9f1117ae",
       "title": "Europe’s Biggest AI Data Centers: Where They’re Being Built and How They’ll Be Powered - Channel Insider",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVUF5M2s1Y1FGSHlYd1htcE82dXdnVjdra003U3FhTGN6OTJ3TngyVm9KbWVydlNqRGQ5ejhoemVyOWJyNEZXcXBDZDRuSlJFUUYzSTZncldsei1tRU1zS1JsVkpjcHBDUDhTcU8wcWdZQ0x1UnM3cnB0N3YzRTdKdkNJSVVjbkpQOHlXcHpjR19CQQ?oc=5",
@@ -452,6 +522,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "71db9dda022b35d5c37f",
+      "title": "Philippine Energy Secretary Sharon Garin says the ADB and World Bank have 'indicated their interest in financing' regional power grid connections, which could require hundreds of billions of dollars in investment - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTENuUzNxbjRld08wOGNMZ0FCcEhXNDN3cUVNYWhWQ2VySGl1YnVyUlJVaE9PYl9UWGZsQ3dscUc4MldDem5UdlJlZ2szbGlSRXE2Zjc0Z0VxTzAwS3RhRVlvZ2FQSVZ0d2tYbVJNME9YbjFNTUFtRWQ5NGpOSWJ3YlUtTl91SjFFZktrbUstakFJSXNqVktJM3JiOVRDcUNQSklOMlgyWk1XQTN2VTY4aFVCaUlkVHN0cmtTeE1lYXNia3l2UDBYdTJIejdUY2hheXZyWm5yd3NrN3c?oc=5",
+      "publisher": "Facebook",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-17T09:30:04+00:00",
+      "first_seen_at": "2026-11-22T20:45:40+00:00",
+      "summary_excerpt": "Philippine Energy Secretary Sharon Garin says the ADB and World Bank have 'indicated their interest in financing' regional power grid connections, which could require hundreds of billions of dollars in investment Facebook",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "856699817d261c131f45",
       "title": "2027 Engineering and Construction Industry Outlook - Deloitte",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZW9fNElleEEzblpsRjR0YjBVdHEyS1dEdDM2ZktYUEd5VDYzQklySVRfX1laQW5TSmJ0M3lzenFxNGs4NlpVYmR0RE9XWTBhdTJsOXlEYVNNbWFMWS1jczlVWFhBb2cweDE4WWxRQkFzM2VDckd3N0RGU29RNEZlZ1VxcXUwclFXT3Y3cVFxWExkUk1hZ0RBV0toaXJSbW1UbjdwdFdNZkp1S0wycUhBa1FyM2dKTVlxUjFoUDgxUHFsbFU1TFpr?oc=5",
@@ -533,6 +617,20 @@
       "published_at": "2026-11-16T21:53:02+00:00",
       "first_seen_at": "2026-11-22T06:56:34+00:00",
       "summary_excerpt": "Trump says he doesn't take 'any responsibility' for ground stop; blames tech that had 'heart attack' ABC News - Breaking News, Latest News and Videos",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "eb985f7ab6d5ea33f5c7",
+      "title": "Pax Silica protests reach Marcos bailiwick - Inquirer.net",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZm1hY3dCeWFIcWN1ZGV4ZGxxVmQ1TWhnUmpsMXpTSWNJZl84bl8yNmxVc3RpY282WFNRaEczXzBCWm43ZVYxczE5YUl6UmNLTGpzNUVVc0I3S3NidUYweHAybi05LW1JeWdNZWhzOF91dEo2X3NMVl9YY2xxeFZCQVdEWkpmMXhqTVlN0gGQAUFVX3lxTE5pTGtBV25IRU1MSFVhdTc1SFd5c1FDb3JybFN3aEVhb05tb0tFRDE5Z2pPZHRHUkNvYk4weThQbkVPSHYyQ2hJdEhtd2tiY1d1VlFkZllQaXJ3WWhBTXdtc0FkN2YxTDhxQ0ZJVWhfd1hhbW11YjhwV1hRcGlnSHBmcVVuUVM0SmhkZjZqb3B6Ng?oc=5",
+      "publisher": "Inquirer.net",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-16T16:57:00+00:00",
+      "first_seen_at": "2026-11-22T20:45:40+00:00",
+      "summary_excerpt": "Pax Silica protests reach Marcos bailiwick Inquirer.net",
       "review_status": "unverified_discovery"
     },
     {
@@ -998,6 +1096,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "658d5b868143a742ae73",
+      "title": "Chinese firm to partner in offshore wind projects - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcG9ieTk2czVKUUxMRC1PcEdndXVvelR5clRNejdqbzc1bmgzLV9Pc2lVZFJybUtQQ1RIWEZYWktNT0JQYWYtRzRvcUNBRDJXbElHVl84ZnhocHlzX0RzVU8yZFdQNGE4NWZCZ3ZzanpXMl9TUHFJU0pKWTJSNHNZZzl2WkNfOW14SHdHSFJKQzhqVHdlUTRJRnc3cFJNMVl5VnNzZElJVDRaRE5iSkNuVzZ2ZnZtOEZ2SkHSAb8BQVVfeXFMUFBoa2ZqVmZsbEozd0lDMnd1eWFnUDgtRnVkd0xxZmFIRWlMYU1ZeDZhQ3pNQjlsczdtZmlnYUJyZVVrVnphNlJVUUVQMUhVV0RxaEZaRkM3WjFRVGFGaEtOT18wSnFEWVJmd1QxbVZmSTVBVUdmbzFVV1labUpucUxMUU1sY2xWMnVmUWg3UFl5WV9wc0ZYcEduMHlaMktIWlM0MFB5cU9ZcFNRQlVBWDZZTjBfWEw3RHIwa0Z1X0E?oc=5",
+      "publisher": "The Manila Times",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-10T16:13:00+00:00",
+      "first_seen_at": "2026-11-22T20:45:40+00:00",
+      "summary_excerpt": "Chinese firm to partner in offshore wind projects The Manila Times",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "e62c7600b1aee0fbd43e",
       "title": "Department of Energy List of Existing Power Plants as of 30 June 2026 # of Plants Installed Dependable Installed Dependable Inst - Department of Energy Philippines",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYmYyeFpHbnl0ai10RUVQaEk2R1pZdUpGTG9JdXMxQW41SU15WXpydnc1MUNuZi1GRkpRb29LZWdoUFNWOEFRM1JZeWhkM2YzaURydVpyNHpLaXp1VFBTdHNmdFZsU0VaMjV5MXpBYlEwWUVHdkR1bmpHX2NBN0VRYWlUNnZIa1RzcTZXVTV3WDhsZkNQazAyYW1lT0xWcDdXRTRGWjNMSm1YWlk?oc=5",
@@ -1037,6 +1149,20 @@
       "published_at": "2026-11-10T12:55:51+00:00",
       "first_seen_at": "2026-11-22T06:56:34+00:00",
       "summary_excerpt": "Philippines’ First Capiz Battery Storage Project Begins Testing With 22.5 MW Capacity SolarQuarter",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "c2c6adc11ca64d5aa1dc",
+      "title": "3rd Annual Philippines Offshore Wind Day 2026 - reNEWS",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVWVvRHJEc2lWNGhReW1ZMTlKMWNPMEIxZGk0czFNaXpvc0pFX3d1OHVGYnNqNlBXcmRtQzY0b1puY2JLNU9kVGZxSzRYUi1BSS05TU5paHMxbEZralFTelJwbTNXRk9mT1QyTVppMlV3UTBhSUU2ZU9kU2l3Tzd3cA?oc=5",
+      "publisher": "reNEWS",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-10T10:05:18+00:00",
+      "first_seen_at": "2026-11-22T20:45:40+00:00",
+      "summary_excerpt": "3rd Annual Philippines Offshore Wind Day 2026 reNEWS",
       "review_status": "unverified_discovery"
     },
     {
@@ -1695,6 +1821,20 @@
       "published_at": "2026-11-04T08:00:00+00:00",
       "first_seen_at": "2026-11-22T08:17:00+00:00",
       "summary_excerpt": "Indonesia’s Nongsa Digital Park partners with Swiss firm PHOENIQS AG to build sovereign AI capabilities ET CIO SEA",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "edce4caf2725e146d116",
+      "title": "Google unveils $15 bn data centre investment in Malaysia - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTEJjM294TkRxRnNSY2QxdlFZSFVvcTZLdDJRbE1zYnFuMEg4OHJJeGFDV2FxT0w0Q25KMWlzTEs0RjRzS2FZS05Ya3FjbW9sZFkzYnhzREdILXlFYjJMOTFmZlNLdUFRQThQSVdGTDRuU1pOVDlvTU1QVGIzQWFRRGdYdGdOVnJKWlYtRE5VNnZXTkE?oc=5",
+      "publisher": "Yahoo Finance",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-04T08:00:00+00:00",
+      "first_seen_at": "2026-11-22T20:45:40+00:00",
+      "summary_excerpt": "Google unveils $15 bn data centre investment in Malaysia Yahoo Finance",
       "review_status": "unverified_discovery"
     },
     {
@@ -2748,6 +2888,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "2de86b5a86c7e3fa2919",
+      "title": "DICT Digital Workforce Hub – Navigate Your Next Career Move - Department of Information and Communications Technology (DICT)",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1OUWNvSklwQ2czQ0dsdW1feHB4OS0xQktCRlphOVhlVXJOTl9Bd2drRThpUURYdFY4LXJ2VzZSaDdDa09k?oc=5",
+      "publisher": "Department of Information and Communications Technology (DICT)",
+      "source_label": "DICT 数字工程索引",
+      "source_id": "dict_digital",
+      "source_method": "google_news_search",
+      "category_hint": "ict",
+      "published_at": "2026-09-19T13:53:15+00:00",
+      "first_seen_at": "2026-11-22T20:45:40+00:00",
+      "summary_excerpt": "DICT Digital Workforce Hub – Navigate Your Next Career Move Department of Information and Communications Technology (DICT)",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "f45f3bce008b8f6668c4",
       "title": "Solar Wind Energy Management Division | SWEMD DOE - Department of Energy Philippines",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02ZXpNWTdfQmJNMnloZEl6R25TN3RtRGdjODIzYVhWZ0FtcFR6ZjF6YkJxVlVtRlpkT3AzZ2ZTdVljTkdvQjFjbkx3NmJXZw?oc=5",
@@ -3560,6 +3714,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "1f0e85ca10b963e8ec3a",
+      "title": "AWARDED SOLAR PROJECTS as of 30 APRIL 2026 - Department of Energy Philippines",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByeHpHMGdBYUVQYUdya0tSVnV6Y1cweHE2TE5WaHdJVGpxU05ORTVrRlZPZ3djNTZ4Q25hQWczazBVQ0VhdjN1OS1hNVNPUDlDZUZWSG1WZXJDY0FiSzJsN2hIY1pIa0FlWVI2c1dB?oc=5",
+      "publisher": "Department of Energy Philippines",
+      "source_label": "DOE 官方信息索引",
+      "source_id": "doe_energy",
+      "source_method": "google_news_search",
+      "category_hint": "energy",
+      "published_at": "2026-06-06T02:20:32+00:00",
+      "first_seen_at": "2026-11-22T20:45:40+00:00",
+      "summary_excerpt": "AWARDED SOLAR PROJECTS as of 30 APRIL 2026 Department of Energy Philippines",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "2130e7ffda1446f1499c",
       "title": "Acwa, BCDA Advance Philippines' Clean Energy Transition with 500-MW Solar-Plus-Storage Project in New Clark City - Bases Conversion and Development Authority",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNblRLTU51TWtnMUlRTi01SnpnZlp3OWgtaW13eFZWbC12Ulc1OThrcThXdlVTVGwzbDFZcWpxMnpUT1RVTnFCWjBnSzJhejVLOHJIdVFXWWJydHhxNEo4YTNCcnpVRWNpSVhxTHp2OFBqamZSUEwxZTY3OTN0bVJtYmgzby1wQVAzVHZ5X0RWZ2RUM1lKRlpZaTdWbHBfc1cxUWlnMk8zdDBZTWR5a2xNci1aNURKRGRfWVBz?oc=5",
@@ -3585,6 +3753,20 @@
       "published_at": "2026-05-31T13:51:24+00:00",
       "first_seen_at": "2026-11-22T06:56:34+00:00",
       "summary_excerpt": "Bid Bulletin No. 1 for the 12th Public Bidding for CY 2026 1. Supply, Delivery, Installation, Testing and Commissioning of Department of Energy Philippines",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "d1f31288dac7071e977d",
+      "title": "Bid Bulletin No. 32 s. 2026 for the New Clark City (NCC) Information and Communications Technology (ICT) Passive Infrastructure Project - (PPP) Center of the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMWdCcUt2cjdwZnlXYnpYRWNlYzlULXpoclg4c1ZTNUJ0LW9UOWtVeVVpRjZoNlNVajVvS2IySXJVV05MdEdFQl94U0VvN3J6UkM3Y3BCYk1WdVlmNkpwOEFCMkhJWFgySS15TE4xUU5pOWpsaEdBaU9CQ3FEU2xxOTlJeFIwdy0yeTAtT003cWpDaDBvbTkzYjMyQ2Q3b0pFUDQyRE9JOHU3UTJsalhaREVET3JZTzItQmtoMDM1cGw2VDB0OHdPa0tVNTBCSHNoUEp2MktQWnlaVmZzVUR1YWZhQUhpZ1RtcmlKcE5TdkFSa0dOV3VzRXpPNEM?oc=5",
+      "publisher": "(PPP) Center of the Philippines",
+      "source_label": "PPP Center 项目索引",
+      "source_id": "ppp_infrastructure",
+      "source_method": "google_news_search",
+      "category_hint": "infrastructure",
+      "published_at": "2026-05-22T07:00:00+00:00",
+      "first_seen_at": "2026-11-22T20:45:40+00:00",
+      "summary_excerpt": "Bid Bulletin No. 32 s. 2026 for the New Clark City (NCC) Information and Communications Technology (ICT) Passive Infrastructure Project (PPP) Center of the Philippines",
       "review_status": "unverified_discovery"
     },
     {
@@ -3977,20 +4159,6 @@
       "published_at": "2025-11-24T08:00:00+00:00",
       "first_seen_at": "2026-11-22T06:56:34+00:00",
       "summary_excerpt": "1st large-scale waste-to-energy plant to rise in New Clark City Bases Conversion and Development Authority",
-      "review_status": "unverified_discovery"
-    },
-    {
-      "id": "169690a8beeae88a7306",
-      "title": "(a) SUMMARY OF AWARDED PROJECTS AS OF 30 SEPTEMBER 2024_per contract.xlsx - Department of Energy Philippines",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTlI4ZW5XVXM5NDNBakNKdlVyaS0wSC1PMzdyQnJNYVBUTUdydjlKZ0FpNXJmaUdwYkZjdHdUd3BoazdWTnN2TloxYkdiOFM0OWc4cTY3N3ctSjhkXzZsSkpuMVJRb0JDbE0tWTMxZGFGX0RnTXhNVzM4c282UXA1TlpBMTFWdFBvbE1fNVJiTjhaYUps?oc=5",
-      "publisher": "Department of Energy Philippines",
-      "source_label": "DOE 项目及招标索引",
-      "source_id": "doe_procurement",
-      "source_method": "google_news_search",
-      "category_hint": "energy",
-      "published_at": "2025-11-22T11:31:49+00:00",
-      "first_seen_at": "2026-11-22T07:09:32+00:00",
-      "summary_excerpt": "(a) SUMMARY OF AWARDED PROJECTS AS OF 30 SEPTEMBER 2024_per contract.xlsx Department of Energy Philippines",
       "review_status": "unverified_discovery"
     }
   ]
