@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-22T07:58:18+00:00",
+  "generated_at": "2026-11-22T08:17:00+00:00",
   "success_sources": 12,
   "total_sources": 12,
-  "new_leads": 82,
-  "stored_leads": 266,
+  "new_leads": 107,
+  "stored_leads": 285,
   "sources": [
     {
       "source_id": "doe_energy",
       "label": "DOE 官方信息索引",
       "state": "ok",
       "items_seen": 35,
-      "new_items": 2,
-      "checked_at": "2026-11-22T07:58:18+00:00",
+      "new_items": 9,
+      "checked_at": "2026-11-22T08:17:00+00:00",
       "error": "",
-      "elapsed_ms": 397
+      "elapsed_ms": 485
     },
     {
       "source_id": "doe_procurement",
@@ -21,9 +21,9 @@
       "state": "ok",
       "items_seen": 35,
       "new_items": 4,
-      "checked_at": "2026-11-22T07:58:18+00:00",
+      "checked_at": "2026-11-22T08:17:00+00:00",
       "error": "",
-      "elapsed_ms": 351
+      "elapsed_ms": 320
     },
     {
       "source_id": "ppp_infrastructure",
@@ -31,9 +31,9 @@
       "state": "ok",
       "items_seen": 35,
       "new_items": 29,
-      "checked_at": "2026-11-22T07:58:18+00:00",
+      "checked_at": "2026-11-22T08:17:00+00:00",
       "error": "",
-      "elapsed_ms": 379
+      "elapsed_ms": 302
     },
     {
       "source_id": "bcda_clark",
@@ -41,19 +41,19 @@
       "state": "ok",
       "items_seen": 35,
       "new_items": 24,
-      "checked_at": "2026-11-22T07:58:18+00:00",
+      "checked_at": "2026-11-22T08:17:00+00:00",
       "error": "",
-      "elapsed_ms": 431
+      "elapsed_ms": 317
     },
     {
       "source_id": "dict_digital",
       "label": "DICT 数字工程索引",
       "state": "ok",
       "items_seen": 35,
-      "new_items": 21,
-      "checked_at": "2026-11-22T07:58:18+00:00",
+      "new_items": 23,
+      "checked_at": "2026-11-22T08:17:00+00:00",
       "error": "",
-      "elapsed_ms": 448
+      "elapsed_ms": 356
     },
     {
       "source_id": "philgeps_procurement",
@@ -61,19 +61,19 @@
       "state": "ok",
       "items_seen": 35,
       "new_items": 1,
-      "checked_at": "2026-11-22T07:58:18+00:00",
+      "checked_at": "2026-11-22T08:17:00+00:00",
       "error": "",
-      "elapsed_ms": 403
+      "elapsed_ms": 351
     },
     {
       "source_id": "solar_ph",
       "label": "菲律宾光伏项目新闻",
       "state": "ok",
-      "items_seen": 32,
-      "new_items": 0,
-      "checked_at": "2026-11-22T07:58:18+00:00",
+      "items_seen": 31,
+      "new_items": 1,
+      "checked_at": "2026-11-22T08:17:00+00:00",
       "error": "",
-      "elapsed_ms": 388
+      "elapsed_ms": 356
     },
     {
       "source_id": "wind_ph",
@@ -81,19 +81,19 @@
       "state": "ok",
       "items_seen": 33,
       "new_items": 0,
-      "checked_at": "2026-11-22T07:58:18+00:00",
+      "checked_at": "2026-11-22T08:17:00+00:00",
       "error": "",
-      "elapsed_ms": 392
+      "elapsed_ms": 377
     },
     {
       "source_id": "bess_ph",
       "label": "菲律宾储能项目新闻",
       "state": "ok",
       "items_seen": 30,
-      "new_items": 0,
-      "checked_at": "2026-11-22T07:58:18+00:00",
+      "new_items": 2,
+      "checked_at": "2026-11-22T08:17:00+00:00",
       "error": "",
-      "elapsed_ms": 398
+      "elapsed_ms": 394
     },
     {
       "source_id": "ev_ph",
@@ -101,19 +101,19 @@
       "state": "ok",
       "items_seen": 11,
       "new_items": 0,
-      "checked_at": "2026-11-22T07:58:18+00:00",
+      "checked_at": "2026-11-22T08:17:00+00:00",
       "error": "",
-      "elapsed_ms": 327
+      "elapsed_ms": 332
     },
     {
       "source_id": "datacenter_ph",
       "label": "菲律宾数据中心建设新闻",
       "state": "ok",
-      "items_seen": 32,
-      "new_items": 1,
-      "checked_at": "2026-11-22T07:58:18+00:00",
+      "items_seen": 35,
+      "new_items": 14,
+      "checked_at": "2026-11-22T08:17:00+00:00",
       "error": "",
-      "elapsed_ms": 382
+      "elapsed_ms": 566
     },
     {
       "source_id": "elv_fiber_ph",
@@ -121,9 +121,9 @@
       "state": "ok",
       "items_seen": 2,
       "new_items": 0,
-      "checked_at": "2026-11-22T07:58:18+00:00",
+      "checked_at": "2026-11-22T08:17:00+00:00",
       "error": "",
-      "elapsed_ms": 301
+      "elapsed_ms": 276
     }
   ]
 }

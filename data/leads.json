@@ -1,6 +1,6 @@
 {
   "schema_version": "discovery-leads-1.0",
-  "generated_at": "2026-11-22T07:58:18+00:00",
+  "generated_at": "2026-11-22T08:17:00+00:00",
   "source_note": "RSS feeds and Google News site-restricted discovery indexes; not a complete registry or verified projects. Links may be Google News redirect URLs.",
   "leads": [
     {
@@ -606,6 +606,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "c25d74a77b8d7cf3fff8",
+      "title": "Canada pitches data centre development to Philippines - Borneo Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd1Rmb0tBVWp4Sjh2Yk5kODJfUXNzYXpwdlVrbFdDMERuQ1BzMjBxb3dtWmN0QW9Peld0ZUpmZm9VeUEzR09WVFROdFJDaTJlQmV5dm94UnVGSTNVSVlrR1VHVnV3NzVsOHN0SlJkajNSRTBEOS1qTWZCYUVlQWExcThYUXFib1VldE5Qdw?oc=5",
+      "publisher": "Borneo Bulletin",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-15T21:05:33+00:00",
+      "first_seen_at": "2026-11-22T08:17:00+00:00",
+      "summary_excerpt": "Canada pitches data centre development to Philippines Borneo Bulletin",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "ae66ad2faa885ab315b4",
       "title": "NLEX boosts EV charging access - Daily Tribune",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uZWdLQklGY2tINndoWUw1WVltQ3ZLLTNWaW95UlZ5ZzY1WHZtZTNONmozTTRFRURodGFiZ2ZLVEZzWldfblJGdk10NDFLNGttaThTb2sydEc2dDhGdmV6WW5sa2Q0NUFmeDVVTkdQb1A3QQ?oc=5",
@@ -648,6 +662,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "70dadca1615ba68f5e76",
+      "title": "Pax Silica means peace. In the Philippines, it’s a fight - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVlRSNGRHdW9iUnppSTB2SmM2b2laWnJJc1pzX1B1NHJ6eVRkWEpad1U2VV8yZHl6dXIyeHpCXzJaak9NcG9jcEQ5dWJseHdOY2FMcC1XdkdTdmpGSWs2XzVjTXF5WFVYbGNlWE5BYkFNdkFpRVh4Z3lfVHNzemRLN3Y0NEtVX1RaMGRkNXBZLUZreXhFQV94ZzFaaDVJY3FpcE1j0gGjAUFVX3lxTE9PbjZvVVZlTG9raHpqdHB1Q2F3dmthOWxEZHdXRW90XzR0X1ZoWlIwTW9lNG05UVJWYlRaVnozdnpDUVVwMmQ3WmNmajRreUxCTXppWnRpNHNGRkRTdzhDTW40YWo3NVllRnYyTmZpVk16UEJ0aWJCdWpLTkwxal9iNWN2bVZFR0ZDXzNCRzFvZ2lhSnZGTUFGQkdqNW9oZXF5bTg?oc=5",
+      "publisher": "South China Morning Post",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-14T00:00:08+00:00",
+      "first_seen_at": "2026-11-22T08:17:00+00:00",
+      "summary_excerpt": "Pax Silica means peace. In the Philippines, it’s a fight South China Morning Post",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "6f9ea4e9353be1e88d95",
       "title": "OpportunitiesSearch - PhilGEPS",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeHU5ZkZETXhBSGtFQzJsT1ZXZGtkRnEwU1loR3F0MUdWdmRCLXlORVNHSzlUenVSMEMtdzFYd3VOVGxTakswUVhOVHMtUEVocnVPcTdtNjBGb0VueGZaZHlydER1ZFFiRTB3SS1pYzJCRWZEUWNMcF85REtrWXdDVC1idk5yUHE1aDhkeWl1Zmw4ZGQ1Y2lYaDVfV3hXRzYyb00xT1dOU2dJR0ZvSEN1cmJseXJ0NmdiaGI1dUZGaHB4MmRHeWtMWENwYnprUnlhSW50YTd5NA?oc=5",
@@ -659,6 +687,20 @@
       "published_at": "2026-11-13T20:46:53+00:00",
       "first_seen_at": "2026-11-22T06:56:34+00:00",
       "summary_excerpt": "OpportunitiesSearch PhilGEPS",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "a4804b53fc185711939a",
+      "title": "Developing the BESS industry to achieve energy security - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSEI5Y2h2RjhrajhqVVdhSDZ1MFBpOHBmTG5jUnJFTUlSU28tcVoybk84dEMtaXZNQnQtSW9aZ3J6WGFSN1BmZUNCRXljeDQ4aGxQZWJrZFdqcGVJNmthYXI2ZTM1ckVzbEV1ZnFQLVlyTHJ2N0NMR3BXRWg1ZEd4Q1RvY2J5bW5aWTh2aGF5ZGl3V3M4OUVsUWIwMklEd0tpSHIwZ2U5dU5kbkN6Y2ZDN0o2RS1WVTJnYXdlck1vODJ1eklvRjV30gHMAUFVX3lxTFBGemd1WWJ0NGlnbmNhNzJGamtpNy1wc2NIbW9Zd2JxbjBaVlZiSnVfejVNQUMyYXhGSGVKTDZCRWJYb0lLZ0JMcHVWdkdZSS1scHR6SEVsMVZnSjQxb3pTQ3pqbGprdXp0WjdQNmNyR2sxVTJ2VmJrMFFnX1FRNEdQMzhaakN2LS1QbU5LVVJ3a1YweEdfbjRmQzk4UFNkd1dyNWxkWmd6MmRHZUJFWU9wTUpBVi1iamVEWFZ2TWdEd2Z2TVFLaHc3cW9qVg?oc=5",
+      "publisher": "The Manila Times",
+      "source_label": "菲律宾储能项目新闻",
+      "source_id": "bess_ph",
+      "source_method": "google_news_search",
+      "category_hint": "storage",
+      "published_at": "2026-11-13T16:02:00+00:00",
+      "first_seen_at": "2026-11-22T08:17:00+00:00",
+      "summary_excerpt": "Developing the BESS industry to achieve energy security The Manila Times",
       "review_status": "unverified_discovery"
     },
     {
@@ -718,6 +760,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "6441b969361e72aa29a5",
+      "title": "Pax Silica, the Luzon Economic Corridor and the Dilemma of Philippine Economic Security - fulcrum.sg",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLW9RQ3poSWRzbWF6UVVIMC1kWVBjaFVJNzNZZTFXTW5zRDJQS1ZqU2ZvbW1HX2ltREJybmN0NWNkUURWZUdDR0NRbTY2YnhBeG9DQmttUXNtclF6cVFWcV9icVhiSmVQZFpzcmdpaG1sMUhhQ3l6OUZybXp0VHNRdFppSXFQaWU4NTNVZnlKUWlCaWc1RUd4Y2U2bG9TaEg4NFBwT0JnYmh4S1BEMUIwMDk5ZWw0OFBlT3BiR3RmSm5QOWM?oc=5",
+      "publisher": "fulcrum.sg",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-13T08:00:00+00:00",
+      "first_seen_at": "2026-11-22T08:17:00+00:00",
+      "summary_excerpt": "Pax Silica, the Luzon Economic Corridor and the Dilemma of Philippine Economic Security fulcrum.sg",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "f72867c184f2714a9c9f",
       "title": "MTerra Solar turns daytime sunshine into nighttime power - Asian Power",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRGFvbTQ5SGctTnVEYy1rQzJhX25VMk5BU0MwUHBBX3k5SE9jVHhxc2Q4Yi11OFRXaHp5Qk5mZnRKZTVUSWdlWEl3SFFNSDhMaklOZndEMndlZ09nVTJYRGdFdGhiY084UnhPQU00UWl6ZHZ4TGI1LWZTTXZDeDJxNW5sYjdUa3ZFWDRpY1FR?oc=5",
@@ -743,6 +799,20 @@
       "published_at": "2026-11-13T04:00:17+00:00",
       "first_seen_at": "2026-11-22T07:09:32+00:00",
       "summary_excerpt": "Octopus launches $600M Asia clean energy fund TNGlobal",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "bd7d790372d9c347f8b3",
+      "title": "Indonesia’s AI data center boom faces public anger over water and electricity strain - ET CIO SEA",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaS1WWi1vakFMeDdkOTRWU01BU0FnZ0hnbDBDcEZxbW1VZzIwMENnTGd4Z0V2c2tleU4wVzduNjAxT29XRkJVSXR0MHB3WnZHOUxzbkZ3VHVETlZ0Wmd2em90cnZxWkRZX1BxTFM2eXZUMFZfalllNV9OTkVvTUQxdS1kUml5Z050cmgxd3VuYm9tQXE2a2ExWjBDM0dpREtUcHRKMWlvT3hDVnpveFNMd0xsNDJqbktRcW0zVWlRd0ZManlHRnpaNk9EdFE0ZEVON2liUE02SUhJRFhKRnNDQkNB?oc=5",
+      "publisher": "ET CIO SEA",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-12T16:45:01+00:00",
+      "first_seen_at": "2026-11-22T08:17:00+00:00",
+      "summary_excerpt": "Indonesia’s AI data center boom faces public anger over water and electricity strain ET CIO SEA",
       "review_status": "unverified_discovery"
     },
     {
@@ -942,6 +1012,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "f295dedcdc6d7a62cf51",
+      "title": "Alternergy plans P10-B green bond program to fund renewable projects - BusinessWorld Online",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONTZqOGVoYnpPQ1ZrVjRkaTdPeVlDYUhrZmkxQjk5MUc5Sks1a21jTURDbHNHUWNCVUhBdTRfTmhaX1JVWF9DcXExS1plVUNfbnVyXzVjT0ZpdUtldFVKV0VnVUJqci1fcjVqRnFnNHE5UlVITnB3NEFxal9iaGNQeGUxQ1dLZ2k3QlNHbUhOSFJMZUhsNEZHcFRQOGxfMWE2NFU0WUxZcENTb1RpOVhEUDdlaHNZVmNXbURYVHcxSQ?oc=5",
+      "publisher": "BusinessWorld Online",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-10T12:58:32+00:00",
+      "first_seen_at": "2026-11-22T08:17:00+00:00",
+      "summary_excerpt": "Alternergy plans P10-B green bond program to fund renewable projects BusinessWorld Online",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "2b8d1d9e0bb96bd0242b",
       "title": "Philippines’ First Capiz Battery Storage Project Begins Testing With 22.5 MW Capacity - SolarQuarter",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSzctNlZwSjg1cDEyTl96Xy12MEJmTlA2anJFaDNncjEyQWxBQk1fSlV0QjNtQ2xfNlNqZUpRdloweEI1dHhoZ0ZVSFpuTkd0OFIxWEszTndFdkE1ekRqZDBkcEZJSGZzWmZoYTk1VlR3OGxhUmRKZG1McXE4LVc0djlUTWlTcEtOR083ZGdjWDd6S1BiLVBUcWVZUjlmQjdfSWF4Q2h5aDczLXM0dl8yQTBVaEZEWGNuSHFSTzlR?oc=5",
@@ -1093,6 +1177,20 @@
       "published_at": "2026-11-10T08:00:00+00:00",
       "first_seen_at": "2026-11-22T07:09:32+00:00",
       "summary_excerpt": "NIA's solar powered irrigation project benefits farmers in Pangasinan town By Hilda Austria CALASIAO, Pangasinan – Farmer-members of irrigators associations in Alcala, Pangasinan are benefiting from five solar powered irrigation projects of the National Irri Facebook",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "9560cfed34a108239f0e",
+      "title": "Yuchengco-led firm energizes 22.5-MW battery storage facility in Capiz - BusinessWorld Online",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOFVnVmtLY0xkdXJQclBsZ29IRmJIM05uQ2RDN01EMFFrOVFhay1TZHlFdkRnVTdRbEI2Z2xLdy1ERzVXbW5BOHZaUmJoZXRrTHdPdWNCdWtHY2ZpY29FZ0dndGZSdEFlSnFLbFo5dHl3ZWJjT2ZsUE5TSHZNNjlxRnpndEVibU93UVJvT3BGQ01MNDd4N00zRVczREFNcWVSN05IWlNMNllWMkpUakt0bkwtYWJrbmF5VC1jVVNTUFYtQQ?oc=5",
+      "publisher": "BusinessWorld Online",
+      "source_label": "菲律宾储能项目新闻",
+      "source_id": "bess_ph",
+      "source_method": "google_news_search",
+      "category_hint": "storage",
+      "published_at": "2026-11-10T08:00:00+00:00",
+      "first_seen_at": "2026-11-22T08:17:00+00:00",
+      "summary_excerpt": "Yuchengco-led firm energizes 22.5-MW battery storage facility in Capiz BusinessWorld Online",
       "review_status": "unverified_discovery"
     },
     {
@@ -1275,6 +1373,20 @@
       "published_at": "2026-11-09T08:00:00+00:00",
       "first_seen_at": "2026-11-22T06:56:34+00:00",
       "summary_excerpt": "The couple behind the Philippines’ broadband revolution Forbes India",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "8370f1fc4c2a4f36fb11",
+      "title": "Google invests $15 billion into Malaysia as Southeast Asia's data centre infrastructure ramps up - Khaosod English",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZ3BmdHdTWEM2c0FfZE1pcktialpSazlGNWhXYW5VMXI4SXpPVUhDMXR2MUJXMjA5VmNxd3dlNm5qVGNGdjBuOGhOdWJFcDlLeXMyN2NyR2NROGoxWDkxZlNCWWdzVWV1RU0zTU55djAwbm93T0xNYTdPQ1pCUEFUbUd6QVpZZFNpZGJqMWdiTGdzMDdydHc2WFYtQ0x0WnRsMXRBNXpjdXQwVlhFZU5QQUkyRk16am9DRXdhOExTeVFYS3laODNjbUZ1cjV0enNodXFuYk9GdGtnZ9IB3wFBVV95cUxNSmRzYW9YRGZIX2FTVWdBQXBpbGdJUG03bjBDY2M1RXo2RzM0Rk9lR1hlTHRjdVQ3NW5qQTFaT0UzMDJZVmdaVVBjSlpMM3Y3M1BxOWtQTVlvejU3dGNYdzJwOUhlNmRNQjV5SG9EZ1dndzBIdUViTE80cllhcXo0SW5zSFVqOHhZWk80X00zTmF5dEotX2g0TTNTaVVsYmw0bjBNU3JuWl80RG4xWjhxNjdpbEdoUlhqcWFnNjFHUy15aWNZM1pDVXZIVkllRkIwVE5TUkFtX3dDdklFNUd3?oc=5",
+      "publisher": "Khaosod English",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-07T08:00:00+00:00",
+      "first_seen_at": "2026-11-22T08:17:00+00:00",
+      "summary_excerpt": "Google invests $15 billion into Malaysia as Southeast Asia's data centre infrastructure ramps up Khaosod English",
       "review_status": "unverified_discovery"
     },
     {
@@ -1544,6 +1656,48 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "93dfd951b3ad442a15dc",
+      "title": "Google unveils $15b data center investment in Malaysia - The Jakarta Post",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQenRKNVY1cDdkSzM2QVBsZFlRVGFsSDJKbzVsdFEtY3Izc1hVMkJxTC00bUVqdFQwQ1VyNEI1aG1WWDZmbDZ4UUNwcWI0QTc4MzJuZi1OLVYyVjhDU1JoN05Tb05JU2R1YXZERkJMX2NhY2pTUWZIZUx3dWZCeF9ERTZucWN1WE9nMUg0SjZWYnlnY2NpcUZvVlBqcDcwSGNJS25NYlhTSQ?oc=5",
+      "publisher": "The Jakarta Post",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-04T08:00:00+00:00",
+      "first_seen_at": "2026-11-22T08:17:00+00:00",
+      "summary_excerpt": "Google unveils $15b data center investment in Malaysia The Jakarta Post",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "a47d0c88f1080b8c9a76",
+      "title": "Google Unveils $15 Billion Data Center Investment in Malaysia - Jakarta Globe",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU0VKd1ZCcW1pLWdSN1VaZ29uRHA5aXNXSkEyUDhjV004OEZqdEE3N3hMdmt1LVQ0QTFzTzlzeE5jRXAtZE9lTjctRnkySkRqMlpFQy1FSjZnSUEtQ0tBa29JVGNYS1JsS2tQUzVvd3pxNm0xOXhRSm10dmhwN29XbDFVSGViWWJRdlhXRHRpdzlnODQ?oc=5",
+      "publisher": "Jakarta Globe",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-04T08:00:00+00:00",
+      "first_seen_at": "2026-11-22T08:17:00+00:00",
+      "summary_excerpt": "Google Unveils $15 Billion Data Center Investment in Malaysia Jakarta Globe",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "0eabcbff6b69ad777179",
+      "title": "Indonesia’s Nongsa Digital Park partners with Swiss firm PHOENIQS AG to build sovereign AI capabilities - ET CIO SEA",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOT0Q5Q0lVVzU4V0JGQlJGRU1qeTlyY1FWWjNEbUNySmpMSlRZTUZIeUpGV2E4UUt0RWJGZWNmU00tS2UtdlZiM1lrVm1TeXBhR2NsOHcyOG1aem1VZWI4SVE4dnhXWUtEY2ZHNnlCUWt5Q3NkdHJLejZPRDFkUXNpRGtSSlVvWHRSZUJLVURBZXRMUkhHNGhoalNjeDVqSlhncmNoUnlKaUhFRlVzdWd6dUZ1TVBESGRweFBUOF90eXhKSUUtRzE1ZUdSSndVbnZ4UkpXZlJFSHotbHYzVjgxS1dmNmh0SzBnXzg1dnl1ak1CdWk2Qk1YcWFfa2FhbGZId00zbTFmNA?oc=5",
+      "publisher": "ET CIO SEA",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-04T08:00:00+00:00",
+      "first_seen_at": "2026-11-22T08:17:00+00:00",
+      "summary_excerpt": "Indonesia’s Nongsa Digital Park partners with Swiss firm PHOENIQS AG to build sovereign AI capabilities ET CIO SEA",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "fb467dae528a351abf4f",
       "title": "CLA Town Center Mall Commissions Rooftop Solar Project, Secures 860 MWh Annual Clean Energy In Philippines - SolarQuarter",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQS0JELTZYb3RIM2Vfc0Fody1FZWs4b1Jfai1XbU5qQmNScEhJUDd6X2M0QzF0Q1h3RkF3d1dfT1lpYzJWR0lpdXpKd2ZKVXl6UkpHQ2dXeUlUUHRrNWQ1bW1IX2IzZTNzMzJzQ3RNWGUwbXk2UDB2d3dlWmp0aV9UMHRuVktBcG1fOHFrTkNfS3F6enlyWndxTUcxNUNKdzRuckFwbDAzN1hLQVhxMm5vTHpIVmtCbFhEQXlQOEZoQ3NZX2RYd1lhbGNjMkVUOFdpMjNsTXlkLXdPUQ?oc=5",
@@ -1698,6 +1852,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "0a732b6d69dd3578b472",
+      "title": "LG CNS Completes 30MW AI Data Center in Indonesia - THE ELEC, Korea Electronics Industry Media",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hbmRTSHQ5cXpibzlBdDcxOXh5cDJnR05vdXdadzZZdkdHYURQX05JWGFEWDRORUhVNUx6M3dQbklUbEgtTVlMTEJST00tSDdXeHUzOFhoWXVPMkFaZmJrZWJWTzdvOTQ?oc=5",
+      "publisher": "THE ELEC, Korea Electronics Industry Media",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-03T01:18:30+00:00",
+      "first_seen_at": "2026-11-22T08:17:00+00:00",
+      "summary_excerpt": "LG CNS Completes 30MW AI Data Center in Indonesia THE ELEC, Korea Electronics Industry Media",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "8bc0c3bfb95faeb46c28",
       "title": "Anong legal basis? NASECORE questions NGCP battery storage system project in Visayas - Politiko.com.ph",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ2d6RXMzWDZXT0xucmpOTWZBbTBHT3NLbURXZG9lM09ZQ25WOHRzRVVGWkVYU3Y5aVMzYTQ3a2ltSWxSUFpkZHRnaGdCVHFaVUM0TVVuMDB5ZmdwSjk5aUlGN1FpSFo3b2FiTGNwbks1VHVnUC1mWXRmX1NhRjZ1TXduckpMRXZtd3lJWndZY1lvbDVXSVkzVk1ZOWpEUGcyZkJRajFpZjZLN0VY?oc=5",
@@ -1779,6 +1947,20 @@
       "published_at": "2026-11-01T07:00:00+00:00",
       "first_seen_at": "2026-11-22T06:56:34+00:00",
       "summary_excerpt": "Manila billionaire Henry Sy Jr. pitches $11-billion 10,000MW 'powerbank' to cut electricity rates: Will EPIRA let him do it? Gulf News",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "10ee68c179b383417ca4",
+      "title": "LG CNS completes 30 MW AI data centre in Indonesia - Telecompaper",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZHAzX2E5bUsyeEpOQ0k1UlM2UUItU1loQW1kbi1OcmZQRHlmYWRocDA1RFB0MWE2emllMmItMnZNMXNXa1d6Vk5KMHN5cDVXam9OUE83eGtaRXRFa2NvRG01Q2xydmNFNGJJbjRsNjhwT09oV1pHODgxdzY1S1VPdDJGakhPSTh4VXpnNE1sQVRYTG9TbnM1WQ?oc=5",
+      "publisher": "Telecompaper",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-01T07:00:00+00:00",
+      "first_seen_at": "2026-11-22T08:17:00+00:00",
+      "summary_excerpt": "LG CNS completes 30 MW AI data centre in Indonesia Telecompaper",
       "review_status": "unverified_discovery"
     },
     {
@@ -1922,6 +2104,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "9a6f04f7c18365ce9ccd",
+      "title": "US data centers face power gap amid demand surge - ET Datacenters",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWFoyVmhPU0VoS0VYZkdDY0dHZVFqLUpFUkhPT3RZazBGNmdJcmdqQ3VUbjMtc0xhTkNnTl9xcXBsYW56TXQ0U3N5OVBEQjFITzRpbFVuVFJ1eTNXaDByN3FlVWdVOWxHX2tLeG9rekRUUXNoeHN4X19wR05MZERDbDB1eEl6dWc0T0VsanJDY3VJUm1KYnpVU3kybFgzRUVpSklEM2ZiTUJUYVVSMy04WnVDNkxvUTd5cFZxY0ZxU1R6UnpaTlo3dTJTbEtLT1R2dmxCYzlVTk9DQdIB3gFBVV95cUxNLVJ2ZEpmUDBpUVNTazBIUEF6YnhqcDd1SmJocU5JSGpJbFRxQk50cThvdTFXRWJnSGNvNnE1bTNfamlMQnA1blFtVC1VX0NEUEd4X1k4bG5GaGZVLS16WHpqRlpxVTNfRUF3NnN0WWc2ZWlUcW1oZkd4TWg1MnlzcXB2RXFaVWhJLW5GbWx0blEtWnoybXF2Q2RjX010YXBrRVpnNlNScDhZdVB5R3ozdVc1Zk9YMllIbExqdk9WUDZNZHNZcmt3ZzVHaDdGNTMxR21tTFY1VkJKR0o3T1E?oc=5",
+      "publisher": "ET Datacenters",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-10-30T07:00:00+00:00",
+      "first_seen_at": "2026-11-22T08:17:00+00:00",
+      "summary_excerpt": "US data centers face power gap amid demand surge ET Datacenters",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "8099bd85b3b34265bc44",
       "title": "ABS-CBN News. . Thailand’s Cabinet has approved a 72.6-billion-baht energy transition package, including a 50-billion-baht residential rooftop solar program that will allow households to sell surplus electricity to utilities for 2.20 baht per kilowatt-hour.��T",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNDNmcU1ydkkzWGZlaFo3dmJib1c1b3FBQ0FTREVPNW1nNW9ZRV9xQ0VEV2p1cEFzaURrWTk4d2l3UUhxaDZMNWJERmJ5UUdRRU5BenhKdXVHSjNONW9LN1BRR2wxNGw2dm5VZkxVZlpWSXdQWTluTFp1RVJhSHZCTTlqWjVEUUFRVTBETnpMOXNCcndyakFyRkJtZkQzaHlUYVdWR3IwYlZVcmpxUkplNnpDTHV0dUJ3M0luZlA3dGV0cTlSM0JaV3BGeWtVbVNxV0ZjdGdmY0Y?oc=5",
@@ -2017,6 +2213,34 @@
       "published_at": "2026-10-29T07:00:00+00:00",
       "first_seen_at": "2026-11-22T06:56:34+00:00",
       "summary_excerpt": "PINAS Project strengthens space data for agricultural use in Negros Occidental Philippine Space Agency",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "07d502619f9e5ab835f5",
+      "title": "Europe’s towns fight back against the billion-euro AI data centre boom - The European Magazine",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTmpmcjNNUkljS0tWQVZUalFFSGIwX2U1ODlRRGMxYm5fakQ5aDRxd2YwTnNxS2lfVWtIOXBQczJDd0dGcDVnbGFVOG5RMFlmRFBLY2FkckgtZ0IzYXpsTDhOVm9YY0J2X2g3OXFrS2lwYk1ydFp0UVhnOUtKZV9VcFZkVUJrOHJDVUI4eXIzTUItUWlOa2JBRUFManR0RmN3UVZ3aUFPWUxRbXJRY1U0?oc=5",
+      "publisher": "The European Magazine",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-10-29T07:00:00+00:00",
+      "first_seen_at": "2026-11-22T08:17:00+00:00",
+      "summary_excerpt": "Europe’s towns fight back against the billion-euro AI data centre boom The European Magazine",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "326b84df04fe30ac57fc",
+      "title": "Finland launches criminal probe into land clearance for Google data centre - The Star",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcDJ5VVRiSlZtTGl5UlQ1SXpDeHJITEl4T1A0R0xma0x3QXc1NEF3QTFUVjFNUEc1Nmxlb19XUTBjN2FoV3pKQnVLdmZoM2R5aUN5QjB3VkFYVXc5TVZmOE9ycGxrcEw2eUZMcVJYd0l6bG0wVXMzelRVaUI0WDR5ZHFFNlhKZEhqY1BxRzhRalV2NGpQNUkzdzNIN3pyY2pIMlVsZGRiVlF3SlJ3dXNNMGtjUl9FenVCcDZNRDJWZVJmMzdhMU1lRzdEU2hGVUVWQkZXYWdrTEMzTE1NcHc?oc=5",
+      "publisher": "The Star",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-10-29T07:00:00+00:00",
+      "first_seen_at": "2026-11-22T08:17:00+00:00",
+      "summary_excerpt": "Finland launches criminal probe into land clearance for Google data centre The Star",
       "review_status": "unverified_discovery"
     },
     {
@@ -2255,6 +2479,20 @@
       "published_at": "2026-10-26T07:00:00+00:00",
       "first_seen_at": "2026-11-22T06:56:34+00:00",
       "summary_excerpt": "Singapore-linked data center projects face growing rejection in Indonesia Nikkei Asia",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "a4f2d894f2502499a1af",
+      "title": "CTS-DT Data Center: Desert Technologies and CTS Group's 300MW Project in Saudi Arabia Still in Plan - Construction Review",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOU1ZnVS11Tk01dXpHRkFfU256TVN1blUtN3JZWGpDcXNRNF9VMndaVVNaSkR2SmZsTEk2MHN1QVgyOE5hei1CRU5DcFI0YUVYQUptenFFNjY4dXBQYTNTYV94b1hwRXV3NzhNN0ktbkRoM3IyZTNpV1llZXFJazN3Rk93UGp4NFRQdTk1MlJ4QmFwTko0b2pRWUNJbUVXLXU0dG1zRDQ5WkN2VkxteFNjczNIbklPSWFLRFpfcG11R05iN1dhczdPUXZLZGU?oc=5",
+      "publisher": "Construction Review",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-10-26T07:00:00+00:00",
+      "first_seen_at": "2026-11-22T08:17:00+00:00",
+      "summary_excerpt": "CTS-DT Data Center: Desert Technologies and CTS Group's 300MW Project in Saudi Arabia Still in Plan Construction Review",
       "review_status": "unverified_discovery"
     },
     {
@@ -2717,6 +2955,20 @@
       "published_at": "2026-08-25T22:30:20+00:00",
       "first_seen_at": "2026-11-22T07:39:26+00:00",
       "summary_excerpt": "Biomass Energy Management Division | BEMD DOE Department of Energy Philippines",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "a9cd23e81891b2c76c82",
+      "title": "Hydropower and Ocean Energy Management Division | HOEMD DOE - Department of Energy Philippines",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpTzEtcE5UN3VTZ3p5MTREZkZPMWJlbEZIdUlJLVFBc0hONkxvT2NVaHdyaFlReTN6QVRPVlNIWURmT0JfYzFEdF9QeWJzUQ?oc=5",
+      "publisher": "Department of Energy Philippines",
+      "source_label": "DOE 官方信息索引",
+      "source_id": "doe_energy",
+      "source_method": "google_news_search",
+      "category_hint": "energy",
+      "published_at": "2026-08-25T22:30:20+00:00",
+      "first_seen_at": "2026-11-22T08:17:00+00:00",
+      "summary_excerpt": "Hydropower and Ocean Energy Management Division | HOEMD DOE Department of Energy Philippines",
       "review_status": "unverified_discovery"
     },
     {
@@ -3487,6 +3739,20 @@
       "published_at": "2026-02-23T08:00:00+00:00",
       "first_seen_at": "2026-11-22T06:56:34+00:00",
       "summary_excerpt": "P4B WTE facility in New Clark City gains DENR support Bases Conversion and Development Authority",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "fc1979108911a628fe87",
+      "title": "Power Projects Template_working file_as of April 2025_fin_CLEAN.xlsx - Department of Energy Philippines",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JU2FvcHYtWm1XWnlnaTBDSE0wanQxQklmcGlSZEFYaHZNSWZNeWFMcm1HdHd2THZjR2tFWXNHWC03dmpyMWo0ekE0Q0xYS0VLeTkxWGlac29ONlJ3R3VNbjN5ZHNoWC12cUFVSUVHUnVlMXI0d1JoUmVDaFQ2UQ?oc=5",
+      "publisher": "Department of Energy Philippines",
+      "source_label": "DOE 官方信息索引",
+      "source_id": "doe_energy",
+      "source_method": "google_news_search",
+      "category_hint": "energy",
+      "published_at": "2026-02-18T19:08:09+00:00",
+      "first_seen_at": "2026-11-22T08:17:00+00:00",
+      "summary_excerpt": "Power Projects Template_working file_as of April 2025_fin_CLEAN.xlsx Department of Energy Philippines",
       "review_status": "unverified_discovery"
     },
     {
