@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<meta content="#0c1729" name="theme-color"/>
+<meta content="PH Infra Watch · 菲律宾能源与信息化项目地图，按项目类别、投资方、建设方和分包商检索。" name="description"/>
+<title>PH Infra Watch 8.0 | 菲律宾能源与信息化项目地图</title>
+<link crossorigin="" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" rel="stylesheet"/>
+<style>
+:root{--ink:#18263b;--muted:#748197;--line:#e6ebf1;--soft:#f5f7fa;--navy:#0c1729;--teal:#00a889;--teal2:#dbf7ed;--blue:#3170d8;--purple:#8765db;--orange:#ec9550;--radius:14px;--shadow:0 8px 32px rgba(25,42,66,.045)}
+*{box-sizing:border-box}html,body{margin:0;min-height:100%;font-family:Inter,ui-sans-serif,system-ui,-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;font-size:13px;line-height:1.5;color:var(--ink);background:#f0f3f8}button,input,select{font:inherit}button{cursor:pointer}button:disabled{cursor:not-allowed;opacity:.5}button:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid #73bada;outline-offset:2px}a{color:#2871ba;text-decoration:none}a:hover{text-decoration:underline}.shell{min-height:100vh}.shade{display:none}.header{height:75px;background:#0d1829;color:#f4f9ff;display:flex;align-items:center;gap:18px;padding:0 25px;box-shadow:0 3px 22px #1222391c;position:relative;z-index:30}.brand{display:flex;gap:12px;align-items:center;min-width:270px}.mark{width:41px;height:41px;border-radius:12px;background:linear-gradient(135deg,#55d4b1 0%,#2383b2 100%);display:grid;place-items:center;color:#09283c;font-weight:950;font-size:21px;letter-spacing:-3px;box-shadow:0 4px 24px #38c3bd36}.brand b{display:block;font-size:16px;letter-spacing:.1px;font-weight:830}.brand small{display:block;font-size:10px;letter-spacing:2.4px;color:#8ab5c7;font-weight:700}.header-center{flex:1;display:flex;align-items:center;gap:9px;color:#c3d0db;font-size:12px;min-width:0}.header-center i{width:8px;height:8px;border-radius:50%;background:#ffd081;box-shadow:0 0 0 4px #ffd0811d;flex:none}.header-center i.ready{background:#5cddb2;box-shadow:0 0 0 4px #5cddb21d}.header-center span{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.header-right{display:flex;align-items:center;gap:9px}.mini-btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;white-space:nowrap;padding:9px 13px;border:1px solid #38506a;border-radius:9px;background:#182a40;color:#eaf6ff;font-weight:700;font-size:11px;min-height:37px}.mini-btn:hover{background:#253e58}.mini-btn.accent{background:#b0edd4;color:#133f38;border-color:#b0edd4}.input-file{display:none}.mobile-filter{display:none}.show-sm{display:none}
+.metrics{background:#fff;border-bottom:1px solid #e3e9f0;display:flex;align-items:center;gap:0;padding:0 24px;min-height:65px}.stat{display:flex;align-items:center;gap:13px;padding:11px 29px 11px 0;margin-right:29px;border-right:1px solid #ecf0f4}.stat:last-child{border:0}.stat b{font-size:23px;letter-spacing:-.7px;line-height:1.1}.stat small{font-size:11px;color:var(--muted);white-space:nowrap}.status-note{margin-left:auto;color:#7b8aa0;font-size:10px;text-align:right;max-width:410px}.workspace{display:grid;grid-template-columns:296px minmax(360px,1fr) 355px;gap:0;height:calc(100vh - 140px);min-height:610px;max-height:1100px}.filters,.right-pane{background:#fff;min-height:0;overflow-y:auto;scrollbar-width:thin}.filters{border-right:1px solid var(--line);padding:24px 20px 30px}.right-pane{border-left:1px solid var(--line);display:flex;flex-direction:column}.pane-label{font-size:10px;color:#7c8a9a;text-transform:uppercase;font-weight:850;letter-spacing:2px;margin-bottom:7px}.pane-title{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:6px}.pane-title h2{font-size:19px;letter-spacing:-.6px;line-height:1.2;margin:0}.pane-title button{background:transparent;border:0;color:#247fa7;font-weight:750;font-size:11px}.pane-desc{color:#788697;margin:4px 0 20px;font-size:11px;line-height:1.75}.section{padding:17px 0;border-top:1px solid var(--line)}.section h3{margin:0 0 12px;font-size:12px;display:flex;justify-content:space-between;align-items:center}.section h3 span{font-size:10px;color:#98a5b6;font-weight:550}.subhead{font-size:11px;color:#748599;font-weight:800;margin:17px 0 10px;display:flex;align-items:center;gap:7px}.subhead i{width:9px;height:9px;border-radius:3px;background:#23b79b}.subhead.ict i{background:#8070e0}.type-list{display:grid;grid-template-columns:1fr;gap:3px}.checkrow{display:flex;align-items:center;gap:10px;padding:7px 9px;border-radius:8px;cursor:pointer;transition:.13s;user-select:none}.checkrow:hover{background:#f4f9fa}.checkrow input{width:15px;height:15px;accent-color:#00a889;cursor:pointer;margin:0}.checkrow span{flex:1;font-size:11.5px;font-weight:650}.checkrow em{font-size:10px;color:#8795a7;font-style:normal;background:#f3f6f9;min-width:24px;text-align:center;border-radius:5px;padding:1px 5px}.field{display:flex;flex-direction:column;gap:6px;margin:12px 0}.field label{font-size:10px;color:#617186;font-weight:800}.field input,.field select,.search{border:1px solid #e0e8f1;border-radius:9px;min-height:39px;background:#fafcfd;color:#24334a;padding:10px 11px;width:100%;outline:none}.field select{cursor:pointer}.field input:focus,.field select:focus,.search:focus{border-color:#3fae9a;box-shadow:0 0 0 3px #8edecf22}.hint{font-size:10px;color:#9aa4b1;line-height:1.7}.clear-btn{display:flex;align-items:center;justify-content:center;gap:8px;background:#f0f8f6;border:1px solid #d0eee7;color:#107d69;font-weight:850;border-radius:9px;padding:10px;width:100%;margin-top:11px}.clear-btn:hover{background:#e1f5ee}
+.map-pane{position:relative;overflow:hidden;background:#d9e8e8;min-width:0}.map-head{position:absolute;z-index:410;left:20px;top:18px;right:20px;display:flex;align-items:start;justify-content:space-between;gap:12px;pointer-events:none}.map-head >*{pointer-events:auto}.map-hint{max-width:380px;box-shadow:0 8px 30px #1f47641e;background:rgba(255,255,255,.96);border:1px solid #fff;padding:14px 16px;border-radius:12px;backdrop-filter:blur(12px)}.map-hint strong{font-size:15px;display:block}.map-hint small{color:#79899a;font-size:10px;display:block;margin-top:3px}.map-control{border:1px solid #e0e9ef;background:#fff;border-radius:10px;box-shadow:0 9px 30px #12465d16;padding:9px 12px;color:#34485e;font-weight:800;font-size:11px}.map-control:hover{background:#f5faf9}#map{width:100%;height:100%;z-index:1}.map-legend{position:absolute;z-index:410;left:20px;bottom:28px;display:flex;gap:14px;align-items:center;flex-wrap:wrap;background:rgba(255,255,255,.97);padding:11px 14px;border-radius:11px;border:1px solid #e6eff2;box-shadow:0 7px 32px #183b521c;font-size:10px;color:#697a8e;max-width:calc(100% - 40px)}.legend-dot{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px;background:#12a78d}.legend-dot.ict{background:#6f65dc}.legend-dot.unknown{background:#d48d55}.map-error{display:none;position:absolute;z-index:500;top:50%;left:50%;transform:translate(-50%,-50%);background:white;padding:23px;box-shadow:0 12px 40px #0002;border-radius:13px;max-width:80%;text-align:center}#offline-map{display:none;position:absolute;inset:0;background:#deeff2;z-index:2}#offline-map svg{width:100%;height:100%;display:block}#offline-map .svg-map-labels{fill:#6c9ea5;font-size:.29px;font-weight:800;letter-spacing:.035px}#offline-map .svg-map-labels text:nth-child(n+4){fill:#96bac1;font-size:.19px;font-weight:550}#offline-map .offline-credit{position:absolute;right:9px;bottom:3px;color:#7396a1;background:#e9f6f6dd;font-size:9px}.offline-pin{cursor:pointer;transition:stroke-width .12s}.offline-pin:hover{stroke-width:.18}.marker-wrap{background:transparent;border:0}.circle-marker{width:22px;height:22px;display:grid;place-items:center;border-radius:50%;background:#0caa91;border:3px solid #fff;box-shadow:0 0 0 3px #0eaa8d44,0 2px 8px #24465a66}.circle-marker.ict{background:#7d62db;box-shadow:0 0 0 3px #7d62db44,0 2px 8px #24465a66}.circle-marker.group{width:36px;height:36px;color:white;background:#1b476a;border:2px solid white;box-shadow:0 0 0 4px #1b476a55,0 3px 12px #18314866;font-size:12px;font-weight:850;line-height:1}.circle-marker.group.ict{background:#6153c6}.popup-items{display:grid;gap:5px;max-height:285px;overflow:auto;padding:4px 0}.popup-project{display:block;width:100%;border:1px solid #e2e9ee;background:#f7fafc;border-radius:7px;color:#223d56;cursor:pointer;text-align:left;padding:6px 8px;font:600 11px/1.4 Inter,system-ui,sans-serif}.popup-project:hover{background:#e5f4f3}.circle-marker.on{width:29px;height:29px;background:#f6a14e;box-shadow:0 0 0 5px #f6a14e44,0 2px 12px #24465a66}.leaflet-popup-content-wrapper{border-radius:13px;box-shadow:0 10px 45px #1c334b32}.leaflet-popup-content{font:12px/1.6 Inter,system-ui,sans-serif;margin:12px 16px}.popup-title{font-size:14px;font-weight:850;line-height:1.4}.popup-meta{color:#758396;margin-top:5px}.popup-facts{display:grid;grid-template-columns:65px 1fr;gap:5px 9px;margin-top:9px}.popup-facts i{color:#8a9bad;font-style:normal}.popup-facts b{font-weight:750;color:#1d2e45}.popup-pill{display:inline-block;font-size:10px;border-radius:5px;background:#e8f7f3;color:#087765;padding:2px 7px;margin-bottom:7px}.map-empty{position:absolute;z-index:411;left:50%;top:48%;transform:translate(-50%,-50%);min-width:260px;width:min(390px,85%);background:#fff;padding:23px 20px;border-radius:14px;box-shadow:0 16px 45px #16334924;text-align:center}.map-empty b{display:block;font-size:15px}.map-empty p{color:#738498;margin:9px auto 15px;font-size:11px;max-width:290px}.map-empty button{border:0;background:#0d9980;border-radius:8px;padding:9px 15px;color:white;font-weight:800}
+.results-top{padding:24px 19px 0;flex:none}.tabbar{display:grid;grid-template-columns:1fr 1fr;background:#f3f6f9;border-radius:9px;padding:4px;margin:15px 0 0}.tabbar button{border:0;padding:10px 5px;background:transparent;color:#738399;font-size:11px;font-weight:800;border-radius:7px}.tabbar button.active{background:white;color:#177a72;box-shadow:0 2px 9px #28425914}.results-body{padding:12px 17px 30px;overflow:auto;min-height:0;flex:1}.search{margin-bottom:10px;font-size:11px}.result-count{color:#718097;font-size:10px;margin:4px 2px 11px}.project-card{border:1px solid #e4eaf1;border-radius:12px;margin-bottom:10px;padding:15px;background:white;text-align:left;width:100%;display:block;transition:.15s}.project-card:hover{border-color:#7fcdbb;box-shadow:0 7px 22px #21485c11;transform:translateY(-1px)}.project-card.selected{border-color:#20ad90;box-shadow:0 0 0 2px #5ed3b51f}.project-card .type{display:inline-flex;align-items:center;gap:5px;background:#e5f8f0;color:#0c826b;font-size:10px;font-weight:850;border-radius:5px;padding:3px 7px}.project-card .type.ict{background:#f0edff;color:#6956bc}.project-card h3{margin:9px 0 8px;font-size:13px;font-weight:850;line-height:1.45;color:#213149}.project-card p{margin:0;color:#718195;font-size:11px;line-height:1.65}.project-card .scale{border-top:1px solid #edf1f5;padding-top:9px;margin-top:10px;font-size:11px;display:flex;justify-content:space-between;gap:8px;color:#647488}.project-card .scale strong{color:#182f43;font-size:12px}.unmapped{background:#fff5ea;color:#9b682b;border-radius:4px;padding:2px 5px;font-size:9px;font-weight:800;margin-left:5px}.firm-row{padding:13px 8px;border:0;border-bottom:1px solid #edf1f5;background:transparent;display:block;text-align:left;width:100%;cursor:pointer}.firm-row:hover{background:#f3faf9}.firm-row strong{font-size:12px;color:#24334a;display:block}.firm-row small{font-size:10px;color:#8696a9}.firm-pills{display:flex;flex-wrap:wrap;gap:5px;margin:6px 0}.firm-pills span{font-size:9px;padding:3px 6px;border-radius:5px;color:#356d78;background:#e9f5f6}.firm-pills span.role-c{color:#6956ac;background:#efeaff}.firm-pills span.role-s{color:#a57339;background:#fff5e8}.muted-empty{padding:42px 14px;text-align:center;color:#8897a7;font-size:11px}.muted-empty strong{font-size:13px;color:#263951;display:block;margin-bottom:6px}.detail{position:absolute;z-index:710;background:white;border:1px solid #dae9ed;border-radius:14px;box-shadow:0 15px 55px #172f4b22;top:110px;right:380px;width:360px;max-height:calc(100% - 165px);overflow:auto;padding:19px;display:none}.detail.open{display:block}.detail-head{display:flex;justify-content:space-between;gap:10px;align-items:start}.detail-head h2{font-size:16px;line-height:1.45;margin:5px 0 4px}.detail-close{border:0;background:#eff3f7;border-radius:7px;font-size:18px;min-width:29px;height:29px}.detail .caption{color:#7c8fa0;font-size:11px;margin:8px 0 15px}.detail-block{padding:13px 0;border-top:1px solid #e9eef3}.detail-block h4{font-size:11px;color:#778698;margin:0 0 9px}.detail-lines{display:grid;grid-template-columns:85px 1fr;gap:7px 8px;font-size:11px}.detail-lines em{color:#8596a6;font-style:normal}.detail-lines b{font-weight:720}.detail-people{display:flex;flex-wrap:wrap;gap:5px}.detail-people span{background:#f3f7fa;border:1px solid #e6edf4;border-radius:6px;padding:5px 8px;font-size:10px}.source{word-break:break-word;text-decoration:underline;font-size:11px}.badge-demo{background:#fef1d5;color:#895d19;font-size:10px;font-weight:850;padding:4px 7px;border-radius:5px}.bottom-mobile{display:none}
+@media(max-width:1250px){.workspace{grid-template-columns:268px minmax(300px,1fr) 310px}.filters{padding:21px 16px}.detail{right:327px;width:330px}.stat{padding-right:17px;margin-right:17px}}
+@media(max-width:1000px){.header{padding:0 17px}.brand{min-width:220px}.header-center{display:none}.workspace{grid-template-columns:260px minmax(320px,1fr)}.right-pane{position:absolute;top:0;bottom:0;right:0;width:350px;z-index:500;box-shadow:-12px 0 40px #102d3f1a}.map-pane{margin-right:350px}.workspace{display:block;position:relative}.filters{position:absolute;top:0;bottom:0;left:0;width:260px;z-index:400}.map-pane{height:100%;margin-left:260px}.detail{right:366px;top:110px;width:320px}.metrics{padding:0 15px}}
+@media(max-width:780px){body{background:white}.header{height:68px}.brand{min-width:0}.brand b{font-size:13px}.brand small{font-size:8px;letter-spacing:1.5px}.mark{width:36px;height:36px}.header-right{margin-left:auto;gap:5px}.mini-btn{padding:9px;font-size:10px;min-height:33px}.mini-btn .hide-sm{display:none}.show-sm{display:inline}.metrics{height:68px;min-height:68px;overflow-x:auto;padding:0 12px;gap:0}.stat{margin-right:12px;padding-right:12px;gap:7px}.stat b{font-size:19px}.stat small{font-size:9px}.status-note{display:none}.workspace{height:calc(100vh - 194px);min-height:480px}.map-pane{margin:0;height:100%}.filters{display:none;position:absolute;top:0;bottom:0;left:0;width:min(330px,92vw);z-index:840;box-shadow:15px 0 35px #112d4444}.filters.open{display:block}.mobile-filter{display:inline-flex}.right-pane{display:none;position:absolute;top:0;bottom:0;width:100%;z-index:640;box-shadow:none}.right-pane.open{display:flex}.detail{position:absolute;top:auto;right:8px;left:8px;bottom:8px;width:auto;max-height:60%;z-index:750;border-radius:15px}.map-head{top:12px;left:12px;right:12px}.map-hint{padding:10px 12px;max-width:260px}.map-hint strong{font-size:12px}.map-hint small{font-size:9px}.map-control{padding:9px}.map-legend{left:9px;right:9px;bottom:11px;max-width:unset;font-size:9px;padding:8px;gap:10px}.bottom-mobile{display:grid;grid-template-columns:1fr 1fr 1fr;position:fixed;bottom:0;left:0;right:0;height:58px;background:#fff;z-index:900;box-shadow:0 -2px 18px #1c334a14;border-top:1px solid #e4eaf1}.bottom-mobile button{border:0;background:white;color:#6f7e91;font-weight:780;font-size:11px}.bottom-mobile button.active{color:#10947e;background:#edf8f4}.bottom-mobile button span{display:block;font-size:17px}.shade{display:none;position:absolute;inset:0;background:#152a4770;z-index:820}.shade.open{display:block}.right-pane .results-body{padding-bottom:80px}}
+</style>
+<style>
+.date-section{background:#fbfdfd;border-radius:10px;padding:15px 9px;margin:0 -9px;border:1px solid #e2f0ec}.date-pair{display:grid;grid-template-columns:1fr 1fr;gap:8px}.date-pair .field{min-width:0}.date-pair input{font-size:11px;padding:8px 5px}.date-unknown{display:flex;align-items:center;gap:7px;font-size:11px;font-weight:650;margin:11px 0}.date-unknown input{accent-color:#0ca28b}.tabbar{grid-template-columns:1fr 1fr 1fr}.tabbar button{font-size:10.5px}.tabbar button span{background:#e4ebf2;padding:1px 4px;border-radius:4px}.feed-status{font-size:10px;color:#778898;border-radius:7px;background:#f3f7fa;padding:7px 9px;line-height:1.5}.firm-description{font-size:11px;color:#596b7e;line-height:1.65;margin:7px 0}.firm-row p{margin:4px 0;font-size:10px;color:#758394}.firm-detail-project{border:1px solid #e4ebf1;border-radius:8px;background:#f8fafb;display:block;text-align:left;width:100%;padding:9px;margin:5px 0;font-size:11px;color:#1b506f;cursor:pointer}.firm-detail-project:hover{background:#e8f4f1}.lead-card{border:1px solid #e2e9f1;padding:14px 12px;margin-bottom:10px;background:#fff;border-radius:11px}.lead-card h3{font-size:12px;line-height:1.5;margin:7px 0}.lead-card p{font-size:10px;line-height:1.65;color:#7b8998}.lead-card .lead-meta{font-size:10px;color:#73829a}.lead-card .lead-flag{font-size:10px;background:#fff2da;color:#98631c;border-radius:5px;padding:3px 6px;font-weight:750}.lead-card a{font-weight:750;font-size:11px}.source a{word-break:break-all}.detail-intro{font-size:12px;color:#3d5266;line-height:1.7;margin:0}.detail-notice{font-size:10px;color:#8e7551;background:#fff9eb;padding:8px;border-radius:7px}.detail-links{display:flex;flex-direction:column;gap:7px}.detail-links a{font-size:11px;word-break:break-all}.project-date{font-size:10px;color:#648389;border-top:1px solid #edf1f5;margin-top:8px;padding-top:8px}
+</style>
+<style>
+/* V8 enhancements — follow V7.1's existing three-pane language */
+:root{--violet:#7462d6} .v8-section{background:linear-gradient(130deg,#f6fbfa,#fafcff);margin:0 -10px;padding:18px 10px;border:1px solid #e9eff2;border-radius:12px}
+.two-field{display:grid;grid-template-columns:1fr 1fr;gap:10px}.two-field .field{min-width:0;margin-top:7px}.v8-toggle{display:flex;align-items:center;gap:8px;font-size:11px;font-weight:650;color:#405369;margin:12px 0;cursor:pointer}.v8-toggle input{accent-color:#00a889;width:15px;height:15px}
+.v8-firm-role{display:none;align-items:center;gap:8px;margin-bottom:10px}.v8-firm-role.visible{display:flex}.v8-firm-role label,.v8-list-actions label{color:#718297;font-weight:750;font-size:11px;white-space:nowrap}.v8-firm-role select,.v8-list-actions select{border:1px solid #e0e8ee;border-radius:8px;background:#fff;color:#24354b;padding:7px 8px;min-width:0;max-width:100%;font-size:11px}.v8-firm-role select{flex:1}
+.v8-list-actions{display:flex;align-items:center;gap:7px;margin:12px 0 5px}.v8-list-actions select{flex:1}.v8-list-actions button{background:#e9f6f1;border:1px solid #c9e8dd;border-radius:8px;color:#167363;white-space:nowrap;padding:8px;font-weight:800;font-size:11px}
+.v8-tags{display:flex;gap:5px;flex-wrap:wrap;margin-top:9px}.v8-tags span{border:1px solid #e1e8ef;padding:3px 6px;border-radius:5px;color:#607287;font-size:10px;background:#f7f9fc}.v8-role-label{font-size:10px;color:#698399;margin:8px 0 3px}.v8-role-links{font-size:11px;color:#537081;display:flex;gap:8px;flex-wrap:wrap;margin-top:6px}
+#tab-leads[hidden]{display:none!important}.feed-status{display:none!important}.tabbar{grid-template-columns:1fr 1fr!important}.map-hint strong{letter-spacing:.1px}
+@media(max-width:780px){.two-field{grid-template-columns:1fr 1fr}.v8-list-actions{flex-wrap:wrap}}
+</style></head>
+<body>
+<div class="shell">
+<header class="header">
+<div class="brand"><div class="mark">P▰</div><div><b>PH Infra Watch</b><small>PROJECT ATLAS 8.0 · PHILIPPINES</small></div></div>
+<div class="header-center"><i id="live-dot"></i><span id="data-status">正在读取项目数据库…</span></div>
+<div class="header-right">
+<button class="mini-btn mobile-filter" id="mobile-filter-top">☷ <span class="hide-sm">筛选</span></button>
+<button class="mini-btn" id="demo-btn" title="加载明确标记的演示项目">◈ <span class="hide-sm">体验演示</span></button>
+<label class="mini-btn accent" for="upload-file">↥ <span class="hide-sm">导入项目 JSON</span><span class="show-sm">导入</span></label>
+<input accept=".json,application/json" class="input-file" id="upload-file" type="file"/>
+</div>
+</header>
+<div class="metrics">
+<div class="stat"><b id="m-total">0</b><small>匹配项目</small></div>
+<div class="stat"><b id="m-mapped">0</b><small>地区参考定位</small></div>
+<div class="stat"><b id="m-firms">0</b><small> 项目关联主体</small></div>
+<div class="stat"><b id="m-provinces">0</b><small>覆盖地区</small></div>
+<div class="status-note" id="stat-note">位置多数为行政区域参考点，非工地；DOE 阶段属于登记快照。</div>
+</div>
+<div class="workspace">
+<div class="shade" id="shade"></div>
+<aside class="filters" id="filters">
+<div class="pane-label">01 / PROJECT FILTERS</div>
+<div class="pane-title"><h2>项目分类筛选</h2><button id="reset-btn">清空筛选</button></div>
+<p class="pane-desc">工程类别、阶段、规模与企业角色联动筛选；未核实字段明确留空。</p>
+<div class="section">
+<div class="subhead"><i></i>新能源与能源设施</div>
+<div class="type-list" id="energy-types"></div>
+<div class="subhead ict"><i></i>信息化与弱电工程</div>
+<div class="type-list" id="ict-types"></div>
+</div>
+<div class="section v8-section" id="project-advanced">
+<h3>02 / 项目进度与规模 <span>仅根据已录入证据</span></h3>
+<div class="field"><label for="stage-filter">项目阶段（DOE 清单阶段，而非实时施工状态）</label>
+<select id="stage-filter"><option value="">全部阶段</option><option value="pre">DOE 前期开发（Pre-Development）</option><option value="dev">DOE 开发（Development）</option><option value="op">DOE 商业运营（Commercial Operation）</option><option value="other">其他公告 / 阶段未归类</option></select></div>
+<div class="field"><label for="source-kind-filter">资料类型</label>
+<select id="source-kind-filter"><option value="">全部资料</option><option value="doe">DOE 官方合同登记</option><option value="other">企业 / 其他公开资料</option></select></div>
+<div class="two-field">
+<div class="field"><label for="min-capacity">规模下限（数值）</label><input id="min-capacity" min="0" placeholder="如 50" step="0.1" type="number"/></div>
+<div class="field"><label for="max-capacity">规模上限（数值）</label><input id="max-capacity" min="0" placeholder="如 500" step="0.1" type="number"/></div>
+</div>
+<p class="hint">按记录中的 capacity_mw 数值筛选；部分光伏为 MWp、数据中心为 IT MW，不同口径不能直接比较。没有数值的项目不参与规模区间筛选。</p>
+<label class="v8-toggle"><input id="has-builder" type="checkbox"/> 仅显示有明确建设方 / EPC 的项目</label>
+<label class="v8-toggle"><input id="has-source" type="checkbox"/> 仅显示有原始资料链接的项目</label>
+</div>
+
+<div class="section">
+<h3>03 / 企业角色筛选 <span>多条件交集</span></h3>
+<div class="field"><label for="owner-filter">项目所属者 / DOE登记公司</label><select id="owner-filter"><option value="">全部项目主体</option></select></div>
+<div class="field"><label for="investor-filter">投资方 / 开发商</label><select id="investor-filter"><option value="">全部投资方</option></select></div>
+<div class="field"><label for="builder-filter">建设方 / EPC 总包</label><select id="builder-filter"><option value="">全部建设方</option></select></div>
+<div class="field"><label for="sub-filter">分包商</label><select id="sub-filter"><option value="">全部分包商</option></select></div>
+<p class="hint">企业必须有明确的项目角色记录才能进入对应筛选项。未知角色不推断。</p>
+</div>
+<div class="section date-section">
+<h3>04 / 时间筛选 <span>可自定义日期</span></h3>
+<div class="field"><label for="date-basis">时间字段（非常重要）</label>
+<select id="date-basis"><option value="source_date">资料日期 / DOE 清单快照日</option><option value="project_date">项目实际里程碑日期</option></select></div>
+<div class="field"><label for="time-preset">时间范围</label>
+<select id="time-preset"><option value="all">全部日期</option><option value="7">最近 7 天</option><option value="30">最近 30 天</option><option value="90">最近 90 天</option><option value="365">最近 365 天</option><option value="custom">自定义起止日期</option><option value="unknown">仅日期未知</option></select></div>
+<div class="date-pair"><div class="field"><label for="date-start">开始日期</label><input id="date-start" type="date"/></div><div class="field"><label for="date-end">结束日期</label><input id="date-end" type="date"/></div></div>
+<label class="date-unknown"><input id="include-undated" type="checkbox"/> 时间筛选时也显示日期未知项目</label>
+<p class="hint">资料日期仅代表公告/数据清单日期，不等于开工或招标日。项目里程碑日期没有记录时会显示“未知”。</p>
+</div>
+<div class="section">
+<h3>05 / 位置与定位精度 <span>菲律宾</span></h3>
+<div class="field"><label for="region-filter">省份 / 地区</label><select id="region-filter"><option value="">全国</option></select></div>
+<div class="field"><label for="precision-filter">地图定位精度</label>
+<select id="precision-filter"><option value="">全部项目（含省级参考位置）</option>
+<option value="municipal">市镇 / 城市 / 工地级</option>
+<option value="site">仅已记录工地坐标</option>
+<option value="unmapped">仅未定位项目</option></select></div>
+
+<button class="clear-btn" id="clear-all">↺ 重置全部筛选</button>
+</div>
+</aside>
+<main class="map-pane">
+<div id="map"></div>
+<div aria-label="菲律宾轮廓图（自然地理底图，网络地图不可用时显示）" id="offline-map">
+<svg aria-label="菲律宾群岛轮廓" preserveaspectratio="xMidYMid meet" role="img" viewbox="114 4.6 15.2 19.5" xmlns="http://www.w3.org/2000/svg">
+<defs><pattern height="0.35" id="waterdots" patternunits="userSpaceOnUse" width="0.35"><circle cx="0.02" cy="0.03" fill="#84c0cc" opacity=".35" r="0.008"></circle></pattern></defs>
+<rect fill="#ddeef1" height="100%" width="100%" x="114" y="4.6"></rect>
+<rect fill="url(#waterdots)" height="100%" width="100%" x="114" y="4.6"></rect>
+<g opacity=".65" stroke="#aac8d4" stroke-width=".016"><line x1="116" x2="116" y1="4.6" y2="24.1"></line><line x1="118" x2="118" y1="4.6" y2="24.1"></line><line x1="120" x2="120" y1="4.6" y2="24.1"></line><line x1="122" x2="122" y1="4.6" y2="24.1"></line><line x1="124" x2="124" y1="4.6" y2="24.1"></line><line x1="126" x2="126" y1="4.6" y2="24.1"></line><line x1="128" x2="128" y1="4.6" y2="24.1"></line><line x1="114" x2="129.2" y1="6" y2="6"></line><line x1="114" x2="129.2" y1="8" y2="8"></line><line x1="114" x2="129.2" y1="10" y2="10"></line><line x1="114" x2="129.2" y1="12" y2="12"></line><line x1="114" x2="129.2" y1="14" y2="14"></line><line x1="114" x2="129.2" y1="16" y2="16"></line><line x1="114" x2="129.2" y1="18" y2="18"></line><line x1="114" x2="129.2" y1="20" y2="20"></line><line x1="114" x2="129.2" y1="22" y2="22"></line></g>
+<path d="M120.834,14.296 L120.323,13.534 L121.180,13.570 L121.527,13.930 L121.262,14.794 L120.834,14.296 Z M122.586,17.019 L122.837,16.739 L122.947,16.118 L123.499,16.059 L123.338,16.733 L124.078,15.767 L123.982,16.721 L123.623,17.050 L123.310,17.682 L122.996,17.978 L122.380,17.287 L122.586,17.019 Z M126.377,18.585 L126.479,19.250 L126.537,19.811 L126.197,20.726 L125.831,19.706 L125.364,20.214 L125.683,20.950 L125.397,21.419 L124.220,20.839 L123.939,20.115 L124.244,19.639 L123.610,19.166 L123.296,19.581 L122.826,19.543 L122.085,20.101 L121.920,19.808 L122.312,18.965 L122.942,18.684 L123.488,18.307 L123.841,18.760 L124.601,18.486 L124.765,18.040 L125.471,18.013 L125.412,17.240 L126.223,17.714 L126.307,18.218 L126.377,18.585 Z M118.505,17.684 L117.174,18.633 L117.664,17.933 L118.387,17.316 L118.987,16.624 L119.511,15.630 L119.690,16.446 L119.029,16.996 L118.505,17.684 Z M122.337,8.775 L122.174,9.190 L122.516,9.906 L122.252,10.738 L121.663,11.069 L121.505,11.875 L121.729,12.672 L122.259,12.782 L122.701,12.663 L123.950,13.218 L123.855,13.762 L124.181,14.002 L124.077,14.463 L123.298,13.972 L122.929,13.447 L122.671,13.814 L122.035,13.216 L121.126,13.363 L120.629,13.142 L120.679,12.729 L120.992,12.475 L120.693,12.243 L120.564,12.604 L120.070,12.029 L119.921,11.594 L119.884,10.636 L120.286,10.965 L120.390,9.401 L120.716,8.495 L121.321,8.496 L121.938,8.781 L122.246,8.521 L122.337,8.775 Z M122.038,15.584 L121.884,15.108 L122.484,15.418 L123.120,15.416 L123.101,15.834 L122.638,16.259 L122.003,16.559 L121.967,16.094 L122.038,15.584 Z M125.503,14.837 L125.783,15.954 L125.012,15.689 L125.033,16.024 L125.277,16.641 L124.802,16.865 L124.760,16.162 L124.459,16.110 L124.303,15.505 L124.891,15.584 L124.878,15.206 L124.267,14.442 L125.227,14.464 L125.503,14.837 Z" fill="#f9fcf5" stroke="#75a9a0" stroke-linejoin="round" stroke-width=".048"></path>
+<g class="svg-map-labels"><text x="117.1" y="10.9">LUZON</text><text x="119.3" y="17.1">VISAYAS</text><text x="123.4" y="20.2">MINDANAO</text><text x="115.2" y="8">SOUTH CHINA SEA</text><text x="125.3" y="12.5">PHILIPPINE SEA</text></g>
+<g id="offline-pins"></g>
+</svg><div class="offline-credit">Natural Earth geographic outline · 城市级参考标记不是工程现场位置</div></div>
+<div class="map-error" id="map-error">地图组件未能加载。请检查网络连接，地图图层需要访问在线资源。</div>
+<div class="map-head">
+<div class="map-hint"><strong>PH PROJECT ATLAS · 工程分布</strong><small id="map-summary">地图显示城市/省份参考位置，并非精确工地坐标</small></div>
+<button aria-label="显示菲律宾全国地图" class="map-control" id="map-reset">⊕ 全国视图</button>
+</div>
+<div class="map-empty" hidden="" id="map-empty">
+<b id="empty-title">暂无可定位项目</b>
+<p id="empty-desc">请导入含真实经纬度和企业角色的项目数据。</p>
+<button id="empty-demo">用演示项目体验功能</button>
+</div>
+<div class="map-legend"><span><i class="legend-dot"></i>新能源项目</span><span><i class="legend-dot ict"></i>信息化 / 弱电</span><span><i class="legend-dot unknown"></i>选中项目</span><span id="legend-unmapped">未定位 0 个项目（仍列于右侧）</span></div>
+</main>
+<aside class="right-pane" id="right-pane">
+<div class="results-top">
+<div class="pane-label">03 / PROJECTS &amp; COMPANIES</div>
+<div class="pane-title"><h2>项目与参与企业</h2></div>
+<p class="pane-desc" style="margin-bottom:8px">地图项目 × 企业参与关系。只展示已录入的正式项目数据。</p><div class="feed-status" id="feed-status">公开信息采集尚未运行，等待 GitHub Actions 快照。</div>
+<div class="tabbar"><button class="active" data-tab="projects" id="tab-projects">项目列表</button><button data-tab="firms" id="tab-firms">企业名录</button><button data-tab="leads" hidden="hidden" id="tab-leads">公开线索 <span id="lead-count">0</span></button></div>
+</div>
+<div class="results-body"><div class="v8-firm-role" id="firm-role-toolbar">
+<label for="firm-role">企业角色</label>
+<select id="firm-role"><option value="">全部角色</option><option value="项目主体">项目主体</option><option value="投资方">投资方 / 开发商</option><option value="建设方">建设方 / EPC 总包</option><option value="分包商">分包商</option></select>
+</div><input aria-label="搜索项目或企业" class="search" id="search" placeholder="搜索项目 / 企业 / 地区…" type="search"/><div class="v8-list-actions">
+<label for="sort-order">排序</label><select id="sort-order"><option value="source">资料日期（新到旧）</option><option value="capacity">规模数值（大到小）</option><option value="name">项目名称 A-Z</option></select>
+<button id="download-results" title="导出当前筛选结果">↓ 导出 CSV</button>
+</div><div class="result-count" id="result-count">0 个项目</div><div id="result-list"></div></div>
+</aside>
+<section aria-label="项目详细信息" class="detail" id="detail"><div id="detail-content"></div></section>
+</div>
+<div class="bottom-mobile"><button class="active" id="mobile-map"><span>⌖</span>地图</button><button id="mobile-filter"><span>☷</span>分类筛选</button><button id="mobile-firms"><span>▦</span>项目 / 企业</button></div>
+</div>
+<script crossorigin="" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+(()=>{'use strict';
+const $=id=>document.getElementById(id); const TYPES=[
+ {id:'wind',label:'风能 / 陆上及海上风电',g:'energy'},
+ {id:'solar_ground',label:'地面光伏',g:'energy'},
+ {id:'solar_rooftop',label:'屋顶光伏',g:'energy'},
+ {id:'ev_charging',label:'充电桩 / 充电站',g:'energy'},
+ {id:'storage',label:'储能 / BESS',g:'energy'},
+ {id:'energy_other',label:'其他新能源设施',g:'energy'},
+ {id:'smart_datacenter',label:'智慧机房 / 数据中心',g:'ict'},
+ {id:'elv',label:'弱电系统 / ELV',g:'ict'},
+ {id:'structured_cabling',label:'综合布线 / 光纤',g:'ict'},
+ {id:'ict_other',label:'其他信息化工程',g:'ict'}
+];
+const ALIASES={wind:'wind',wind_power:'wind',onshore_wind:'wind',offshore_wind:'wind',风能:'wind',风电:'wind',solar_ground:'solar_ground',ground_solar:'solar_ground',ground_mounted_solar:'solar_ground',solar_farm:'solar_ground',地面光伏:'solar_ground',solar_rooftop:'solar_rooftop',rooftop_solar:'solar_rooftop',屋顶光伏:'solar_rooftop',ev_charging:'ev_charging',ev_charger:'ev_charging',charging:'ev_charging',充电桩:'ev_charging',storage:'storage',bess:'storage',energy_storage:'storage',储能:'storage',smart_datacenter:'smart_datacenter',data_center:'smart_datacenter',datacenter:'smart_datacenter',smart_server_room:'smart_datacenter',智慧机房:'smart_datacenter',elv:'elv',weak_current:'elv',low_voltage:'elv',弱电:'elv',structured_cabling:'structured_cabling',cabling:'structured_cabling',structured_wiring:'structured_cabling',综合布线:'structured_cabling',fiber:'structured_cabling',energy_other:'energy_other',ict_other:'ict_other'};
+const typeInfo=id=>TYPES.find(t=>t.id===id)||{label:'类别待确认',g:'unknown'};
+const txt=v=>v===null||v===undefined?'':String(v).trim();const esc=v=>txt(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const safeURL=v=>{try{const u=new URL(txt(v));return ['https:','http:'].includes(u.protocol)?u.href:''}catch{return ''}};
+const list=v=>{if(Array.isArray(v))return [...new Set(v.flatMap(x=>{if(typeof x==='string')return [txt(x)];if(x&&typeof x==='object')return [txt(x.name||x.company||x.company_name||'')];return []}).filter(Boolean))];if(typeof v==='string')return [...new Set(v.split(/[,;；、|]/).map(txt).filter(Boolean))];if(v&&typeof v==='object')return list(v.name||v.company||'');return []};
+const choose=(...v)=>v.find(x=>x!==undefined&&x!==null&&x!=='')??'';
+const escapeCSV=v=>'"'+txt(v).replace(/"/g,'""')+'"';
+ const parseDate=v=>{const s=txt(v);const match=/^(\d{4})(?:-(\d{2})(?:-(\d{2}))?)?(?:T.*)?$/.exec(s);if(!match)return '';const y=+match[1],m=+(match[2]||1),d=+(match[3]||1);const t=new Date(Date.UTC(y,m-1,d));return t.getUTCFullYear()===y&&t.getUTCMonth()===m-1&&t.getUTCDate()===d?`${match[1]}-${String(m).padStart(2,'0')}-${String(d).padStart(2,'0')}`:''};
+ const calendarDate=()=>{const dt=new Date();return new Date(dt.getFullYear(),dt.getMonth(),dt.getDate())};
+ function inRange(dateText){const preset=$('time-preset').value;if(preset==='all')return true;if(preset==='unknown')return !dateText;if(!dateText)return $('include-undated').checked;let dt=new Date(dateText+'T12:00:00');if(!Number.isFinite(dt.valueOf()))return false;if(preset==='custom'){const from=$('date-start').value,to=$('date-end').value;return(!from||dateText>=from)&&(!to||dateText<=to)}const days=Number(preset);if(!Number.isFinite(days))return true;const start=calendarDate();start.setDate(start.getDate()-days+1);const end=calendarDate();end.setDate(end.getDate()+1);return dt>=start&&dt<end}
+ const projectDate=p=>$('date-basis').value==='project_date'?p.projectDate:p.sourceDate;
+ const humanDate=(raw,normalized)=>{const s=txt(raw);return /^\d{4}-\d{2}$/.test(s)?s+'（仅月级）':/^\d{4}$/.test(s)?s+'（仅年级）':normalized||'未知'};
+ const sourceDateLabel=p=>humanDate(p.raw?.source_date,p.sourceDate);
+ const milestoneDateLabel=p=>humanDate(p.raw?.project_date||p.raw?.milestone_date,p.projectDate);
+ const dateLabel=p=>($('date-basis').value==='project_date'?'里程碑日期：'+milestoneDateLabel(p):'资料日期：'+sourceDateLabel(p));
+ const normalize=(p,i)=>{
+ const type=ALIASES[txt(choose(p.subtype,p.project_type,p.category,p.type)).toLowerCase()]||'unknown';
+ // The category field is explicit metadata only. Never infer a project from a news title.
+ const roles=p.roles||{};
+ const investors=list(choose(roles.investors,p.investors,p.investor,p.developer,p.developers));
+ const builders=list(choose(roles.builders,p.contractors,p.builders,p.main_contractors,p.main_contractor,p.epc_contractor));
+ const subs=list(choose(roles.subcontractors,p.subcontractors,p.subcontractor));
+ const owner=txt(choose(p.owner,p.project_owner,p.owned_by,p.proponent));
+ const lat=Number(choose(p.lat,p.latitude,p.coordinates?.lat,p.location_coordinates?.lat));const lng=Number(choose(p.lng,p.lon,p.longitude,p.coordinates?.lng,p.coordinates?.lon,p.location_coordinates?.lng));
+ const located=Number.isFinite(lat)&&Number.isFinite(lng)&&lat>=4.0&&lat<=22&&lng>=115&&lng<=128&&!(lat===0&&lng===0);
+ const region=txt(choose(p.province,p.region,p.area,p.location?.province,p.location?.region));
+ const city=txt(choose(p.city,p.municipality,p.location?.city));
+ const capacity=choose(p.capacity_mw,p.power_mw,p.scale?.capacity_mw,'');
+ const investment=choose(p.investment_php,p.capex_php,p.scale?.investment_php,'');
+ const scale=txt(choose(p.project_scale,p.scale_description,p.capacity_description,typeof p.scale==='string'?p.scale:''));
+ return {id:txt(choose(p.id,p.project_id,'proj-'+i)),name:txt(choose(p.name,p.project_name,p.title,'未命名项目')),type,g:typeInfo(type).g,owner,investors,builders,subs,region,city,lat,lng,located,precision:txt(choose(p.location_precision,p.geo_precision)),capacity:capacity===''?'':capacity,investment:investment===''?'':investment,scale,status:txt(choose(p.status,p.stage)),source:safeURL(choose(p.source_url,p.source,p.link)),verified:txt(p.verification_status),sourceDate:parseDate(choose(p.source_date,p.published_at,p.publication_date,p.snapshot_date)),projectDate:parseDate(choose(p.project_date,p.milestone_date)),raw:p};
+};
+
+ function v8Stage(p){
+  const doe=txt(p.raw?.record_source).startsWith('Philippines DOE');
+  if(!doe)return 'other';
+  const st=txt(p.status).toLowerCase();
+  if(st.startsWith('pre-development'))return 'pre';
+  if(st.startsWith('commercial operation'))return 'op';
+  if(st.startsWith('development'))return 'dev';
+  return 'other';
+ }
+ function v8Pass(p){
+  const stage=$('stage-filter').value,kind=$('source-kind-filter').value,precision=$('precision-filter').value;
+  if(stage&&v8Stage(p)!==stage)return false;
+  const isDOE=txt(p.raw?.record_source).startsWith('Philippines DOE');
+  if(kind&&((kind==='doe')!==isDOE))return false;
+  if($('has-builder').checked&&!p.builders.length)return false;
+  if($('has-source').checked&&!p.source)return false;
+  if(precision==='unmapped'&&p.located)return false;
+  if(precision==='site'&&(!p.located||!['site','exact'].includes(p.precision.toLowerCase())))return false;
+  if(precision==='municipal'&&(!p.located||!['site','exact','city','municipality'].includes(p.precision.toLowerCase())))return false;
+  const mn=$('min-capacity').value,mx=$('max-capacity').value;
+  if(mn!==''||mx!==''){
+   const c=Number(p.capacity);if(p.capacity===''||!Number.isFinite(c))return false;
+   if(mn!==''&&c<Number(mn))return false;if(mx!==''&&c>Number(mx))return false;
+  }
+  return true;
+ }
+ function v8Sort(arr){let mode=$('sort-order').value;
+  if(mode==='capacity')arr.sort((a,b)=>{let a1=a.capacity===''?-Infinity:Number(a.capacity),b1=b.capacity===''?-Infinity:Number(b.capacity);return b1-a1||a.name.localeCompare(b.name)});
+  else if(mode==='name')arr.sort((a,b)=>a.name.localeCompare(b.name,'en'));
+  else arr.sort((a,b)=>b.sourceDate.localeCompare(a.sourceDate)||a.name.localeCompare(b.name));
+  return arr;
+ }
+ function v8CSV(rows){return rows.map(r=>r.map(escapeCSV).join(',')).join('\r\n')+'\r\n'}
+ function v8Export(){
+  const rows=currentTab==='firms'? [['企业/主体名称','当前角色','关联项目数','简介状态','官网','简介来源'],...companyStats(visibleProjects).filter(x=>!$('firm-role').value||x.roles.has($('firm-role').value)).map(x=>{const i=companyIntro(x.name,[...x.roles],x.projects.size);return [x.name,[...x.roles].join('；'),x.projects.size,i.verified?'来源支持简介':'项目关系说明',i.website,i.source]})] :
+  [['项目编号','项目名称','类别','省份','城市','规模原文','容量字段（原始单位请核对）','项目所属者/登记公司','投资方','建设方/EPC','分包商','阶段原文','DOE阶段信号','资料日期','项目日期','定位精度','来源网址'],...visibleProjects.map(p=>[p.id,p.name,typeInfo(p.type).label,p.region,p.city,p.scale,p.capacity,p.owner,p.investors.join('；'),p.builders.join('；'),p.subs.join('；'),p.status,v8Stage(p),p.sourceDate,p.projectDate,p.precision,p.source])];
+  const blob=new Blob(['\ufeff'+v8CSV(rows)],{type:'text/csv;charset=utf-8'});const url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download=currentTab==='firms'?'PH_Infra_Watch_V8_companies.csv':'PH_Infra_Watch_V8_projects.csv';document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),1500);
+ }
+ function v8UpdatePane(){$('firm-role-toolbar').classList.toggle('visible',currentTab==='firms');$('sort-order').closest('.v8-list-actions').querySelector('label').textContent=currentTab==='firms'?'排序':'排序'; $('sort-order').disabled=currentTab==='firms';}
+
+const demo={schema_version:'DEMO-ONLY',generated_at:'2026-11-21',is_demo:true,projects:[
+ {id:'DEMO-01',name:'【演示】Ilocos 风电项目',subtype:'wind',province:'Ilocos Norte',city:'Laoag（城市参考点）',lat:18.196,lng:120.592,location_precision:'city',capacity_mw:180,owner:'演示业主 · Northern Power',investors:['演示投资方 · Green Capital A'],contractors:['演示建设方 · Wind EPC A'],subcontractors:['演示分包商 · Electrical Works A']},
+ {id:'DEMO-02',name:'【演示】Nueva Ecija 地面光伏项目',subtype:'solar_ground',province:'Nueva Ecija',city:'Cabanatuan（城市参考点）',lat:15.486,lng:120.966,location_precision:'city',capacity_mw:160,owner:'演示业主 · Luzon Solar',investors:['演示投资方 · Green Capital A'],contractors:['演示建设方 · Solar EPC B'],subcontractors:['演示分包商 · Civil Works B']},
+ {id:'DEMO-03',name:'【演示】Cavite 屋顶光伏改造',subtype:'solar_rooftop',province:'Cavite',city:'Dasmariñas（城市参考点）',lat:14.33,lng:120.94,location_precision:'city',capacity_mw:7.8,owner:'演示业主 · Industrial Park Owner',investors:['演示投资方 · Roof PV Fund'],contractors:['演示建设方 · Solar EPC B'],subcontractors:['演示分包商 · Electrical Works A']},
+ {id:'DEMO-04',name:'【演示】Metro Manila EV 快充站',subtype:'ev_charging',province:'Metro Manila',city:'Quezon City（城市参考点）',lat:14.65,lng:121.05,location_precision:'city',project_scale:'40 台快充终端',owner:'演示业主 · EV Network',investors:['演示投资方 · Clean Mobility'],contractors:['演示建设方 · EV EPC'],subcontractors:[]},
+ {id:'DEMO-05',name:'【演示】Batangas 电池储能站',subtype:'storage',province:'Batangas',city:'Batangas City（城市参考点）',lat:13.756,lng:121.058,location_precision:'city',capacity_mw:100,project_scale:'100 MW / 200 MWh',owner:'演示业主 · Grid Flex',investors:['演示投资方 · Grid Storage Fund'],contractors:['演示建设方 · Storage EPC'],subcontractors:['演示分包商 · Electrical Works A']},
+ {id:'DEMO-06',name:'【演示】Pampanga 智慧机房工程',subtype:'smart_datacenter',province:'Pampanga',city:'Angeles（城市参考点）',lat:15.145,lng:120.591,location_precision:'city',project_scale:'2,400 ㎡ 机房工程',owner:'演示业主 · Digital Campus',investors:['演示投资方 · Digital Infrastructure A'],contractors:['演示建设方 · ICT Build A'],subcontractors:['演示分包商 · ELV Integrator']},
+ {id:'DEMO-07',name:'【演示】Cebu 数据中心弱电系统',subtype:'elv',province:'Cebu',city:'Cebu City（城市参考点）',lat:10.3167,lng:123.891,location_precision:'city',project_scale:'门禁、监控与 BMS 接口',owner:'演示业主 · Cebu Digital Hub',investors:['演示投资方 · Digital Infrastructure A'],contractors:['演示建设方 · ICT Build A'],subcontractors:['演示分包商 · ELV Integrator']},
+ {id:'DEMO-08',name:'【演示】Davao 综合布线项目',subtype:'structured_cabling',province:'Davao del Sur',city:'Davao City（城市参考点）',lat:7.073,lng:125.612,location_precision:'city',project_scale:'4,000 个信息点位',owner:'演示业主 · Southern Office Park',investors:[],contractors:['演示建设方 · ICT Build A'],subcontractors:['演示分包商 · Cabling Specialist']},
+ {id:'DEMO-09',name:'【演示】Negros 太阳能微网项目',subtype:'energy_other',province:'Negros Occidental',city:'Bacolod（城市参考点）',lat:10.677,lng:122.95,location_precision:'city',capacity_mw:12,owner:'演示业主 · Island Power',investors:['演示投资方 · Island Fund'],contractors:['演示建设方 · Solar EPC B'],subcontractors:[]},
+ {id:'DEMO-10',name:'【演示】Laguna 光纤骨干网建设',subtype:'ict_other',province:'Laguna',city:'Calamba（城市参考点）',lat:14.21,lng:121.165,location_precision:'city',project_scale:'园区光纤网络 28 km',owner:'演示业主 · Laguna Tech Estate',investors:[],contractors:['演示建设方 · ICT Build A'],subcontractors:['演示分包商 · Cabling Specialist']},
+ {id:'DEMO-11',name:'【演示】待定位屋顶光伏项目',subtype:'solar_rooftop',province:'Iloilo',project_scale:'厂房屋顶 5 MWp',owner:'演示业主 · Visayas Factory',investors:['演示投资方 · Roof PV Fund'],contractors:[],subcontractors:[]}
+]};
+let fallbackMap=false;let projects=[],filtered=[],visibleProjects=[],mode='loading',currentTab='projects',searchTerm='',selectedTypes=new Set(),focusId='',map=null,markers=new Map(),markerGroup=null,filterEnabled=true,sourceName='',companies=new Map(),leads=[],collectionStatus=null;
+function status(s,isReal){$('data-status').textContent=s;$('live-dot').classList.toggle('ready',isReal);$('stat-note').textContent=isReal?'点位仅供地区分布参考，不是项目工地坐标；DOE开发阶段不等于施工或招标。':'演示数据不是实际工程；真实项目需提供来源、规模、所属者与企业角色。'}
+function initMap(){if(!window.L){fallbackMap=true;$('offline-map').style.display='block';return}map=L.map('map',{zoomControl:false,scrollWheelZoom:true,minZoom:5,maxZoom:18}).setView([12.8,122.2],6);L.control.zoom({position:'bottomright'}).addTo(map);L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}).addTo(map);markerGroup=L.layerGroup().addTo(map)}
+function typeRows(){for(let g of ['energy','ict']){$(g+'-types').innerHTML=TYPES.filter(t=>t.g===g).map(t=>'<label class="checkrow"><input type="checkbox" value="'+t.id+'" data-type="1"><span>'+esc(t.label)+'</span><em id="count-'+t.id+'">0</em></label>').join('')}}
+function fillSelect(id,values,defaultLabel){let e=$(id),keep=e.value;e.innerHTML='<option value="">'+defaultLabel+'</option>'+values.sort((a,b)=>a.localeCompare(b,'zh-CN')).map(x=>'<option value="'+esc(x)+'">'+esc(x)+'</option>').join('');e.value=values.includes(keep)?keep:''}
+function firmsFor(p){return [...p.investors,...p.builders,...p.subs,...(p.owner?[p.owner]:[])]}
+function renderFilterOptions(){TYPES.forEach(t=>{$('count-'+t.id).textContent=projects.filter(p=>p.type===t.id).length});fillSelect('owner-filter',[...new Set(projects.map(p=>p.owner).filter(Boolean))],'全部登记公司 / 项目所属者');fillSelect('investor-filter',[...new Set(projects.flatMap(p=>p.investors))],'全部投资方');fillSelect('builder-filter',[...new Set(projects.flatMap(p=>p.builders))],'全部建设方');fillSelect('sub-filter',[...new Set(projects.flatMap(p=>p.subs))],'全部分包商');fillSelect('region-filter',[...new Set(projects.map(p=>p.region).filter(Boolean))],'全国地区')}
+function load(payload,kind,label){if(!payload||!Array.isArray(payload.projects))throw Error('缺少 projects[] 项目数组。不能把新闻 items[] 直接当作项目。');let seen=new Set();projects=payload.projects.filter(x=>x&&typeof x==='object').map(normalize).filter(p=>{if(seen.has(p.id))return false;seen.add(p.id);return true});mode=kind;sourceName=label;selectedTypes.clear();document.querySelectorAll('[data-type]').forEach(el=>el.checked=false);['owner-filter','investor-filter','builder-filter','sub-filter','region-filter'].forEach(id=>$(id).value='');$('search').value='';searchTerm='';$('time-preset').value='all';$('date-basis').value='source_date';$('date-start').value='';$('date-end').value='';$('include-undated').checked=false;['stage-filter','source-kind-filter','precision-filter','min-capacity','max-capacity'].forEach(id=>$(id).value='');$('has-builder').checked=false;$('has-source').checked=false;$('sort-order').value='source';$('firm-role').value='';focusId='';closeDetail();renderFilterOptions();status((kind==='demo'?'演示数据 · ': '项目数据 · ')+projects.length+' 个项目 · '+label,kind!=='demo'&&kind!=='empty');apply();}
+function apply(){const ownerFilter=$('owner-filter').value,inv=$('investor-filter').value,bld=$('builder-filter').value,sub=$('sub-filter').value,region=$('region-filter').value;
+ filtered=projects.filter(p=>(!selectedTypes.size||selectedTypes.has(p.type))&&(!ownerFilter||p.owner===ownerFilter)&&(!inv||p.investors.includes(inv))&&(!bld||p.builders.includes(bld))&&(!sub||p.subs.includes(sub))&&(!region||p.region===region)&&inRange(projectDate(p))&&v8Pass(p));
+ const showing=v8Sort(filtered.filter(p=>!searchTerm||[p.name,p.owner,p.region,p.city,p.type,p.status,...firmsFor(p)].join(' ').toLowerCase().includes(searchTerm)));
+ visibleProjects=showing; $('m-total').textContent=showing.length;$('m-mapped').textContent=showing.filter(p=>p.located).length;$('m-firms').textContent=new Set(showing.flatMap(firmsFor)).size;$('m-provinces').textContent=new Set(showing.map(p=>p.region).filter(Boolean)).size;
+ $('map-summary').textContent=(mode==='demo'?'演示模式 · ':mode==='loading'?'等待数据 · ':'项目数据 · ')+showing.length+' 个匹配 / '+showing.filter(p=>p.located).length+' 条有地区参考坐标（按重合位置聚合）';
+ $('legend-unmapped').textContent='未定位 '+showing.filter(p=>!p.located).length+' 个（仍列在项目列表）';
+ renderMap(showing);renderList(showing);}
+function renderFallback(arr){const layer=$('offline-pins');layer.replaceChildren();markers.clear();for(const group of placeGroups(arr)){const p=group[0];let active=group.some(x=>x.id===focusId);const circ=document.createElementNS('http://www.w3.org/2000/svg','circle');circ.setAttribute('cx',p.lng);circ.setAttribute('cy',27-p.lat);circ.setAttribute('r',active?'.29':group.length>1?'.27':'.17');circ.setAttribute('fill',active?'#ee9246':p.g==='ict'?'#7567d7':p.g==='energy'?'#00a990':'#d48d55');circ.setAttribute('stroke','#fff');circ.setAttribute('stroke-width','.07');circ.setAttribute('class','offline-pin');circ.setAttribute('tabindex','0');circ.setAttribute('aria-label',group.length+'个项目');const tt=document.createElementNS('http://www.w3.org/2000/svg','title');tt.textContent=group.length+'个项目 · '+group.map(x=>x.name).slice(0,5).join('、');circ.appendChild(tt);const open=()=>{focusId=p.id;openDetail(p.id);highlightCards()};circ.addEventListener('click',open);circ.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();open()}});layer.appendChild(circ);if(group.length>1){const label=document.createElementNS('http://www.w3.org/2000/svg','text');label.setAttribute('x',p.lng);label.setAttribute('y',27-p.lat+.08);label.setAttribute('fill','#fff');label.setAttribute('text-anchor','middle');label.setAttribute('font-size','.22');label.setAttribute('font-weight','900');label.setAttribute('pointer-events','none');label.textContent=group.length;layer.appendChild(label)}for(const item of group)markers.set(item.id,circ)}}
+function markerHtml(p,isOn){return '<div class="circle-marker '+(p.g==='ict'?'ict ':'')+(isOn?'on':'')+'"></div>'}
+function popupHtml(p){return '<div><span class="popup-pill">'+esc(typeInfo(p.type).label)+'</span><div class="popup-title">'+esc(p.name)+'</div><div class="popup-meta">'+esc([p.city,p.region].filter(Boolean).join(' · ')||'地区未知')+'</div><div class="popup-facts"><i>项目规模</i><b>'+esc(scaleLabel(p))+'</b><i>'+(p.raw?.record_source?.startsWith('Philippines DOE')?'DOE登记公司':'项目业主')+'</i><b>'+esc(p.owner||'未知 / 待核实')+'</b><i>投资方</i><b>'+esc(p.investors.join('、')||'未知 / 待核实')+'</b></div><div class="popup-meta">定位精度：'+esc(precisionLabel(p.precision))+'</div></div>'}
+function placeGroups(arr){const groups=new Map();for(const p of arr){if(!p.located)continue;const k=p.lat.toFixed(5)+'|'+p.lng.toFixed(5);if(!groups.has(k))groups.set(k,[]);groups.get(k).push(p)}return [...groups.values()]}
+function groupPopup(group){if(group.length===1)return popupHtml(group[0]);const city=group[0].region||'菲律宾';return '<div><div class="popup-title">'+esc(city)+' · '+group.length+' 个项目</div><div class="popup-meta" style="margin-bottom:7px">省份/城市参考位置，并非工程现场；选择项目查看证据</div><div class="popup-items">'+group.map(p=>'<button type="button" class="popup-project" data-pin-id="'+esc(p.id)+'">'+esc(p.name)+' · '+esc(scaleLabel(p))+'<small style="display:block;color:#718398;margin-top:3px">'+esc(roleFor(p))+'</small></button>').join('')+'</div></div>'}
+function renderMap(arr){if(fallbackMap){renderFallback(arr)}else if(map){markerGroup.clearLayers();markers.clear()}let bounds=[];const groups=placeGroups(arr);
+ for(const group of (fallbackMap?[]:groups)){const p=group[0];const cluster=group.length>1;const active=group.some(x=>x.id===focusId);
+  const html=cluster?'<div class="circle-marker group '+(p.g==='ict'?'ict ':'')+(active?'on':'')+'">'+group.length+'</div>':markerHtml(p,active);
+  const icon=L.divIcon({className:'marker-wrap',html,iconSize:[cluster?40:29,cluster?40:29],iconAnchor:[cluster?20:14,cluster?20:14]});
+  const marker=L.marker([p.lat,p.lng],{icon,title:cluster?group.length+'个区域参考项目':p.name}).bindPopup(groupPopup(group),{maxWidth:340});
+  marker.on('click',()=>{if(group.length===1){focusId=p.id;openDetail(p.id);highlightCards()}});
+  marker.on('popupopen',()=>{const el=marker.getPopup()?.getElement();if(el)el.querySelectorAll('[data-pin-id]').forEach(btn=>{btn.onclick=()=>{focusId=btn.dataset.pinId;openDetail(focusId);highlightCards();}})});
+  marker.addTo(markerGroup);for(const item of group)markers.set(item.id,marker);bounds.push([p.lat,p.lng]);}
+ if(focusId&&!arr.some(p=>p.id===focusId))focusId='';
+ const has=arr.some(p=>p.located);const empty=$('map-empty');empty.hidden=has;
+ if(!has){$('empty-title').textContent=arr.length?'筛选结果尚无坐标':'地图上暂无匹配项目';$('empty-desc').textContent=projects.length?'没有可显示的地区参考坐标。可查看右侧未定位项目，或调整筛选条件。':'当前尚未导入真实项目。你可以先体验演示数据，再上传自己的 projects.json。';$('empty-demo').hidden=projects.length>0;}
+ if(map&&bounds.length){map.fitBounds(bounds,{padding:[65,65],maxZoom:9,animate:false})}else if(map){map.setView([12.8,122.2],6,{animate:false})}}
+function scaleLabel(p){let chunks=[];if(p.scale)chunks.push(p.scale);if(p.capacity!==''&&!p.scale.match(/\bMW/i)){const v=Number(p.capacity);chunks.push((Number.isFinite(v)?new Intl.NumberFormat('en-US').format(v):txt(p.capacity))+' MW')};if(p.investment!==''){let n=Number(p.investment);chunks.push('投资 '+(Number.isFinite(n)?'₱'+new Intl.NumberFormat('en-US',{notation:'compact',maximumFractionDigits:1}).format(n):txt(p.investment)))}return chunks.join(' / ')||'规模未披露'}
+function precisionLabel(v){return ({site:'工程现场',exact:'工程现场',city:'城市级参考位置',municipality:'市镇级参考位置',province:'省份参考位置'}[txt(v).toLowerCase()]||'位置精度未注明')}
+function renderList(arr){$('result-count').textContent=arr.length+' 个项目 · '+new Set(arr.flatMap(firmsFor)).size+' 家相关企业';if(currentTab==='firms'){renderFirmList(arr);return}if(currentTab==='leads'){renderLeads();return}
+ $('result-list').innerHTML=arr.length?arr.map(p=>'<button class="project-card '+(p.id===focusId?'selected':'')+'" data-id="'+esc(p.id)+'"><span class="type '+(p.g==='ict'?'ict':'')+'">'+esc(typeInfo(p.type).label)+'</span>'+(p.located?'':'<span class="unmapped">待定位</span>')+'<h3>'+esc(p.name)+'</h3><p>'+esc([p.city,p.region].filter(Boolean).join(' · ')||'地点未提供')+'</p><p>'+(p.raw?.record_source?.startsWith('Philippines DOE')?'DOE登记公司：':'业主：')+esc(p.owner||'未知 / 待核实')+'</p><div class="scale"><span>工程规模</span><strong>'+esc(scaleLabel(p))+'</strong></div><div class="project-date">'+esc(dateLabel(p))+'</div></button>').join(''):'<div class="muted-empty"><strong>没有匹配的项目</strong>检查时间字段、日期范围，或清空部分筛选条件。</div>';
+}
+
+function companyStats(arr){const m=new Map();for(const p of arr){for(const [role,people] of [['项目主体',p.owner?[p.owner]:[]],['投资方',p.investors],['建设方',p.builders],['分包商',p.subs]])for(const n of people){let o=m.get(n)||{name:n,roles:new Set(),projects:new Set()};o.roles.add(role);o.projects.add(p.id);m.set(n,o)}}return [...m.values()].sort((a,b)=>b.projects.size-a.projects.size||a.name.localeCompare(b.name))}
+function companyIntro(name,roles,projectsCount){const d=companies.get(name);if(d?.description)return {text:d.description,verified:true,source:d.description_source_url||'',website:d.website||''};return {text:'根据当前已收录的公开项目资料，该名称作为「'+roles.join('、')+'」关联 '+projectsCount+' 个项目。主营业务、股权结构及具体工程合同范围尚未核实。',verified:false,source:'',website:''}}
+function renderFirmList(arr){const a=companyStats(arr).filter(f=>!$('firm-role').value||f.roles.has($('firm-role').value));$('result-count').textContent=a.length+' 家企业/项目主体（对应 '+arr.length+' 个项目）';$('result-list').innerHTML=a.length?a.map(f=>{const intro=companyIntro(f.name,[...f.roles],f.projects.size);return '<button class="firm-row" data-company="'+esc(f.name)+'"><strong>'+esc(f.name)+'</strong><div class="firm-pills">'+[...f.roles].map(r=>'<span class="'+(r==='建设方'?'role-c':r==='分包商'?'role-s':'')+'">'+r+'</span>').join('')+'</div><p>'+esc(intro.text)+'</p><small>'+(intro.verified?'有官方简介来源 · ':'项目关系说明 · ')+'关联 '+f.projects.size+' 个项目</small></button>'}).join(''):'<div class="muted-empty"><strong>暂无匹配企业</strong>先调整时间/企业筛选，或在 projects.json 添加有证据的企业关系。</div>'}
+function renderLeads(){const q=searchTerm,types=selectedTypes;const results=leads.filter(x=>(!q||[x.title,x.publisher,x.summary_excerpt,x.source_label].join(' ').toLowerCase().includes(q))&&(!types.size||types.has(x.category_hint)||['energy','ict','infrastructure','procurement'].includes(x.category_hint))&&inRange(parseDate(x.published_at)));
+ $('result-count').textContent=results.length+' 条公开线索 · 尚未核验为地图项目';
+ $('result-list').innerHTML=results.length?results.slice(0,500).map(x=>'<article class="lead-card"><span class="lead-flag">待核验线索</span><h3>'+esc(x.title)+'</h3><div class="lead-meta">'+esc(x.source_label||x.publisher||'来源未知')+' · '+esc(parseDate(x.published_at)||'发布日期未知')+'</div>'+(x.summary_excerpt?'<p>'+esc(x.summary_excerpt.slice(0,220))+'</p>':'')+(safeURL(x.url)?'<a href="'+esc(safeURL(x.url))+'" target="_blank" rel="noopener noreferrer">查看公开报道 ↗</a>':'')+'</article>').join(''):'<div class="muted-empty"><strong>暂无匹配的待核验线索</strong>请确认 GitHub Actions 已完成首次采集。新闻线索不会自动转成正式项目。</div>'}
+function openCompany(name){const stats=companyStats(projects).find(x=>x.name===name);if(!stats)return;const directory=companies.get(name);const intro=companyIntro(name,[...stats.roles],stats.projects.size);const src=safeURL(intro.source),site=safeURL(intro.website);const related=projects.filter(p=>stats.projects.has(p.id));const roleFor=p=>[p.owner===name?'项目主体':'',p.investors.includes(name)?'投资方':'',p.builders.includes(name)?'建设方':'',p.subs.includes(name)?'分包商':''].filter(Boolean).join(' / ');
+ $('detail-content').innerHTML='<div class="detail-head"><div><div class="pane-label">COMPANY PROFILE</div><h2>'+esc(name)+'</h2></div><button class="detail-close" id="detail-close" aria-label="关闭详情">×</button></div><div class="caption">企业目录 · '+stats.projects.size+' 项关联项目</div><div class="detail-block"><h4>'+(intro.verified?'企业介绍（有来源）':'项目关系说明（非企业官方简介）')+'</h4><p class="detail-intro">'+esc(intro.text)+'</p></div><div class="detail-block"><h4>项目中出现的角色</h4><div class="firm-pills">'+[...stats.roles].map(r=>'<span>'+esc(r)+'</span>').join('')+'</div><p class="detail-notice">此处为项目关联的角色记录。DOE 登记公司不等于经核验的投资方、EPC 或分包商。</p></div><div class="detail-block"><h4>关联项目 · '+related.length+'</h4>'+related.map(p=>'<button class="firm-detail-project" data-company-project="'+esc(p.id)+'">'+esc(p.name)+' · '+esc(scaleLabel(p))+'<small style="display:block;color:#718398;margin-top:3px">'+esc(roleFor(p))+'</small></button>').join('')+'</div><div class="detail-block"><h4>企业资料来源</h4><div class="detail-links">'+(src?'<a href="'+esc(src)+'" target="_blank" rel="noopener noreferrer">企业介绍依据 ↗</a>':'<span class="hint">尚无已核验的官方企业简介</span>')+(site?'<a href="'+esc(site)+'" target="_blank" rel="noopener noreferrer">企业官方网站 ↗</a>':'')+'</div></div>';
+ $('detail').classList.add('open');$('detail-close').onclick=closeDetail;$('detail-content').querySelectorAll('[data-company-project]').forEach(btn=>btn.onclick=()=>{setTab('projects');focusId=btn.dataset.companyProject;openDetail(focusId)});
+}
+
+function highlightCards(){document.querySelectorAll('[data-id]').forEach(e=>e.classList.toggle('selected',e.dataset.id===focusId))}
+function closeDetail(){$('detail').classList.remove('open');$('detail-content').innerHTML=''}
+function openDetail(id){let p=projects.find(x=>x.id===id);if(!p)return;const per=(vals)=>vals.length?'<div class="detail-people">'+vals.map(v=>'<span>'+esc(v)+'</span>').join('')+'</div>':'<div class="hint">未提供 / 待核实</div>';
+ $('detail-content').innerHTML='<div class="detail-head"><div><div class="pane-label">PROJECT DETAIL</div><h2>'+esc(p.name)+'</h2></div><button class="detail-close" id="detail-close" aria-label="关闭详情">×</button></div><div class="caption">'+esc(typeInfo(p.type).label)+' · '+esc([p.city,p.region].filter(Boolean).join(', ')||'地址未知')+'</div>'+(mode==='demo'?'<span class="badge-demo">演示虚构项目，非真实商业线索</span>':'')+'<div class="detail-block"><h4>工程基本信息</h4><div class="detail-lines"><em>'+(p.raw?.record_source?.startsWith('Philippines DOE')?'DOE登记公司':'项目所属者')+'</em><b>'+esc(p.owner||'未提供')+'</b><em>规模</em><b>'+esc(scaleLabel(p))+'</b><em>项目阶段</em><b>'+esc(p.status||'未提供')+'</b><em>定位精度</em><b>'+esc(p.located?precisionLabel(p.precision):'暂无坐标')+'</b><em>资料日期</em><b>'+esc(sourceDateLabel(p))+'</b><em>项目里程碑日期</em><b>'+esc(milestoneDateLabel(p))+'</b><em>项目编号</em><b>'+esc(p.id)+'</b></div></div><div class="detail-block"><h4>投资方 / 开发商</h4>'+per(p.investors)+'</div><div class="detail-block"><h4>建设方 / EPC / 总包</h4>'+per(p.builders)+'</div><div class="detail-block"><h4>分包商</h4>'+per(p.subs)+'</div><div class="detail-block"><h4>原始证据来源</h4>'+(p.source?'<a class="source" href="'+esc(p.source)+'" target="_blank" rel="noopener noreferrer">查看原始项目资料 ↗</a>':'<div class="hint">未提供来源。企业角色和工程状态不可视为已经核验。</div>')+'</div>';
+ $('detail-content').insertAdjacentHTML('beforeend','<div class="detail-block"><h4>数据来源与位置说明</h4><div class="hint">'+esc(p.raw?.data_note||'未公开的投资方、建设方和分包商不进行推断。')+'<p>'+esc(p.raw?.location_note||'地图仅供地区分布参考，不代表施工坐标。')+'</p></div></div>');
+ $('detail').classList.add('open');$('detail-close').onclick=closeDetail;
+ if(p.located&&markers.has(p.id)){if(map){map.panTo([p.lat,p.lng],{animate:true});markers.get(p.id).openPopup()}else if(fallbackMap){renderFallback(visibleProjects);}}
+ highlightCards();}
+function clearFilters(){selectedTypes.clear();document.querySelectorAll('[data-type]').forEach(el=>el.checked=false);['owner-filter','investor-filter','builder-filter','sub-filter','region-filter'].forEach(id=>$(id).value='');$('time-preset').value='all';$('date-basis').value='source_date';$('date-start').value='';$('date-end').value='';$('include-undated').checked=false;['stage-filter','source-kind-filter','precision-filter','min-capacity','max-capacity'].forEach(id=>$(id).value='');$('has-builder').checked=false;$('has-source').checked=false;$('sort-order').value='source';$('firm-role').value='';$('search').value='';searchTerm='';focusId='';closeDetail();apply()}
+function setTab(t){currentTab=t;for(const tab of ['projects','firms','leads'])$('tab-'+tab).classList.toggle('active',t===tab);v8UpdatePane();apply()}
+
+function mobile(view){const mobile=window.matchMedia('(max-width:780px)').matches;if(!mobile)return;let filters=$('filters'),right=$('right-pane');filters.classList.toggle('open',view==='filter');right.classList.toggle('open',view==='right');$('shade').classList.toggle('open',view==='filter');for(const [id,on] of [['mobile-map',view==='map'],['mobile-filter',view==='filter'],['mobile-firms',view==='right']])$(id).classList.toggle('active',on);if(view==='map'&&map)setTimeout(()=>map.invalidateSize(),60)}
+function bindings(){
+ document.querySelectorAll('[data-type]').forEach(el=>el.onchange=()=>{el.checked?selectedTypes.add(el.value):selectedTypes.delete(el.value);focusId='';closeDetail();apply()});
+ for(const id of ['owner-filter','investor-filter','builder-filter','sub-filter','region-filter','date-basis','time-preset','include-undated','stage-filter','source-kind-filter','precision-filter','has-builder','has-source','sort-order','firm-role'])$(id).onchange=()=>{focusId='';closeDetail();apply()};
+ for(const id of ['date-start','date-end'])$(id).onchange=()=>{$('time-preset').value='custom';focusId='';closeDetail();apply()};
+ for(const id of ['min-capacity','max-capacity'])$(id).oninput=()=>{const lo=Number($('min-capacity').value),hi=Number($('max-capacity').value);if($('min-capacity').value&&$('max-capacity').value&&lo>hi){$('max-capacity').setCustomValidity('上限不能小于下限')}else $('max-capacity').setCustomValidity('');focusId='';closeDetail();apply()};
+ $('download-results').onclick=v8Export;
+ $('search').oninput=e=>{searchTerm=e.target.value.trim().toLowerCase();focusId='';closeDetail();apply()};
+ $('result-list').onclick=e=>{const firm=e.target.closest('[data-company]');if(firm){openCompany(firm.dataset.company);if(window.matchMedia('(max-width:780px)').matches)mobile('map');return}const node=e.target.closest('[data-id]');if(node){focusId=node.dataset.id;openDetail(focusId);if(window.matchMedia('(max-width:780px)').matches)mobile('map')}};
+ $('reset-btn').onclick=clearFilters;$('clear-all').onclick=clearFilters;$('tab-projects').onclick=()=>setTab('projects');$('tab-firms').onclick=()=>setTab('firms');$('tab-leads').onclick=()=>setTab('leads');
+ $('map-reset').onclick=()=>{if(map){map.setView([12.8,122.2],6)}closeDetail()};
+ $('demo-btn').onclick=()=>load(demo,'demo','明确标记的虚构项目');$('empty-demo').onclick=()=>load(demo,'demo','明确标记的虚构项目');
+ $('mobile-filter-top').onclick=()=>mobile('filter');$('mobile-filter').onclick=()=>mobile('filter');$('mobile-map').onclick=()=>mobile('map');$('mobile-firms').onclick=()=>mobile('right');$('shade').onclick=()=>mobile('map');
+ $('upload-file').onchange=async e=>{let file=e.target.files[0];if(!file)return;try{const d=JSON.parse(await file.text());load(d,d.is_demo?'demo':'upload','本地导入 '+file.name);if(window.matchMedia('(max-width:780px)').matches)mobile('map')}catch(err){alert('导入失败：'+err.message+'\n文件必须包含 projects[] 数组。')}e.target.value=''};
+}
+
+async function fetchJSON(url){const ctrl=new AbortController();const timeout=setTimeout(()=>ctrl.abort(),6500);try{const r=await fetch(url,{cache:'no-store',signal:ctrl.signal});if(!r.ok)throw Error('HTTP '+r.status);return await r.json()}finally{clearTimeout(timeout)}}
+function normalizeLead(x){return {id:txt(x.id),title:txt(x.title),url:safeURL(x.url),publisher:txt(x.publisher),source_label:txt(x.source_label),summary_excerpt:txt(x.summary_excerpt),published_at:txt(x.published_at),category_hint:txt(x.category_hint),review_status:txt(x.review_status)}}
+async function loadSupportingData(){
+ try{const d=await fetchJSON('./data/companies.json');if(Array.isArray(d.companies))companies=new Map(d.companies.filter(x=>x&&x.name).map(x=>[x.name,x]))}catch(e){console.info('Company directory not available:',e.message)}
+ try{const d=await fetchJSON('./data/leads.json');if(Array.isArray(d.leads))leads=d.leads.map(normalizeLead).filter(x=>x.title&&x.url)}catch(e){console.info('Public RSS leads not available:',e.message)}
+ try{collectionStatus=await fetchJSON('./data/collection_status.json')}catch(e){console.info('Collection status not available:',e.message)}
+ $('lead-count').textContent=leads.length;
+ if(collectionStatus?.generated_at){$('feed-status').textContent='公开线索：'+leads.length+' 条 · 上次采集 '+collectionStatus.generated_at.slice(0,16).replace('T',' ')+' UTC · '+collectionStatus.success_sources+'/'+collectionStatus.total_sources+' 个来源成功'}
+ else {$('feed-status').textContent='尚未执行首次自动采集；上传 GitHub Actions 工作流后手动运行一次。'}
+ apply();
+}
+async function bootstrap(){initMap();typeRows();bindings();v8UpdatePane();for(const [u,label] of [['./data/projects.json','本仓库 projects.json'],['./data/data.json','兼容旧快照 projects[]']]){try{const d=await fetchJSON(u);if(!Array.isArray(d.projects))continue;load(d,d.is_demo?'demo':'local',label);loadSupportingData();return}catch(e){console.info('Project source unavailable:',u,e.message)}}load({projects:[]},'empty','等待真实项目库');$('data-status').textContent='还没有项目数据库 · 点击“体验演示”查看交互';loadSupportingData()}
+
+bootstrap();
+})();
+</script>
+</body>
+</html>
