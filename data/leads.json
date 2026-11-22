@@ -1,6 +1,6 @@
 {
   "schema_version": "discovery-leads-1.0",
-  "generated_at": "2026-11-22T07:09:32+00:00",
+  "generated_at": "2026-11-22T07:31:33+00:00",
   "source_note": "RSS feeds and Google News site-restricted discovery indexes; not a complete registry or verified projects. Links may be Google News redirect URLs.",
   "leads": [
     {
@@ -1961,6 +1961,20 @@
       "published_at": "2026-10-27T07:00:00+00:00",
       "first_seen_at": "2026-11-22T06:56:34+00:00",
       "summary_excerpt": "Indonesia moves to spread data centre capacity beyond Java ET CIO SEA",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "7b24bd22d17b5776a758",
+      "title": "Italpinas, SunShare explore rooftop solar installations for property projects - BusinessWorld Online",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUTZYdGN5VUZJc3k4eWlndzdlS05UNkZkX3dFWUhvUlB2NVdabWlZRWlCX3Vyd1JfRkFRRktrQnlTTjU3WmUyY295RWpobkdKQXVwOVFIMnl4aXQ1LU1JMVpKSVVaWWhHSDdTTW11M05MNUh3a1Z1Y21yYlJULW14VjFNUS1TTkxXR0hsOVVnZkNxUTVpcXdfTkdzTGY5OG9kdV9BTGxrWWNvc3BhdFZ5TUd4TEJnSjkzM1VzMHh0VEUzUm1OQVR1Qkln?oc=5",
+      "publisher": "BusinessWorld Online",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-10-27T07:00:00+00:00",
+      "first_seen_at": "2026-11-22T07:31:33+00:00",
+      "summary_excerpt": "Italpinas, SunShare explore rooftop solar installations for property projects BusinessWorld Online",
       "review_status": "unverified_discovery"
     },
     {
