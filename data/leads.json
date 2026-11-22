@@ -1,6 +1,6 @@
 {
   "schema_version": "discovery-leads-1.0",
-  "generated_at": "2026-11-22T07:39:26+00:00",
+  "generated_at": "2026-11-22T07:51:13+00:00",
   "source_note": "RSS feeds and Google News site-restricted discovery indexes; not a complete registry or verified projects. Links may be Google News redirect URLs.",
   "leads": [
     {
@@ -1583,6 +1583,20 @@
       "published_at": "2026-11-03T08:00:00+00:00",
       "first_seen_at": "2026-11-22T06:56:34+00:00",
       "summary_excerpt": "Equinix Hertfordshire Data Center Gains £3.9bn Investment as UK Data Centre Race Intensifies Construction Review",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "2cca4e571c24b69ac6a6",
+      "title": "Odisha moves Centre for 290 new EV charging stations - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYVFUSHN2YjNDX1dTMEpiak40azdRR3I4WWtsR2FGX21QV2g5b3BpYU5rZkp0ek53LTNSOFo2ZnZlOWcwaUF6ckgyOURUWllWdVN0ZXZJcklTWlAtM3hSa0o5REhZV1dWMEJET3Z5M0ZCOU11ejRqSk1zdUVaVkdWZ2ZUR2hzSmlJQUdlXzNzQzlzN3YxRGJRMVdpSGhod2lRa3RMOFQxdnZUUTREQ1ZoVHRxc19OcEtDOU5CU0dRUmw2X3JFcXhIQlNEQdIB0AFBVV95cUxQZ0NkbzYxRDJ2LWNRU3plRWxadFZBQzFOWWpkaVd2YkJqNTFIX292UzVTOUREMkdLWkZ2aFFlcThRanZndTQ3eVhYQ0NkaFF0RVpMeFM2VnJQdWxGWFBONjBPMFN2ZHJ4TTA2N294M3d1LVZ3ejNJWlRNMjE1bWhCcXhtTnljby14VUYxbDJaN1dtVVBnYlBRb3h6ZEFhb29IcXBzWUFRYkxQNklzeE9JclpMcXRobWkwRDlUNHdNVFJhVjVzaWxXSU0tdWhoQ1RH?oc=5",
+      "publisher": "The Times of India",
+      "source_label": "菲律宾充电桩新闻",
+      "source_id": "ev_ph",
+      "source_method": "google_news_search",
+      "category_hint": "ev_charging",
+      "published_at": "2026-11-03T08:00:00+00:00",
+      "first_seen_at": "2026-11-22T07:51:13+00:00",
+      "summary_excerpt": "Odisha moves Centre for 290 new EV charging stations The Times of India",
       "review_status": "unverified_discovery"
     },
     {
