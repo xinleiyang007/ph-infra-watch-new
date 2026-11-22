@@ -1,6 +1,6 @@
 {
   "schema_version": "discovery-leads-1.0",
-  "generated_at": "2026-11-22T07:53:08+00:00",
+  "generated_at": "2026-11-22T07:58:18+00:00",
   "source_note": "RSS feeds and Google News site-restricted discovery indexes; not a complete registry or verified projects. Links may be Google News redirect URLs.",
   "leads": [
     {
@@ -323,6 +323,20 @@
       "published_at": "2026-11-19T11:27:13+00:00",
       "first_seen_at": "2026-11-22T06:56:34+00:00",
       "summary_excerpt": "6.5 GW of battery storage seen by 2028 SunStar Publishing Inc.",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "57623a4f3bcb9f1117ae",
+      "title": "Europe’s Biggest AI Data Centers: Where They’re Being Built and How They’ll Be Powered - Channel Insider",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVUF5M2s1Y1FGSHlYd1htcE82dXdnVjdra003U3FhTGN6OTJ3TngyVm9KbWVydlNqRGQ5ejhoemVyOWJyNEZXcXBDZDRuSlJFUUYzSTZncldsei1tRU1zS1JsVkpjcHBDUDhTcU8wcWdZQ0x1UnM3cnB0N3YzRTdKdkNJSVVjbkpQOHlXcHpjR19CQQ?oc=5",
+      "publisher": "Channel Insider",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-19T08:00:00+00:00",
+      "first_seen_at": "2026-11-22T07:58:18+00:00",
+      "summary_excerpt": "Europe’s Biggest AI Data Centers: Where They’re Being Built and How They’ll Be Powered Channel Insider",
       "review_status": "unverified_discovery"
     },
     {
@@ -2482,6 +2496,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "7e2fb1c7990f5ea52bb3",
+      "title": "Navigate Your Next Career Move - Department of Information and Communications Technology (DICT)",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nUHdvYWk0YklNRXVSVjhKeVB0NlhSWjBBY0M4X3BSV2FRdFZDZi1FMkJYdHJxeTN5TUFzUmVTVzlCRm5rX1pPaFFaSjdkalVRTkZKUFJB?oc=5",
+      "publisher": "Department of Information and Communications Technology (DICT)",
+      "source_label": "DICT 数字工程索引",
+      "source_id": "dict_digital",
+      "source_method": "google_news_search",
+      "category_hint": "ict",
+      "published_at": "2026-09-22T06:13:34+00:00",
+      "first_seen_at": "2026-11-22T07:58:18+00:00",
+      "summary_excerpt": "Navigate Your Next Career Move Department of Information and Communications Technology (DICT)",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "f45f3bce008b8f6668c4",
       "title": "Solar Wind Energy Management Division | SWEMD DOE - Department of Energy Philippines",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE02ZXpNWTdfQmJNMnloZEl6R25TN3RtRGdjODIzYVhWZ0FtcFR6ZjF6YkJxVlVtRlpkT3AzZ2ZTdVljTkdvQjFjbkx3NmJXZw?oc=5",
@@ -2605,6 +2633,20 @@
       "published_at": "2026-09-03T07:00:00+00:00",
       "first_seen_at": "2026-11-22T06:56:34+00:00",
       "summary_excerpt": "DOE Advances Net-Metering Implementation to Accelerate Rooftop Solar Adoption Department of Energy Philippines",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "574482ca3cddcd499745",
+      "title": "DICT, KOICA Launch National Cybersecurity Center Project to Strengthen Philippines’ Cyber Crisis Response - Department of Information and Communications Technology (DICT)",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1ZTYzbGljMHY1ZzdlR0hRcUFhVVZobWV0RkIxTVlDNmpmMmQ3WmZ0a1ZDbTltMVRFRVY1TWVqZXBiU0lfdzdFU3Mzb0RMemZKdXBqag?oc=5",
+      "publisher": "Department of Information and Communications Technology (DICT)",
+      "source_label": "DICT 数字工程索引",
+      "source_id": "dict_digital",
+      "source_method": "google_news_search",
+      "category_hint": "ict",
+      "published_at": "2026-09-03T07:00:00+00:00",
+      "first_seen_at": "2026-11-22T07:58:18+00:00",
+      "summary_excerpt": "DICT, KOICA Launch National Cybersecurity Center Project to Strengthen Philippines’ Cyber Crisis Response Department of Information and Communications Technology (DICT)",
       "review_status": "unverified_discovery"
     },
     {
