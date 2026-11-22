@@ -1,6 +1,6 @@
 {
   "schema_version": "discovery-leads-1.0",
-  "generated_at": "2026-11-22T07:31:33+00:00",
+  "generated_at": "2026-11-22T07:39:26+00:00",
   "source_note": "RSS feeds and Google News site-restricted discovery indexes; not a complete registry or verified projects. Links may be Google News redirect URLs.",
   "leads": [
     {
@@ -536,6 +536,34 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "63317c01c6ada73b9a01",
+      "title": "Peak Energy Eyes Korea Green Projects as War Upends Fuel Flows - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV2ZZdGRPUmY2RWlJQzY0RXB2ZktZZDFTT0EwVm9sSFB2ZnJiaGRLWFhIUHIzMVM0ZVlyeFJscmlFT2ZmRk02ckViT291SkY1NVhvaVdIMDZONG1Za29PM2NaN1NkVVJDS3l2ZVE3ZFh0VzNoTUdQLVlJWGZBMGlsd3p5aG1BSUxIR0F1RjgtcnB0elk0MzQwLVh6Y094YnJqQ1lyWmZPbzcwNDlVRW5KdllBTQ?oc=5",
+      "publisher": "Bloomberg.com",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-16T00:00:00+00:00",
+      "first_seen_at": "2026-11-22T07:39:26+00:00",
+      "summary_excerpt": "Peak Energy Eyes Korea Green Projects as War Upends Fuel Flows Bloomberg.com",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "ae66ad2faa885ab315b4",
+      "title": "NLEX boosts EV charging access - Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uZWdLQklGY2tINndoWUw1WVltQ3ZLLTNWaW95UlZ5ZzY1WHZtZTNONmozTTRFRURodGFiZ2ZLVEZzWldfblJGdk10NDFLNGttaThTb2sydEc2dDhGdmV6WW5sa2Q0NUFmeDVVTkdQb1A3QQ?oc=5",
+      "publisher": "Daily Tribune",
+      "source_label": "菲律宾充电桩新闻",
+      "source_id": "ev_ph",
+      "source_method": "google_news_search",
+      "category_hint": "ev_charging",
+      "published_at": "2026-11-15T18:07:53+00:00",
+      "first_seen_at": "2026-11-22T07:39:26+00:00",
+      "summary_excerpt": "NLEX boosts EV charging access Daily Tribune",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "c52f4fa227dcc6f2e982",
       "title": "Southeast Asia data centres face chip scrutiny after Nvidia investigation - ET CIO SEA",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaENod3RCRWdOdUZRZ0VDNlZoVl9oUUhQZkdBTEo5RGRGWENUVzdxWTlRLUUtZlpGWk9wVUVueGN4MTBTaURLQThwbWI4ZGJ2ZW1tYjhOaVQ3bEFuM3dsc09SRllaSTM3QlpaTHJfVDk2RTlPTVV5UVpYa1BNZkZEOURrMTd3T2pMXzJ0VDZCUWJacERlRnd6ZnY5WjcwXzFnbWM4RXF5cDhkWmx6V3A3WmtLbkxjNElrZm00akhwRU1ZUkEwWDdzbmFuR2YyVmxfNHZzMFdwNUF5cENR?oc=5",
@@ -617,6 +645,20 @@
       "published_at": "2026-11-13T08:00:00+00:00",
       "first_seen_at": "2026-11-22T06:56:34+00:00",
       "summary_excerpt": "LGUs Push For Faster EV Charger Permits, Share Best Practices At ASEAN EV Conference Journal Online",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "d9fa76beb4d12fe2ef65",
+      "title": "DOE Drives Stronger RPS Implementation Through Nationwide Stakeholder Engagement - Department of Energy Philippines",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVk1uaVJHTVBmbWtFclBERjVoYzlidENnT19nZHRZLXlSbERuZ1ZJVEwwQ0M5UGRjVnZ5Z0xJak95dTBOQ2k5R3hYQ0h1WHJwSDlTQ2FSdnUtSHZUNHpaMktvTmQyODMxNEFfM1dzWTFBTmpBUjZ1Y2N4M1JhMzVkdU5sUE91eUJmblRNajVSdk1OQkNxcnJvcDU0YlRJckNv?oc=5",
+      "publisher": "Department of Energy Philippines",
+      "source_label": "DOE 官方信息索引",
+      "source_id": "doe_energy",
+      "source_method": "google_news_search",
+      "category_hint": "energy",
+      "published_at": "2026-11-13T08:00:00+00:00",
+      "first_seen_at": "2026-11-22T07:39:26+00:00",
+      "summary_excerpt": "DOE Drives Stronger RPS Implementation Through Nationwide Stakeholder Engagement Department of Energy Philippines",
       "review_status": "unverified_discovery"
     },
     {
@@ -802,6 +844,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "e62c7600b1aee0fbd43e",
+      "title": "Department of Energy List of Existing Power Plants as of 30 June 2026 # of Plants Installed Dependable Installed Dependable Inst - Department of Energy Philippines",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYmYyeFpHbnl0ai10RUVQaEk2R1pZdUpGTG9JdXMxQW41SU15WXpydnc1MUNuZi1GRkpRb29LZWdoUFNWOEFRM1JZeWhkM2YzaURydVpyNHpLaXp1VFBTdHNmdFZsU0VaMjV5MXpBYlEwWUVHdkR1bmpHX2NBN0VRYWlUNnZIa1RzcTZXVTV3WDhsZkNQazAyYW1lT0xWcDdXRTRGWjNMSm1YWlk?oc=5",
+      "publisher": "Department of Energy Philippines",
+      "source_label": "DOE 官方信息索引",
+      "source_id": "doe_energy",
+      "source_method": "google_news_search",
+      "category_hint": "energy",
+      "published_at": "2026-11-10T15:18:01+00:00",
+      "first_seen_at": "2026-11-22T07:39:26+00:00",
+      "summary_excerpt": "Department of Energy List of Existing Power Plants as of 30 June 2026 # of Plants Installed Dependable Installed Dependable Inst Department of Energy Philippines",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "2b8d1d9e0bb96bd0242b",
       "title": "Philippines’ First Capiz Battery Storage Project Begins Testing With 22.5 MW Capacity - SolarQuarter",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSzctNlZwSjg1cDEyTl96Xy12MEJmTlA2anJFaDNncjEyQWxBQk1fSlV0QjNtQ2xfNlNqZUpRdloweEI1dHhoZ0ZVSFpuTkd0OFIxWEszTndFdkE1ekRqZDBkcEZJSGZzWmZoYTk1VlR3OGxhUmRKZG1McXE4LVc0djlUTWlTcEtOR083ZGdjWDd6S1BiLVBUcWVZUjlmQjdfSWF4Q2h5aDczLXM0dl8yQTBVaEZEWGNuSHFSTzlR?oc=5",
@@ -981,6 +1037,20 @@
       "published_at": "2026-11-09T10:02:18+00:00",
       "first_seen_at": "2026-11-22T06:56:34+00:00",
       "summary_excerpt": "Solar Industry Grows Rapidly with Imported Technology The Manila Times",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "5c1c1c03008af2783de9",
+      "title": "GEA-WTE Advisory No. 4 - Department of Energy Philippines",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOS2UyNG9uTlYxNWZYaTljdzlDSmF4NkV5UjlYYmFCUjFzV0thTFdVdTRSSE51WnVxTUpENldKbExtV0czUUdMdHFwZDFjU0RSZHRkUUZTb0ZyYnV1dmhvQWJnSUVFek5uWkdOenZDOXBWWlJQ?oc=5",
+      "publisher": "Department of Energy Philippines",
+      "source_label": "DOE 官方信息索引",
+      "source_id": "doe_energy",
+      "source_method": "google_news_search",
+      "category_hint": "energy",
+      "published_at": "2026-11-09T08:59:48+00:00",
+      "first_seen_at": "2026-11-22T07:39:26+00:00",
+      "summary_excerpt": "GEA-WTE Advisory No. 4 Department of Energy Philippines",
       "review_status": "unverified_discovery"
     },
     {
@@ -1359,6 +1429,20 @@
       "published_at": "2026-11-04T08:00:00+00:00",
       "first_seen_at": "2026-11-22T07:09:32+00:00",
       "summary_excerpt": "Why the Philippines’ ‘solar surge’ leaves many Filipinos behind | NEWS Reccessary",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "3a7c9802fa9e1510e832",
+      "title": "Letter of Circulation Calling for Public Comments - Department of Energy Philippines",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOHM5QjN0a0RHcnNtRjhwQmRCN29WTnNhd3FkWlhrdVNya2hsVjJRekcweG9GUjVPYmt5aEFhWEJoZURacHJWOUtXMUtEVlA2YzRWRk9SQkw3NVUxdHVfelNiSkFkNEE0a3htdGhyRHJfbjRWOUZneXoyT1p6VVVUZEJDZXExa0FGT0FRM0ItblFnV3VjX2hvTVIyYzlOQzZjZXhhU2V2SDZsYW9qeWZ4OEhoNFY3ek9OQTgzT2Itajg0RkhDMjZJMWRHZlB1aGZ3MldRejFUampGU0lqcl9uU1E0Nm9IQ0Q2?oc=5",
+      "publisher": "Department of Energy Philippines",
+      "source_label": "DOE 官方信息索引",
+      "source_id": "doe_energy",
+      "source_method": "google_news_search",
+      "category_hint": "energy",
+      "published_at": "2026-11-04T08:00:00+00:00",
+      "first_seen_at": "2026-11-22T07:39:26+00:00",
+      "summary_excerpt": "Letter of Circulation Calling for Public Comments Department of Energy Philippines",
       "review_status": "unverified_discovery"
     },
     {
@@ -2202,6 +2286,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "5369b5d6713986ab4f50",
+      "title": "DOE Advances WTE Cooperation at 3rd Japan–Philippines JCC meeting - Department of Energy Philippines",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOVZ3dmkzRks2ZkFhbTk5MnIwTTVmY2xyZTNwaWRtYzVtTXhnYS1JSXh0ajl4VkxEVHF2bW9PX2NuMTdxMEg4NkVpMFJYVTJud1lpR2RTRjRnNXFFb3B1WHNfWlphVlo0bWozbHF2OXdlbU43OGxvb1Nqd0tYMk5TU29jTEtxRnFZYTFnMQ?oc=5",
+      "publisher": "Department of Energy Philippines",
+      "source_label": "DOE 官方信息索引",
+      "source_id": "doe_energy",
+      "source_method": "google_news_search",
+      "category_hint": "energy",
+      "published_at": "2026-10-22T07:00:00+00:00",
+      "first_seen_at": "2026-11-22T07:39:26+00:00",
+      "summary_excerpt": "DOE Advances WTE Cooperation at 3rd Japan–Philippines JCC meeting Department of Energy Philippines",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "758a054129d687f7a84d",
       "title": "SplashBidNoticeAbstractUI - PhilGEPS",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2p4ZFJNZkd6dUVfWnpxNk5wRGJUUGxCMmkyNmNfV0drcjRQM3FXRTZLd25zcmVzSi00S1AxX0J5aTV4WC1acTN4QmxfcW5ENjhpMjNhazRHSjRoN1JmRWh0eVdhR3VsVmRiblB2WnMwMWwtVlk3VzhKb1ZlbGlILU5TLXZSTDIyc0tXVmJUUkpPd0x3U2xVOXpFMHhoTTZXS0tDU3V3M2U0bzQ0cmc?oc=5",
@@ -2437,6 +2535,20 @@
       "published_at": "2026-08-25T22:30:20+00:00",
       "first_seen_at": "2026-11-22T06:56:34+00:00",
       "summary_excerpt": "NREB Technical Services and Management Division | NREB TSMD DOE Department of Energy Philippines",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "7fda93982297ac51e261",
+      "title": "Biomass Energy Management Division | BEMD DOE - Department of Energy Philippines",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9aalF3bFFZbllTbzJVaDdoYk9FQ09lUFNueC1UQkhMNXl5Y091NXVyaVBiU1dkakl3aURka0t1UDRiaXpocXdrS3dlLXA?oc=5",
+      "publisher": "Department of Energy Philippines",
+      "source_label": "DOE 官方信息索引",
+      "source_id": "doe_energy",
+      "source_method": "google_news_search",
+      "category_hint": "energy",
+      "published_at": "2026-08-25T22:30:20+00:00",
+      "first_seen_at": "2026-11-22T07:39:26+00:00",
+      "summary_excerpt": "Biomass Energy Management Division | BEMD DOE Department of Energy Philippines",
       "review_status": "unverified_discovery"
     },
     {
@@ -3000,6 +3112,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "7b5a7171bb62ca6b3853",
+      "title": "(FINAL) DOE_Gross Gen by Region_ANNUAL_2009-2022 LVM_working file.xlsx - Department of Energy Philippines",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdnJBdlFpUURJR0FVTmdtbDNoWmZMXzNoU0FRejRCU0w1QWtDQ1A4d29yaVBOQlRsUGlxMXdYcENMNy1iZXNSeloyd0hkdGN5RGRMRXJmb2JIbE10Z3RIUXEtVkcycUVsYXQ3MWllZTVTV2FqN0tQdEpWMHJ4eFBxejVwbUdvYk9PbGp4aXJUdVlwSmxQc29HWGMxQk4xU05EdGhMbFlHOTJVRXJZNXVmUk4yZ0NvX1luOUdLRUQyNmhocnk1cFVoWXVGN3I?oc=5",
+      "publisher": "Department of Energy Philippines",
+      "source_label": "DOE 官方信息索引",
+      "source_id": "doe_energy",
+      "source_method": "google_news_search",
+      "category_hint": "energy",
+      "published_at": "2026-06-08T21:55:14+00:00",
+      "first_seen_at": "2026-11-22T07:39:26+00:00",
+      "summary_excerpt": "(FINAL) DOE_Gross Gen by Region_ANNUAL_2009-2022 LVM_working file.xlsx Department of Energy Philippines",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "05c503edc3be50c5fb14",
       "title": "AWARDED SOLAR PROJECTS (Own-Use) as of 30 April 2026 - Department of Energy Philippines",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mWWprZ1JlSTdab2dvWU96eHFudG1GU053Y3g3NWMxbHR4dm9UU1JldUtZSFhza181Y3FtLTRXRmoyM0E2T1U0RmFyalAwWm5IQ3hUekNQNVJueG1xczNSU0FyUkQtUURnTmN2V3lMTWVwNEtMRkw2OA?oc=5",
@@ -3196,6 +3322,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "cb80a0452cdb15fdb7f9",
+      "title": "DOE-EPIMB_LoEPP as of November 2025_LVM grid (working).xlsx - Department of Energy Philippines",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tMXNyU3d0dzluQ3JKeGhOQ3VtQU5kOS1rd01BY3ZidjNVaUlZeFk0U3FfTlVGZTFfckFGblowSWlCV3NSdW9LOVEya1hkRmJGMFF0cGpoRUhsLVdEclJELTZQeTVHb0ppM1E0TA?oc=5",
+      "publisher": "Department of Energy Philippines",
+      "source_label": "DOE 官方信息索引",
+      "source_id": "doe_energy",
+      "source_method": "google_news_search",
+      "category_hint": "energy",
+      "published_at": "2026-01-31T22:11:05+00:00",
+      "first_seen_at": "2026-11-22T07:39:26+00:00",
+      "summary_excerpt": "DOE-EPIMB_LoEPP as of November 2025_LVM grid (working).xlsx Department of Energy Philippines",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "721fe5145bfa161310e7",
       "title": "Digital Connectivity Now a National Priority as First Infrastructure Masterplan Approved by the Economy and Development (ED) Council - Department of Information and Communications Technology (DICT)",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83Y25qWjVHYXpUaEl4dllNc0Z4LWVTYVBIc3E5LWhscFdFUGRJOElTdEN4Tm5mUzVGdGlwVU56WThod1cwMG9ORDAxUERNdFJ6emlCZw?oc=5",
@@ -3263,6 +3403,34 @@
       "published_at": "2026-01-13T01:48:48+00:00",
       "first_seen_at": "2026-11-22T07:09:32+00:00",
       "summary_excerpt": "VISAYAS INDICATIVE POWER PROJECTS As of 31 March 2025 Department of Energy Philippines",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "b56efb206f39fd6c225d",
+      "title": "MINDANAO INDICATIVE POWER PROJECTS As of 31 March 2025 Name of the Project Plant Type Company Name Location Province Region Inst - Department of Energy Philippines",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV0lHOUJ1Um14anpUZGFoYl9iM3hsTnE5R2dEcHdNNlZjZTFsX1FBQWlXb1Y5dTVaN3ViVjNOaFNUYkVQQk5xT094amRma3hXOWJCN3FhdVlUeWhuVVlQREh5b0E3N1BQNFlEUm95ZHhYSUhERzlxYUI2a0xuc21TWFhGdmJNc1Q0V3dVaGxB?oc=5",
+      "publisher": "Department of Energy Philippines",
+      "source_label": "DOE 官方信息索引",
+      "source_id": "doe_energy",
+      "source_method": "google_news_search",
+      "category_hint": "energy",
+      "published_at": "2026-01-13T01:04:06+00:00",
+      "first_seen_at": "2026-11-22T07:39:26+00:00",
+      "summary_excerpt": "MINDANAO INDICATIVE POWER PROJECTS As of 31 March 2025 Name of the Project Plant Type Company Name Location Province Region Inst Department of Energy Philippines",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "50f53c8753946207270e",
+      "title": "MINDANAO COMMITTED POWER PROJECTS As of 31 March 2025 Name of the Project Plant Type Company Name Location Province Region Insta - Department of Energy Philippines",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTERPcGVscG1ieHZQaTl3ejl2MFJpVXlfelFUUnh6S295a3Z3cU9qWUNRN2JrbDJpZk9VZUxEYW1NdGJaVEltcncxMDh5MFc5SnhybjZTbGVuX3hyeUppX3ZGY0NaSFREbTJqNU1HRlhJRTQzczFfUEVJeF9FZFUtVlZIUmlBU05iVTZiQw?oc=5",
+      "publisher": "Department of Energy Philippines",
+      "source_label": "DOE 官方信息索引",
+      "source_id": "doe_energy",
+      "source_method": "google_news_search",
+      "category_hint": "energy",
+      "published_at": "2026-01-13T00:52:41+00:00",
+      "first_seen_at": "2026-11-22T07:39:26+00:00",
+      "summary_excerpt": "MINDANAO COMMITTED POWER PROJECTS As of 31 March 2025 Name of the Project Plant Type Company Name Location Province Region Insta Department of Energy Philippines",
       "review_status": "unverified_discovery"
     },
     {
