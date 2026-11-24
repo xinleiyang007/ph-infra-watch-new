@@ -1,8 +1,106 @@
 {
   "schema_version": "discovery-leads-1.0",
-  "generated_at": "2026-11-24T12:37:24+00:00",
+  "generated_at": "2026-11-24T23:31:02+00:00",
   "source_note": "RSS feeds and Google News site-restricted discovery indexes; not a complete registry or verified projects. Links may be Google News redirect URLs.",
   "leads": [
+    {
+      "id": "c12cfa4b765518b1a874",
+      "title": "US agency helps fund study of IPS unit's Philippine cable plan, not its construction - Tokyo Brief",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMl92RzNuWXZvOHNNYlNZa3Uyb1VNSUU4YzhDR1ZSQU56b3VyQVNJVEloeWp0TTFlMUtacGZ4QU85MllvUFkyc2lpMnBESS1YVnNqYWhIM0hCdGVmU21JYnMxNG1fOEFPRXE1alBZSDNFcHQ5THM2eGVaNF9hdlZwcl9KbXB6bTFnVTRtag?oc=5",
+      "publisher": "Tokyo Brief",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-24T20:11:33+00:00",
+      "first_seen_at": "2026-11-24T23:31:02+00:00",
+      "summary_excerpt": "US agency helps fund study of IPS unit's Philippine cable plan, not its construction Tokyo Brief",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "68271dae235efa5f0858",
+      "title": "Ming Yang plans Philippine wind turbine service center - Daily Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc0FGZTZDTjBIMmFwWC1CZVRkZy10VS1WVFBaTHlQMmlsN0hMc2hnY25lakJoMUxjSmdTRnQ1ejhYQnN5ZmllNFdpNTBzUldBWmRsZXhha2tnSm9zYUZNVVlXbjJTWjQ3c3JRRWJaellFTGg4YmNNa041dHJSd0Rnd0x6a1NCakw5V2RZXzBXV244Mk8tSktv?oc=5",
+      "publisher": "Daily Guardian",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-24T20:04:11+00:00",
+      "first_seen_at": "2026-11-24T23:31:02+00:00",
+      "summary_excerpt": "Ming Yang plans Philippine wind turbine service center Daily Guardian",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "35b7539df4c475190fab",
+      "title": "Chinese group eyes building PH wind energy hub - Inquirer.net",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYUdMbWxRUEJWYjFsNFd2MnMwWHpoTGFpRDlGbHA2TVhnMkRrdV9tM0JndTBOYXkyUWRZOURubUVqMGYxbzJHTlFiY1V1MkNNdHdSb2xON0JRcmoxZUZNYWU0UFRMU19lYWZMZ1NkbjlwZjBiNUZBTTdZbnRtUmt3WlROOXlLLXI0Sk9hY0ItcUHSAZABQVVfeXFMT2FHTG1sUVBCVmIxbDRXdjJzMFh6aExhaUQ5RmxwNk1YZzJEa3VfbTNCZ3UwTmF5MlFkWTlEbm1FajBmMW8yR05RYmNVdTJDTXR3Um9sTjdCUXJqMWVGTWFlNFBUTFNfZWFmTGdTZG45cGYwYjVGQU03WW50bVJrd1pUTjl5Sy1yNEpPYWNCLXFB?oc=5",
+      "publisher": "Inquirer.net",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-24T18:05:56+00:00",
+      "first_seen_at": "2026-11-24T23:31:02+00:00",
+      "summary_excerpt": "Chinese group eyes building PH wind energy hub Inquirer.net",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "e3a914d4be08e7327a96",
+      "title": "Chinese firm eyeing wind energy hub in Philippines - Philstar.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOakRMRTBnS3R2ZHNnU1hNMWdzdzVVQzF3VTFfbVNlLUxvckNPa0lFTjNrVDMtNWNpLWlWUHFJbVdFWW9SYTFwWGFJZDBhMmsxZDdWQlE0Z0ZlSWotbnNXLWpkaldDVnZVQjZqVmsxbFl6Qk9HR3dDN3lDd2hCRUpxWWtzQm5sU1V3MEgxTVRpNnhoUnVrZVQ1eHNuNUZfYTI2ZXfSAagBQVVfeXFMTTF6NmdFRmo3LS1odWhWTDBWUVlhSFFZbi1UWWZXRE1qQXp5LXBYM0J0WGg2NWxoWFhGUHpQTC1XMjBIcUlWbWFUaXZVVzVGa3VvUS1qQ0x0VU10UW9pSXBGbjhsY2ZCa3pqdV9zUEJCeXpPdHhNdUlxX21yS2Z4YzdNd1U4WG1oWUw5bF9uUjdvWGkwLUZua0k1dlRjTC1scGNVcUNxOVBR?oc=5",
+      "publisher": "Philstar.com",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-24T16:00:00+00:00",
+      "first_seen_at": "2026-11-24T23:31:02+00:00",
+      "summary_excerpt": "Chinese firm eyeing wind energy hub in Philippines Philstar.com",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "da71959685b30aaa4553",
+      "title": "PTV. . #PTVNewsTonight | DOE opens relinquished renewable energy service contracts to new investors - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUmQzcEhwS19uWlBEMlV0dG1CakRodGVJd2UyZVBjQjV3eW45LU5sX1JpN3I4ZElQeFRfY1UwWVo0LXl5bUd3bTdRVndJTnZPNHNkcnRJN1RwRjdQZlZKd0RYTzdmWTRYV1F2RDZ6VS1LampDUDFQc2xyUXA1U0R0UVY3R0NwRXBkal9GRVBrYmpWZXpSUFJOZFZhZ1dIdFBUMFdSTWRGUFNIbkJ3OHE2c3lUUkxTcXZ3MEYyZE9oQmxLdWhUR3RMQ29PaEFrYmFY?oc=5",
+      "publisher": "Facebook",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-24T14:59:14+00:00",
+      "first_seen_at": "2026-11-24T23:31:02+00:00",
+      "summary_excerpt": "PTV. . #PTVNewsTonight | DOE opens relinquished renewable energy service contracts to new investors Facebook",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "952a0e2b4e322b2570ec",
+      "title": "Billions in bank transactions: As Leviste’s solar empire expanded, ₱435M in cash flowed into Cusi’s bank accounts – AMLC - Bilyonaryo Business",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZnVUcnhLZHRlMlgxdmtHbG5FSzBvX1I2Zk5BMWUxb1lfQVViMk9uajBjemhzUHFMN3FqenhXZkpzTFZ3U0Jka1VQakFnQVZ6ZDhiS3owT0NSUG90NmR1Y3RZSVNrSHM4aE1QZ25CRUp1cDVieHpiSWM0WW0xcjNrVWJlSFhYcEhIMGQ3V2VsTDZjb2doQkkwVkZLeXQwb3lCaTJmSXYxQlFqa3ctbm5TSXJqM3BMSy1VVlp3a243NnNBQ211dmQ5dktHR1RvUUdLR3BGcg?oc=5",
+      "publisher": "Bilyonaryo Business",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-24T10:16:27+00:00",
+      "first_seen_at": "2026-11-24T23:31:02+00:00",
+      "summary_excerpt": "Billions in bank transactions: As Leviste’s solar empire expanded, ₱435M in cash flowed into Cusi’s bank accounts – AMLC Bilyonaryo Business",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "c32423d74df1b4b51123",
+      "title": "August Energy Breaks Ground On 18 MW Solar Project In Tarlac, Philippines - Trending Now Sustainable Construction",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOSFlYQ3NORmtGaC1HVkM2QjI4QTA2RGZvZ3hIZ3N4REhPVXlOWER2RGVHeUdRRzlmY210MGYtdDB2TkNpNE5tbnFybEJoNXFfdDYzLVdHQlgtVk56SnR5bGFNWjhYXzI1Qmhwc2FyOExYNTR3czhlWVhmNExNNjJkem5PNkczWERYQ0ZtaFJaQnJ0b0h5N3l3VW1NZlFYZWNnTXFtSDFwSjJvQWFpWWptLUVmVVVUam1NMzhTVzVKcDVyN3RXcGVFNW9aS2toSWhnbkZzWlU1elNHRHNBRndkQzRJTFZqWmJUNk1UdVl1MGNVd2tOTDJZLUItNHlLTzdISlAwZ29samJzUnBUV29WUWpOS05ScDhPZ3BqdTI0d1c4QXBLN0dFZkU0ZDJmTlgtejVMUGVVZWh3cEo4RWlPdjJDeHNYSVE?oc=5",
+      "publisher": "Trending Now Sustainable Construction",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-24T09:42:37+00:00",
+      "first_seen_at": "2026-11-24T23:31:02+00:00",
+      "summary_excerpt": "August Energy Breaks Ground On 18 MW Solar Project In Tarlac, Philippines Trending Now Sustainable Construction",
+      "review_status": "unverified_discovery"
+    },
     {
       "id": "ff3cd1f88ad26401583c",
       "title": "Ming Yang Smart Energy Group eyes PH wind turbine service hub - Power Philippines",
@@ -29,6 +127,20 @@
       "published_at": "2026-11-24T09:03:28+00:00",
       "first_seen_at": "2026-11-24T12:37:24+00:00",
       "summary_excerpt": "MGEN Renewables Posts P197M Profit as Solar Revenues Skyrocket Daily Tribune",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "10f5b13adce881877148",
+      "title": "Ex-budget chief, Legarda's former aide, ‘yaya’ among incorporators of Leviste's 35 solar firms - Bilyonaryo Business",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbkJkRDVWRjVvY3dkSzNCRUdqZjl0aEw4b1dGSUE3SUJUWVZIM2hGa0tDYmRsRjhCR3dIa2tjR2VITEdqZFI2alVobHQ3WThBOWF6b1V6emRFcUxraWEyNEg0MDlramtVLUEtVUlnYVZlMGd2ZnpBWGN0LWZZZW5DNG10M05CTDJhSW5PTHlYZU9PTGlwYkZTeVlVQWkzLXZlV284S1NySngwWXg0TjFSYVJ5b24tMzdmbllqLXJn?oc=5",
+      "publisher": "Bilyonaryo Business",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-24T07:49:52+00:00",
+      "first_seen_at": "2026-11-24T23:31:02+00:00",
+      "summary_excerpt": "Ex-budget chief, Legarda's former aide, ‘yaya’ among incorporators of Leviste's 35 solar firms Bilyonaryo Business",
       "review_status": "unverified_discovery"
     },
     {
@@ -88,6 +200,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "21bd65a4eaf50e16abaa",
+      "title": "Big business, small circle: Loren’s yaya, relatives and Pangandaman figure in Leviste’s 35-company empire - Bilyonaryo Business",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM252X1ZXWFdGT0EzU3RpQ1RpcTk4NzdFMmhOSE5tNnNLSVRwc2pRZHZvRTB3cG1XaTdIejNlaGt4bXJrRkVtR0RKa0JBOUc2VE5OOFJqSzVzbl9vR1kteVZ5bDZaTmQwemlpNWtzY2YyVktWRWVTRHBUS1VQN2MxZ0d6Q0VPMDZQc0ZhYnM5UWgyakoyQ0VfZ0tNQVBIa3dnTUJzTFdUZzhWemNocEhCa2Y5UzM5bWtwT1VSUFpycndSdw?oc=5",
+      "publisher": "Bilyonaryo Business",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-24T04:11:27+00:00",
+      "first_seen_at": "2026-11-24T23:31:02+00:00",
+      "summary_excerpt": "Big business, small circle: Loren’s yaya, relatives and Pangandaman figure in Leviste’s 35-company empire Bilyonaryo Business",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "09c586f0676ba88e0b0f",
       "title": "Malaysia advises data centers to cut links with US blacklisted firms - Hürriyet Daily News",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2NCc0hEbmViQkhyQ3plUzFYa2JzSFAtX2JZNUtsUG5uWnVRZXRSV2hfVFVHZTVIX1h6NlFQUGpXdHNfcERqY0o3X05oUkdDbVlIQ04tWnl5NHlEVjJVQTI1OFpYUE9IUUEtTFE1MVdDWnVFYXA4bmtLd3N1UkFVWHVjR0EzUXY1aXFXemxHT21yeGhENEoxdDhrMUZoWUNycDgtbEltbHZ3cFNscFE?oc=5",
@@ -99,6 +225,20 @@
       "published_at": "2026-11-24T03:44:12+00:00",
       "first_seen_at": "2026-11-24T12:37:24+00:00",
       "summary_excerpt": "Malaysia advises data centers to cut links with US blacklisted firms Hürriyet Daily News",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "5b6a63e7d875d37a4977",
+      "title": "Court freezes bank accounts and properties of Rep. Leandro Leviste in money laundering probe - The Global Filipino Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU0NTWDNtaExzNVdGZWE0ajVYN3hnd2xMSk9zMnhpX2dUbG5RTGZ6bkpSSkNWVlNHX2N0Rm5FV2tqUFUyRzREdXhweUI5UGlUTklfZnF3Y05iYV9fOXp2TnF3akxXbk5qX3dJLUh3V3N1QnAzRTVfd0NnU2kyQWI4ZTdFbTU3ZHJwbTVPZlJsNU92VnpGel9fcm01SWlqbHRfMXNSQTNERDV6NUpRdG9NX1NwT0R0eEp1elpqUTdzNUVEY1ZZaDFlSHhn?oc=5",
+      "publisher": "The Global Filipino Magazine",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-23T17:27:58+00:00",
+      "first_seen_at": "2026-11-24T23:31:02+00:00",
+      "summary_excerpt": "Court freezes bank accounts and properties of Rep. Leandro Leviste in money laundering probe The Global Filipino Magazine",
       "review_status": "unverified_discovery"
     },
     {
@@ -197,6 +337,20 @@
       "published_at": "2026-11-23T09:11:27+00:00",
       "first_seen_at": "2026-11-23T10:53:50+00:00",
       "summary_excerpt": "From solar empire to frozen assets: CA acts on Leviste’s ₱58B money trail Bilyonaryo Business",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "f47d26985f6cdea2df4d",
+      "title": "Nearly P60B in bank transactions: CA freezes Leviste’s 54 assets amid AMLC probe - Bilyonaryo Business",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOVZIQVNiX2hqYmI5UUNkUVlZaHlNWU10S01Qa3lyVjc5RkdZM1Z2Mml0UHZEdTBMdUlCbEJmeXZEcndwREVkdVM2TjhwblRDQTV6bVBjcXdsM1RZRlN4eUxIODF2WFNscXJCWmNtekRkbXFBaWxSbzExdEotS2FVQXp6TlRrUTB6Qm1RY3g5VzdiZll3OHJCMVozY3pvSndLUlc4Wk5HOWhWRzJkRFRMVg?oc=5",
+      "publisher": "Bilyonaryo Business",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-23T08:42:05+00:00",
+      "first_seen_at": "2026-11-24T23:31:02+00:00",
+      "summary_excerpt": "Nearly P60B in bank transactions: CA freezes Leviste’s 54 assets amid AMLC probe Bilyonaryo Business",
       "review_status": "unverified_discovery"
     },
     {
@@ -466,6 +620,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "0a67fedd39c86863733b",
+      "title": "Lee visits AI data center construction site in Ulsan - The Korea Times",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ19GNXhZOUUyZjBGUEV5ekZ5RVRGU2Y0Q3oxd3JPYmM5UmdvZm5INXVxc3hHVFZWa1czN0cyT3MwREZ4X3phZ1JRNEk1c3BVZS1Bb3NpcU9aNlA4NDFPY3JCY0FMQkdvT2Z0MHljWmJjVTE4VkxyczVKem9MTlZ0enM2NWhmeFFtQjV0bGt6aV9Bb3IzYVZQa09vLWE3LTNKUHdJamNCYUZGMnpKM3Vz0gG0AUFVX3lxTE5qNjFMbUZHRl9US05PbFNueElxYzJhbENjaGc5ZWJCeV9neG96Z3RJb2k1cTBoQ3JyRmxUNTlhWDFaY2M1Ym5ZdGs1QWpBQUE2cVcwd0luWURzc05oMUR0b2Nvc0FhLUY1TzE4RzZDdGt1RlMzSGE1cVdSQS1Md3FoUnlZeWNDY01BVWhjckdUN1h0NUp6eVJ3djVPTTFFRnp1VGVaQklxZ0FUN2JYZjU2UjBCUQ?oc=5",
+      "publisher": "The Korea Times",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-21T03:17:03+00:00",
+      "first_seen_at": "2026-11-24T23:31:02+00:00",
+      "summary_excerpt": "Lee visits AI data center construction site in Ulsan The Korea Times",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "08eb53af7ac8f49a3296",
       "title": "Upgrade Energy Philippines president Ruth Yu-Owen says prices of residential solar systems without batteries range from P45,000 to P65,000 per kilowatt-peak. Adding batteries for backup power costs more. Learn more in this article by Rappler reporter Lanc - Fa",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWVdSRV9RLW1ONWZYS3puTUE4R3V3TTEtbmtvODlYNTl6Uk1KMmRGZDlsZF9JWVQ3OWU4SEx4VXNNc2JnZ2hBOXcwa0lmQWMtdFVjNFRVX05zV2ZGdGVVaUNlWm1QWlRMZnpsRHBST01fZDdoZTZDeUIwT0MyQzI0aDE1TFRqVHdmeGo0VlRLS0lNZE5qNjZWOUtiWkZTY1FFd3RxU3FQZkJFa3k5RmkwbnpTQjdBOUpWbjVJa0FwOXZLb1AybkZTV0p3UHRTb1VxRmNzYzlYSjZFN2M?oc=5",
@@ -620,6 +788,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "a253b37a3c9dbcade97d",
+      "title": "Philippines to Auction 6,300 MW of Wind and Gas Power to Boost Energy Reliability - Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZm5DeEtDRDdjYjNPb2N2LUtvNER3V1ZhYWI5d1dtbUwtNW5mWmt4Y3pSRk84Sll2bFBZNXhOVDV4THo4MjZPSUtJVkx5cldpa1FsclhOd29JcFRqd2ZxaDBGT1J6UTB2LTBJNEZHc2thbUtzQnpESzl1R1FKMXRkVHZxaVhObFZENWd3NnhxQm9fTHBXaDNpZnRlMDFsYjhUbzg3Tg?oc=5",
+      "publisher": "Daily Tribune",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-20T07:24:32+00:00",
+      "first_seen_at": "2026-11-24T23:31:02+00:00",
+      "summary_excerpt": "Philippines to Auction 6,300 MW of Wind and Gas Power to Boost Energy Reliability Daily Tribune",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "35aea38c021bb535114f",
       "title": "Marcos says nothing in Pax Silica deal justifies protests, insists no data centers planned - The Global Filipino Magazine",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb2UwbVZHcUNOTFM0aGVuOGlVRVZOVTZpSmctWUJSUEdJOXVld1NBSlNteXJYYW1QUV9NclFfV3NKUFJMSURTSXJRa3VwVFBxOENkZjB5Ny04bWpOVDMwQ01DRjBkT0xNQkNsRUZuYnhnQ0QwZERWc3h1bVZ1NUNnejByT0ZBMzdPLUt3RlJNY2JTQnlKY1ZUQ0ZyQU14a0ZGTHRRUUU1S0d4OURjbTNBNjRUZmoxZEY5MHk3eE15a2plY3lYendz?oc=5",
@@ -673,6 +855,20 @@
       "published_at": "2026-11-20T03:50:14+00:00",
       "first_seen_at": "2026-11-22T06:56:34+00:00",
       "summary_excerpt": "Philippines Targets 25 GW Renewable Energy Expansion by 2035 to Boost Clean Power Mix Daily Tribune",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "3a9d756cbb0db260c7a3",
+      "title": "WATCH: President Ferdinand R. Marcos Jr. meets with executives of electric vehicle giant BYD Co. Ltd. on Friday (Nov. 20, 2026) in Shenzhen, China following his participation at #APEC2026. | Darryl John Esguerra; 🎥MCA POOL - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNmxjSlEwb1Z0a1RSbzRLcWtzNDdtb2c1Y0dQX0EwWWI3cG5tRjIyUWcwZUhsOU1mX19UazI0Wm02d3p2YkxkTVNKMUZlOUlyRFh4S09jalJiVlM3UzBPU041ZmZWeTdoR09TUWRBOUFrcEE2LWlGNFJZcUtJLUFpWFUzRDRRTlMxaUY5M000Vi0tNDliLWlkd2FGQ1Vxdy1OWW5mM3Y2UFcxSURScFNOS3BKODJhZURVYk9aS3o1bkE0dk5WRzdQOG5FYlU0Tlh0dFdscg?oc=5",
+      "publisher": "Facebook",
+      "source_label": "菲律宾充电桩新闻",
+      "source_id": "ev_ph",
+      "source_method": "google_news_search",
+      "category_hint": "ev_charging",
+      "published_at": "2026-11-20T03:17:18+00:00",
+      "first_seen_at": "2026-11-24T23:31:02+00:00",
+      "summary_excerpt": "WATCH: President Ferdinand R. Marcos Jr. meets with executives of electric vehicle giant BYD Co. Ltd. on Friday (Nov. 20, 2026) in Shenzhen, China following his participation at #APEC2026. | Darryl John Esguerra; 🎥MCA POOL Facebook",
       "review_status": "unverified_discovery"
     },
     {
@@ -869,6 +1065,20 @@
       "published_at": "2026-11-18T08:00:00+00:00",
       "first_seen_at": "2026-11-22T06:56:34+00:00",
       "summary_excerpt": "Projects Dashboard (PPP) Center of the Philippines",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "cdadc4a258c424ab5277",
+      "title": "Vietnam-Philippines trade still has significant room for growth. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeTNiak9LN1pKbmxCT3dLdnFpQjF0RkE5RFp2WDRRbEN0c1RLTHp1SHdISVFBX1hJQVpxZHZ5aW4zSVk4WXI4NmFDV1ZnVkJITkZLTWRYaHFFUkFpZHF1R25rRDNYSW0zdk1DZ2pHcFFVc2JFdjN0Wjg0azhnWG55M0R4a0hhRDNuTVRfanNxWQ?oc=5",
+      "publisher": "Vietnam.vn",
+      "source_label": "菲律宾充电桩新闻",
+      "source_id": "ev_ph",
+      "source_method": "google_news_search",
+      "category_hint": "ev_charging",
+      "published_at": "2026-11-18T05:41:43+00:00",
+      "first_seen_at": "2026-11-24T23:31:02+00:00",
+      "summary_excerpt": "Vietnam-Philippines trade still has significant room for growth. Vietnam.vn",
       "review_status": "unverified_discovery"
     },
     {
@@ -1289,6 +1499,20 @@
       "published_at": "2026-11-13T08:00:00+00:00",
       "first_seen_at": "2026-11-23T10:53:50+00:00",
       "summary_excerpt": "Alternergy's Net Income Surges 27% in Q1 FY2027, Boosted by Balsik Solar Farm Daily Tribune",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "1c20db59c493ed96c8ff",
+      "title": "‘Driving ASEAN Forward:’ The Philippines’ growing electric vehicle industry - Power Philippines",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdERxMFBCZ1hXT1A3ZlpiNDJWUkRKVDVnT2g5M2pIajlJV3NhbGFDZGdqaktITlVzTVk5b1Z1X3VONWhWbFg5UkJhajN6bTh5Q3BtTDFBbmpVbmNzNk0wUmlucVRkREJiakoxNkxvSlMtNlJMT1U2NmFXNXpfTy1Tc2lzMEdLc1JsVGdPajVQWEdHWDY2YTlxY04xRnZKZ3o0UnRN?oc=5",
+      "publisher": "Power Philippines",
+      "source_label": "菲律宾充电桩新闻",
+      "source_id": "ev_ph",
+      "source_method": "google_news_search",
+      "category_hint": "ev_charging",
+      "published_at": "2026-11-13T08:00:00+00:00",
+      "first_seen_at": "2026-11-24T23:31:02+00:00",
+      "summary_excerpt": "‘Driving ASEAN Forward:’ The Philippines’ growing electric vehicle industry Power Philippines",
       "review_status": "unverified_discovery"
     },
     {
@@ -3081,6 +3305,48 @@
       "published_at": "2026-10-28T07:00:00+00:00",
       "first_seen_at": "2026-11-22T07:09:32+00:00",
       "summary_excerpt": "Citicore closes USD-548m funding deal for Philippine solar, storage Renewables Now",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "8575cfe00499faf33f38",
+      "title": "14th Philippine EV Summit showcased more than 15 vehicle brands - Manila Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS1FQbUFoM1dZVVljU3JEd2o1SVQ2UFdkREtqSWx3LTFOUTRXby1OWWlnWk1OYzJnZmp5ZnFpSnpWUFVlcFYxbXFabjBLNy1mekFJQkNYOE5yNXh0MkVSVVJ5Sm5IODA4dzE3VEl2Ym45M0FyeExHMTA2XzROTEZPUk5vaE15TjExamhfYnN6TVE4d3Y1ei1z?oc=5",
+      "publisher": "Manila Bulletin",
+      "source_label": "菲律宾充电桩新闻",
+      "source_id": "ev_ph",
+      "source_method": "google_news_search",
+      "category_hint": "ev_charging",
+      "published_at": "2026-10-28T07:00:00+00:00",
+      "first_seen_at": "2026-11-24T23:31:02+00:00",
+      "summary_excerpt": "14th Philippine EV Summit showcased more than 15 vehicle brands Manila Bulletin",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "38e88b94519c21bb2cfe",
+      "title": "GMA News. . LOOK: President Bongbong Marcos inaugurates Sazgar Philippines’ new electric vehicle manufacturing plant in Biñan, Laguna today, Oct. 29, 2026. Amid rising fuel prices, electric vehicles could offer a more cost-efficient transport alternative hel -",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOVJoaWhScjNHNlBVbjdxYWVUWjczNWhsc1AtQV9DXzNWTnpQTkVPYzJ6dy1rb1FxOTgzRy1Md3pGTXBqNjdnZTRNeXpzSFdaM2g3Sjk4a01UZHZFUjREYnpBWVhueTJzM21QamJrd1BwOWNnaFFMaGRqVXB0bllOVXdBSHhMYWhHYkV0VkZWM3JBV1R1YlBvSUpiV1dwOV9CMGJlU2I5dHd5dkZZNjBLZ19zZXBzUzhBeXZPajdiMjJYckhObFVqeDV0LUlTVmliMXFraQ?oc=5",
+      "publisher": "Facebook",
+      "source_label": "菲律宾充电桩新闻",
+      "source_id": "ev_ph",
+      "source_method": "google_news_search",
+      "category_hint": "ev_charging",
+      "published_at": "2026-10-28T07:00:00+00:00",
+      "first_seen_at": "2026-11-24T23:31:02+00:00",
+      "summary_excerpt": "GMA News. . LOOK: President Bongbong Marcos inaugurates Sazgar Philippines’ new electric vehicle manufacturing plant in Biñan, Laguna today, Oct. 29, 2026. Amid rising fuel prices, electric vehicles could offer a more cost-efficient transport alternative hel Facebook",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "fd175fae81d0db66e6e7",
+      "title": "Tesla enters the Vietnamese market, challenging VinFast's 36% share - KuCoin",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc0xDN2g2VFVhVzFVazhLc0w1T3BpZGRUbjdEV3JnN1prdVFyRHJKYmROUHU4OEFuOURxc0diWnNhOWNTamFsM1l5d0pLcDlzeEFLTHh2N1hISWVEdHNsUWkxM294ZU4wTllqUlQ0b0pqVzFpQ0JmYzR6Q253Q0IwcHpYSks2c3FiQzE0OFByMnhVQXdralE?oc=5",
+      "publisher": "KuCoin",
+      "source_label": "菲律宾充电桩新闻",
+      "source_id": "ev_ph",
+      "source_method": "google_news_search",
+      "category_hint": "ev_charging",
+      "published_at": "2026-10-28T07:00:00+00:00",
+      "first_seen_at": "2026-11-24T23:31:02+00:00",
+      "summary_excerpt": "Tesla enters the Vietnamese market, challenging VinFast's 36% share KuCoin",
       "review_status": "unverified_discovery"
     },
     {
