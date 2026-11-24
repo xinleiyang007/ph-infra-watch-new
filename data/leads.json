@@ -1,8 +1,106 @@
 {
   "schema_version": "discovery-leads-1.0",
-  "generated_at": "2026-11-24T01:44:05+00:00",
+  "generated_at": "2026-11-24T12:37:24+00:00",
   "source_note": "RSS feeds and Google News site-restricted discovery indexes; not a complete registry or verified projects. Links may be Google News redirect URLs.",
   "leads": [
+    {
+      "id": "ff3cd1f88ad26401583c",
+      "title": "Ming Yang Smart Energy Group eyes PH wind turbine service hub - Power Philippines",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHpweXkzamViWFFOXzFSTnF0X0ZmckFMTWZwQTltbUxlMDY4LWVZazVBamE5bU90Y1hxUHBSLWZ1T1R5RlZLSDJlVTRidHBlUFBPbEhrNDMwTTU0YUNTMVBQTjF4YkdOa3JHRXlhcDJEc0p2TmlObTgzT0ZDZHBwU25LWHpFV2tNWEtlR0h3WXVoRmlLSHc?oc=5",
+      "publisher": "Power Philippines",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-24T09:40:08+00:00",
+      "first_seen_at": "2026-11-24T12:37:24+00:00",
+      "summary_excerpt": "Ming Yang Smart Energy Group eyes PH wind turbine service hub Power Philippines",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "bc4c1df95953e64b8957",
+      "title": "MGEN Renewables Posts P197M Profit as Solar Revenues Skyrocket - Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQzhIVEdlQkZNUWtRVUhwZ3UxejVMQUU0X0tEeU93c3pmZlBkN1FfcTFtcWpRVFVjSURCbEpYQjVtXzNWSEl2NzlSQ09HTUdYMGRmWUxuRjJISloyenY2a1Y4U2NIRzdkeFBjRjFtQnRRVC16RXg3RE5CbEhrZ0ZkTk1DY2x4dw?oc=5",
+      "publisher": "Daily Tribune",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-24T09:03:28+00:00",
+      "first_seen_at": "2026-11-24T12:37:24+00:00",
+      "summary_excerpt": "MGEN Renewables Posts P197M Profit as Solar Revenues Skyrocket Daily Tribune",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "db74ad09dbc94e4eacc6",
+      "title": "Marcos, China’s Ming Yang eye typhoon-resistant offshore wind projects in PH - thechronicle.com.ph",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM1QxWFFoUU1VdTlYa01xV3NodENCV1ZuTk9GcmRERjhCLXQ5bGVITVZxMmNxbGgzX1VDNl9wNTB0eXYwSXFVaUpsRlRBZkJncUxna1U5NTVLWGkxdGpXZHdaTmNLUjQ4NFBwckEyU09yTFFlaWRDWFEwNHRXV3lKY1YzNTFHYUFtUklZcHVtQ0pqMlU2M2ZwRzVLRlR2NnhDVmJadnJn?oc=5",
+      "publisher": "thechronicle.com.ph",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-24T07:39:28+00:00",
+      "first_seen_at": "2026-11-24T12:37:24+00:00",
+      "summary_excerpt": "Marcos, China’s Ming Yang eye typhoon-resistant offshore wind projects in PH thechronicle.com.ph",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "7ab0f83a0f5b659deff7",
+      "title": "Beyond AI: The ASEAN Companies Building the Region's Data Centre Backbone - Beansprout",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtU3Vja0dqLTBoOVNVY1NONzNJMjJyMVJVQXJkQlQtSnVUUFdCMnJjTnZaU3oySG8zMHlnb2JWTVhFam9HQ1NIYklTMnpnRDEwTWpTbGlwV3Q?oc=5",
+      "publisher": "Beansprout",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-24T06:28:30+00:00",
+      "first_seen_at": "2026-11-24T12:37:24+00:00",
+      "summary_excerpt": "Beyond AI: The ASEAN Companies Building the Region's Data Centre Backbone Beansprout",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "e5ca5ded6aadd5408bbe",
+      "title": "DOE Investment Talks Gain... - Department of Energy Philippines",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNGNOU2V3TVFhY0lZSjdxUzNZaFJWalYyMlJnMmgtMG5LWGhKT1VBdzNtUzZTWDZscWtURjJKTTMxN0JXM3hYSFY1ZTROYlQzWmdES2JsdUExcWR2b2xpV25neXVjZ09RdWtaZWRLWkVESmtuUF8xLV92MnU3cHZnS1lBSlJGM254alg1eXN5YkduUDFteVVsQVlkSlJwaHFIU3BySDNsOA?oc=5",
+      "publisher": "Department of Energy Philippines",
+      "source_label": "DOE 官方信息索引",
+      "source_id": "doe_energy",
+      "source_method": "google_news_search",
+      "category_hint": "energy",
+      "published_at": "2026-11-24T05:58:47+00:00",
+      "first_seen_at": "2026-11-24T12:37:24+00:00",
+      "summary_excerpt": "DOE Investment Talks Gain... Department of Energy Philippines",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "d62d76317de92226df00",
+      "title": "PetroGreen unit energises 45-MWh Philippine BESS - Renewables Now",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaHZSSk82SWhYamJhczhrUi1YY2JmbGo0ZzFFa2lEWkRpM1NZOXBSRTFhVHpQbjRGbnp2RG55bkFuWEVPQ3hhVmJsWXoyZ1dCNHA0X1RqSC0tVnJJR1Jzang2a2VWYkxoblNhWFlydktIUGNGM1ZXbTRZOWc1Qk1qcGZWcW90eVZmNzU3bWRyTHlfQQ?oc=5",
+      "publisher": "Renewables Now",
+      "source_label": "菲律宾储能项目新闻",
+      "source_id": "bess_ph",
+      "source_method": "google_news_search",
+      "category_hint": "storage",
+      "published_at": "2026-11-24T05:49:34+00:00",
+      "first_seen_at": "2026-11-24T12:37:24+00:00",
+      "summary_excerpt": "PetroGreen unit energises 45-MWh Philippine BESS Renewables Now",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "09c586f0676ba88e0b0f",
+      "title": "Malaysia advises data centers to cut links with US blacklisted firms - Hürriyet Daily News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2NCc0hEbmViQkhyQ3plUzFYa2JzSFAtX2JZNUtsUG5uWnVRZXRSV2hfVFVHZTVIX1h6NlFQUGpXdHNfcERqY0o3X05oUkdDbVlIQ04tWnl5NHlEVjJVQTI1OFpYUE9IUUEtTFE1MVdDWnVFYXA4bmtLd3N1UkFVWHVjR0EzUXY1aXFXemxHT21yeGhENEoxdDhrMUZoWUNycDgtbEltbHZ3cFNscFE?oc=5",
+      "publisher": "Hürriyet Daily News",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-24T03:44:12+00:00",
+      "first_seen_at": "2026-11-24T12:37:24+00:00",
+      "summary_excerpt": "Malaysia advises data centers to cut links with US blacklisted firms Hürriyet Daily News",
+      "review_status": "unverified_discovery"
+    },
     {
       "id": "7d23c83425d4e2ba0d21",
       "title": "USTDA supports island-linking system in the Philippines - Developing Telecoms",
@@ -29,6 +127,20 @@
       "published_at": "2026-11-23T16:03:00+00:00",
       "first_seen_at": "2026-11-24T01:44:05+00:00",
       "summary_excerpt": "Watts the catch: Why EV charging stations run into a wall before opening The Manila Times",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "e893e763b400df72246b",
+      "title": "GEA-WTE Advisory No. 1 - Department of Energy Philippines",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tcjlHY0lLd21ZR1RVdVF1YzBsZTdMUFdnR1I2eVRRRDU5d1d2a2hqaEQ4Z2dXNHM0b1dYM29JbTc3ZTFlTjhPUUpENWhjTnJZNWRBcDVIQjU5TW15SGxGWU5UMGlhRUVCS1hqek1WWFN0LW5m?oc=5",
+      "publisher": "Department of Energy Philippines",
+      "source_label": "DOE 官方信息索引",
+      "source_id": "doe_energy",
+      "source_method": "google_news_search",
+      "category_hint": "energy",
+      "published_at": "2026-11-23T12:30:49+00:00",
+      "first_seen_at": "2026-11-24T12:37:24+00:00",
+      "summary_excerpt": "GEA-WTE Advisory No. 1 Department of Energy Philippines",
       "review_status": "unverified_discovery"
     },
     {
@@ -676,6 +788,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "f1afefdf9dfbbb68ef7b",
+      "title": "An energy research firm forecasts that around 6.5 gigawatts of battery energy storage system will be installed in the Philippines until 2028 as the country shifts towards clean energy. The Department of Energy has required new power projects with installed cap",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUy1aOXJ2UUFjeDVrc01aNmJVWjVHOThwTGE4QUo1aEpGSE5BcTFPZ01vY3pGZTRuUjE5VW94Ymw3MkZ2RUwyNTdHNnMwRVV6ZkhaSmg3QjkxNlJFM1ljZlBsSERqcVpnNk1oUFJuYm5teGY3RFpSV1RGLVlLaTVzTUNsaXRaWHFsLWg4dFZqTE1nMzFxNW1nQWZOUHZwSlREYnNfbzIyMmN6YkhLUnBUSHV3bEh3TjRhZzM5YmRFQ0tDTXFRaExBZ1RkMmRDVkVnbW1RUw?oc=5",
+      "publisher": "Facebook",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-19T01:10:02+00:00",
+      "first_seen_at": "2026-11-24T12:37:24+00:00",
+      "summary_excerpt": "An energy research firm forecasts that around 6.5 gigawatts of battery energy storage system will be installed in the Philippines until 2028 as the country shifts towards clean energy. The Department of Energy has required new power projects with installed cap Facebook",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "ca2af1b1827cde911ba0",
       "title": "DOE sees merit in ACEN’s surrender of RE deals - Philstar.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZkdYcF9YUzkwZHQtS2l1WG1DQnBuUmQtdm82UTJJYk5jWnUxTnNfVVpzN2I5QlQ2cnZrOUM5T3pEeWlsS3BxUTFXdUJIZlZvUHNPTTE5Wjd6YVFmd0ptanVvVE9GMWZIWjFtdzhPSjhGQXB3S09scjV3c1A2ZDVkYkRRTmR3TjZxVVU5Z0lEaWxmZjJrd1Zj0gGeAUFVX3lxTE80T3ZLODE3OHBTcHEydGI0X1Fid0V4aFh1RFZqenNMa1Fac3JSVTB3c1ZsbklrbTB5dHcxTDgzaW1FbGw5YjVOeHVEZlN4T09uOTM4bVZuWF9ieWJwS2l6b2VONnBJakdKcllWUWhncjRIdm1ZbElkX01GN09EaGp3aUtSSlFpNkNrNENaTmxBaEtZUUJmcGxQWDYzUFNB?oc=5",
@@ -1219,6 +1345,20 @@
       "published_at": "2026-11-12T16:40:00+00:00",
       "first_seen_at": "2026-11-22T06:56:34+00:00",
       "summary_excerpt": "421 of the Philippines’ 447 off-grid power plants still run on oil. Three countries want to replace that with solar astig.ph",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "6d123b47bd3653074553",
+      "title": "Philippine Star. . Meralco turns innovation into customer benefits WATCH: Meralco invited selected media partners to an interactive learning tour, featuring Meralco's Power Tech, Smart Home and Power Lab facilities where they could see directly how different -",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaVVYZmdSaTl1bldKS1JGVjN0c0hMdVdCYkY0eFBaRTZ3ZXU2Ykt2ZXh5VlVsMWZ0cHhxdFo1UmZJYWdfTV9KcVNPa2JOZnFmZzZoa1g0VURDX2NwY25sdTZ3NjRQelktUm9FZ2d0dEhZY2w4VXFlc293a09UYmg1ZzVZZFRxY2hXUlNiR1V4dmVrZTN4bkdjY2E4bkhQSVVYS2FjNkpyVExMcXFzc0o2QVFscUFIT0d4N1BoSktra1dGZ2lyUVoza1V5XzhGYXl4a3NTd2RuUEZ1YXFYbWc?oc=5",
+      "publisher": "Facebook",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-12T12:30:49+00:00",
+      "first_seen_at": "2026-11-24T12:37:24+00:00",
+      "summary_excerpt": "Philippine Star. . Meralco turns innovation into customer benefits WATCH: Meralco invited selected media partners to an interactive learning tour, featuring Meralco's Power Tech, Smart Home and Power Lab facilities where they could see directly how different Facebook",
       "review_status": "unverified_discovery"
     },
     {
@@ -4246,6 +4386,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "079b4b67fa11959ca128",
+      "title": "(a) SUMMARY-OF-AWARDED-PROJECTS-AS-OF-30-June-2026.xlsx - Department of Energy Philippines",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRWFibDZxNnp5LVhsekJuMFpJS09nSzM3Z1ZwTTZTal8tazFaNWtRLUNuRnpZUkJseTc0QVB5YWxRSVlwakxtLURrQ0UxeTE4ejJ3ZDBSelR6R3NTUFJZblhTUm9qLW5BdUlRS2JhVVZfSm10dmMtb3FsZk1ST2JiMFRuUUVjN25VZmhxTUpBTWV4eDNQN1hsLThuM3ZRUQ?oc=5",
+      "publisher": "Department of Energy Philippines",
+      "source_label": "DOE 项目及招标索引",
+      "source_id": "doe_procurement",
+      "source_method": "google_news_search",
+      "category_hint": "energy",
+      "published_at": "2026-06-30T07:00:00+00:00",
+      "first_seen_at": "2026-11-24T12:37:24+00:00",
+      "summary_excerpt": "(a) SUMMARY-OF-AWARDED-PROJECTS-AS-OF-30-June-2026.xlsx Department of Energy Philippines",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "340f9ab3407d0a2462b5",
       "title": "PhilGEPS - training-notices.philgeps.gov.ph",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vb1pweF9FaXUwTDhZYVdRX19icHJZVnRQZlZ0b3lhUlJpMXNNV21NR0V5clBmVlF1T2YzWjF0Qk9EU0VpTmVENWxSMUpZemJHZ2tr?oc=5",
@@ -4610,6 +4764,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "73d57ed660e8b8a21958",
+      "title": "AWARDED HYDROPOWER PROJECTS as of 31 OCTOBER 2025 - Department of Energy Philippines",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NNkI0RzZEcVNSOXp0eFd3am5mci1xamQ5akZNazlnblpGMmpDaTdaa0lmT0tUMm9NQzU1NGNORDNIZnpLcFpscDZDbzE1QUFWS2V6cGVyRkNQRTlDYlZwb2FMRnA4ZHFLRjg3QjdfQ0U2UQ?oc=5",
+      "publisher": "Department of Energy Philippines",
+      "source_label": "DOE 项目及招标索引",
+      "source_id": "doe_procurement",
+      "source_method": "google_news_search",
+      "category_hint": "energy",
+      "published_at": "2026-01-15T11:22:10+00:00",
+      "first_seen_at": "2026-11-24T12:37:24+00:00",
+      "summary_excerpt": "AWARDED HYDROPOWER PROJECTS as of 31 OCTOBER 2025 Department of Energy Philippines",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "536ddd43b7a9e0b5a2b7",
       "title": "PPP Center lauds ED Council’s approval of PPP for Schools Infra Project III - (PPP) Center of the Philippines",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeTluZjNvVVoxM2c5VU5PeFJDazJrcHg1Q1FxT0RNeEhjbE1FN2JpWXBqLU5pX3lpZGxrODd1dDhPZzUxdVJrVHhYSFZGR0FXczJGT181dkVZekp6aDRWR1REWHpzdkM5RHU4Q2VVSUtibFBOd00wT0Y5SVRKVEU5UjhiSDN4WmhuWk5wVlNrckxfUGdWX3dDNG5UbGt2c2JEYWlTUkxCTkQzWHhJWXc?oc=5",
@@ -4778,6 +4946,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "c18f21c5bd7ec42ae3b7",
+      "title": "VISAYAS INDICATIVE POWER PROJECTS As of 30 September 2025 - Department of Energy Philippines",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TWVkyd0hsTGhfWUpJcThKeW0wUFI2elJaMkNPeE1JaDBqS2JkM0d6RXE2QkNEb3ZBV2FnMnFkbUVITmZsdXJjeW1wWG1KTTVUNXlJY0ozN3hIZmpWS3E0S2xSN3NWR1p0ZGtUajRNaU9QSEV4aUVXcGdxV05PUQ?oc=5",
+      "publisher": "Department of Energy Philippines",
+      "source_label": "DOE 官方信息索引",
+      "source_id": "doe_energy",
+      "source_method": "google_news_search",
+      "category_hint": "energy",
+      "published_at": "2025-11-28T18:56:52+00:00",
+      "first_seen_at": "2026-11-24T12:37:24+00:00",
+      "summary_excerpt": "VISAYAS INDICATIVE POWER PROJECTS As of 30 September 2025 Department of Energy Philippines",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "b072076d4533567cd286",
       "title": "DOTr, PNR, and ADB hold first Pre-Bid Conference for the North-South Commuter Railway O&M PPP Project - (PPP) Center of the Philippines",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVTlBT1R1NjFLTzIxX2VJd1FPT2xzVk90UGMzRmRuemQ1TktaZS0ydGMxNnlveENsZTFZM0ZROVR4eDgxV2NodDJEdnFSV3p4dFd3X3pjdlRMdE9vLW1sbUJld09yRjUzcEJJNWJiV0g0RDdyb3RGUmVSUGJGSjBNTnJkWEd5Sklhd0c5cWhKMDJHaGZzQlR0VGNsYmEzdHJkaEQ0RnBEamM1UQ?oc=5",
@@ -4789,20 +4971,6 @@
       "published_at": "2025-11-28T08:00:00+00:00",
       "first_seen_at": "2026-11-22T06:56:34+00:00",
       "summary_excerpt": "DOTr, PNR, and ADB hold first Pre-Bid Conference for the North-South Commuter Railway O&M PPP Project (PPP) Center of the Philippines",
-      "review_status": "unverified_discovery"
-    },
-    {
-      "id": "cf607c10af6e49bdc8c1",
-      "title": "1st large-scale waste-to-energy plant to rise in New Clark City - Bases Conversion and Development Authority",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbmY0YXMwZGVncC1wVDZiWUlBQVY3Y3daT1FmaW5XRWtjMmYtZ0hPcE1pSk1rZUpIVU5QQm9lLWE0QkM4VDc0ckljTjdvS21GNWhuMkZjWlRaTWRuclFFTnpOMGZFcTNSZ2dGR0ZVME1GZVJUUExYdGcwMWdGWHlzbmlCTHo?oc=5",
-      "publisher": "Bases Conversion and Development Authority",
-      "source_label": "BCDA 基础设施索引",
-      "source_id": "bcda_clark",
-      "source_method": "google_news_search",
-      "category_hint": "ict",
-      "published_at": "2025-11-24T08:00:00+00:00",
-      "first_seen_at": "2026-11-22T06:56:34+00:00",
-      "summary_excerpt": "1st large-scale waste-to-energy plant to rise in New Clark City Bases Conversion and Development Authority",
       "review_status": "unverified_discovery"
     }
   ]
