@@ -1,8 +1,92 @@
 {
   "schema_version": "discovery-leads-1.0",
-  "generated_at": "2026-11-25T11:28:01+00:00",
+  "generated_at": "2026-11-25T23:09:37+00:00",
   "source_note": "RSS feeds and Google News site-restricted discovery indexes; not a complete registry or verified projects. Links may be Google News redirect URLs.",
   "leads": [
+    {
+      "id": "799abdc7a1eaa7c8867d",
+      "title": "Raslag proposes P1.43-B solar and battery project in Nueva Ecija | Business World Philippines - newspaper - Magzter",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ2tWczlia0llSmcxbGU0aF9QQm5hdlNNMzNSR0h2UktNV09pQ3c0WFZFSEVHMXNNb01Gb2p3SXdNUlBmNUZMS3ktN01nN0pfdVRIM1o4YWRJSUgxR2NBa19MeFJYN1Exc1BBM0hidjlvY1JNRmhJOF9nVDdZSldnem5OWXZKM2I4LVJLdGtrc0xZdXN1U1BHTGxIVWFGcXlEUXZOdkJmdlVjcklzLXJpVnNEMHVER0pGZU1LS1dNbWgwZkJYS3VTbVZYaw?oc=5",
+      "publisher": "Magzter",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-25T18:02:45+00:00",
+      "first_seen_at": "2026-11-25T23:09:37+00:00",
+      "summary_excerpt": "Raslag proposes P1.43-B solar and battery project in Nueva Ecija | Business World Philippines - newspaper Magzter",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "703490a3a34a8cf7df38",
+      "title": "Chinese firm to build offshore wind center - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSlFCRWFiOW1yemt0enFJbWdwYnhUV25lNkJVeGtXYVdGOUg0cEZwT3ViZWF1bGJLejJrQW1fVGpfa1N4NUppN3ItSWw4dXoyLTYwRnhZUVpfUWdQR0psRkN2T0kzMk1OcnQ4X3MydmxGRC1DR3J0SGRWaGVZaVhVbk1oS3Q2anBXbjZXTWRWSmZuSm9iVnItQlZrWXcwZWhTY19aRldfQ2RxMjM1Y3lKckN1LTBtZ9IBtgFBVV95cUxQSlFCRWFiOW1yemt0enFJbWdwYnhUV25lNkJVeGtXYVdGOUg0cEZwT3ViZWF1bGJLejJrQW1fVGpfa1N4NUppN3ItSWw4dXoyLTYwRnhZUVpfUWdQR0psRkN2T0kzMk1OcnQ4X3MydmxGRC1DR3J0SGRWaGVZaVhVbk1oS3Q2anBXbjZXTWRWSmZuSm9iVnItQlZrWXcwZWhTY19aRldfQ2RxMjM1Y3lKckN1LTBtZw?oc=5",
+      "publisher": "The Manila Times",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-25T16:14:00+00:00",
+      "first_seen_at": "2026-11-25T23:09:37+00:00",
+      "summary_excerpt": "Chinese firm to build offshore wind center The Manila Times",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "353cb46025d504b0b2ad",
+      "title": "Al Cu Cable Lug Market Forecast to 2035: Grid Modernization and Renewable Energy Demand Drive Growth - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQUNHTWhpSm1XVHRzMTA3WG96anVTVk5aV21xRDdtQW1QRHJDRHJOamlPVmttdUZzeHBDTG1zQjlLMUlYRG4wZHAtVWZRZDltOHlyeExrTkxsZUFFRFZ0M25XcUh6ZHRaaUs3YnJ3ZGxVbk1IS2lSNW1yWmQtNkxPVzFlWnFzcXVKaW8zNXQwVU1FbTQ4aU9mYjVldzlBLW5wLTRDdVNRYWxQUG9HM041elg0MmhTMENoOHluQnRhdDdTSHV5aEZiQg?oc=5",
+      "publisher": "IndexBox",
+      "source_label": "菲律宾充电桩新闻",
+      "source_id": "ev_ph",
+      "source_method": "google_news_search",
+      "category_hint": "ev_charging",
+      "published_at": "2026-11-25T15:56:04+00:00",
+      "first_seen_at": "2026-11-25T23:09:37+00:00",
+      "summary_excerpt": "Al Cu Cable Lug Market Forecast to 2035: Grid Modernization and Renewable Energy Demand Drive Growth IndexBox",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "a7b1fcafedd382e8572c",
+      "title": "ASEAN Budgets Tilt Toward Energy Transition - Wisevoter",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX2NIeDUteWJDV2NDYmthQkk2dWc5TWVMUjhMcGtUV3VkN2tkUlQ2b3JvdExBaXFhelJwX0VEWjR6NUNCaV9Jd1lRenJUTHdpek9JaWQ3d1lDRTcyQnlhZEt2ckdCVHc2UU5xNmdSLXl1cnY1Z2FlXy1YdWo2Qm9mMXdnZDZoUQ?oc=5",
+      "publisher": "Wisevoter",
+      "source_label": "菲律宾充电桩新闻",
+      "source_id": "ev_ph",
+      "source_method": "google_news_search",
+      "category_hint": "ev_charging",
+      "published_at": "2026-11-25T15:55:39+00:00",
+      "first_seen_at": "2026-11-25T23:09:37+00:00",
+      "summary_excerpt": "ASEAN Budgets Tilt Toward Energy Transition Wisevoter",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "74f6517bf16c25bc7df2",
+      "title": "PH off new US chip curbs list, but regional rivals build at scale - Malaya Business Insight",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX2FaX0FTTU5RYkcwTXFKUFg1ekk4MnNoLUJkaFRySS1UXzlzdGNVSkthM1AyZFhabGVkcmdsb3R6d0ZOTkJRVFZQVF81VExDRUQ5VHhGbmVCc2FMbXRScTUxRkY5alZSY2NubTM4TDVpcWEzSHpXd3pUOC16MDYwZzY4VThIXzM4bzJPYUdtUmtURXlqeE9Fd2dCUV9WTUpsWVFRUjJlZzlFMXRhU2pacExR?oc=5",
+      "publisher": "Malaya Business Insight",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-25T14:13:45+00:00",
+      "first_seen_at": "2026-11-25T23:09:37+00:00",
+      "summary_excerpt": "PH off new US chip curbs list, but regional rivals build at scale Malaya Business Insight",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "a61ad13b53e3449c5ebf",
+      "title": "MGSP SBAC BID BULLETIN 2024-01 - Department of Energy Philippines",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtcWMyNjFwQ1NTd3EzcHdPLU9Oem1GOFF4dDB5aUVuUWhuYmdaRnpUNUZDMy12R2IzRVhaUVJhR1lNbVVwelMteFB2WW9yZWhRdVZOczBMRWZVd1M1c1E?oc=5",
+      "publisher": "Department of Energy Philippines",
+      "source_label": "DOE 项目及招标索引",
+      "source_id": "doe_procurement",
+      "source_method": "google_news_search",
+      "category_hint": "energy",
+      "published_at": "2026-11-25T13:28:20+00:00",
+      "first_seen_at": "2026-11-25T23:09:37+00:00",
+      "summary_excerpt": "MGSP SBAC BID BULLETIN 2024-01 Department of Energy Philippines",
+      "review_status": "unverified_discovery"
+    },
     {
       "id": "46d909321189e252f4ac",
       "title": "Mingyang Eyes Offshore Wind Projects in Philippines - Offshore Wind",
@@ -130,6 +214,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "128fcf094a94b3c8aa6d",
+      "title": "Kalihim, kapamilya pati yaya! Leandro Leviste taps Amenah Pangandaman, Loren Legarda's aide for solar empire - Politiko.com.ph",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbGd1OWJmX25Fd0tBdmpRSkprWUdsNVZNWDhrdW44YUQzSjJ5MXZTaE5ZYUFNS0tmRkdpc1ZSZllpclJKbVNfQjVaejBsc1dYUGd0d2M0QzkwT1F4c2lSQWZLcGw2UDFVYXlTTS11eTd3dmV6VUNaSjROc1JNLVc2X1p6SW5EcXJKWlprSVRBLTR0QnVZMXJOZW12aXdMUi1GYnZxTGRBc3h6VEc3RlBZUlZwVW10VzBpRXJFTm1zQjR4SVVRaEtoTA?oc=5",
+      "publisher": "Politiko.com.ph",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-25T02:01:41+00:00",
+      "first_seen_at": "2026-11-25T23:09:37+00:00",
+      "summary_excerpt": "Kalihim, kapamilya pati yaya! Leandro Leviste taps Amenah Pangandaman, Loren Legarda's aide for solar empire Politiko.com.ph",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "1d567ba674fc9ced81c1",
       "title": "Aurora Energy Research launches flexible energy forecast reports to support Philippines’ battery storage investment - Aurora Energy Research",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPbm9QcjdSdFd5c3FhNjVlNEgyc2lVRV9VUDdkYThPN1hCQ3RVZFNibUwwbHNKWXE3bmtZelhGdzhmeHRFbTFSWnJ2ZDJvWi1kQzZnTHVVX0UxYTNMU3FDb3Z3aks3OTFHZTYyS1lrZXZDeTZESThHQS00VkplMk1zRjZWWnFfc0x5eU5Gd2tJV1lhbE5SNk01UWN4SFZXU3NqMlRHdTFGbnhydWZ1OGtxTzk4UGh0b0ZzMHVXbUJ1YjgtVlpBYWJzLVNJdnZLVkNDWXBMX3MtbV9rVmFIWk1VX2VLQ0lBemZUckpxM0RqODh1amRVeHRlRllpYw?oc=5",
@@ -155,6 +253,20 @@
       "published_at": "2026-11-25T01:00:14+00:00",
       "first_seen_at": "2026-11-25T11:28:01+00:00",
       "summary_excerpt": "TRIPS and brownouts can be so annoying for those with easy access to electricity, but the flicker of lights from renewable energy for those in far-flung and off-grid areas inspires them to start micro enterprises. FULL STORY: https://www.sunstar.com.ph/davao/ta Facebook",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "5396a9ad53cb5041e7b3",
+      "title": "UAE-PH cooperation for sustainable future - Inquirer.net",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNXy1Rd012MGh1cHlmZTJWTzQzZGcxUVcwMGF0b3JEVjhzaTZJTXBTcTRlUDBjTHFVNU9fLS16TF9HX3dYX20tTlF0OGZzNkUtdHd4SWh6ZmNrdlF1ODlTOEEwbnFtOHdCQ1dtMlUxaGZScmlhSTVSMC0wMnY1UDAxMkU2UdIBiAFBVV95cUxNbG5kc3Y4RkR6UHlKVkx2eURCdDZVeFMtMFpfbHlmbzVLakJpMFhrU0dUeW5lT0JIWC00MTRUUXcwc0RHTkVaYjJlUDdhMEpPanZ1Y1NBODc4OUE0V0RKMURyRW40SHE1bDEtUlVaeko0REROZEFCZ1RJOVp6WmRuVDd2TkpEei0t?oc=5",
+      "publisher": "Inquirer.net",
+      "source_label": "菲律宾储能项目新闻",
+      "source_id": "bess_ph",
+      "source_method": "google_news_search",
+      "category_hint": "storage",
+      "published_at": "2026-11-24T21:15:00+00:00",
+      "first_seen_at": "2026-11-25T23:09:37+00:00",
+      "summary_excerpt": "UAE-PH cooperation for sustainable future Inquirer.net",
       "review_status": "unverified_discovery"
     },
     {
@@ -984,6 +1096,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "f4760d9bb1f7399c30e5",
+      "title": "NOTICE OF APPLICATION FOR COAL OPERATING CONTRACT (COC) - Department of Energy Philippines",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ONzhHY1Z6THZWTmJGLXRnd1F0SXQ5MkpZbHdRMEg0Ykw4Y0gxVXlvTzNYeVdMMUFad0h2QWRRdGlvQUxHNHpnM2RzWmQzZG5ueWxOMXo1ZnVPTHl3dmJUR2t3Q0NtVnpJaFZ5ZWtkY2drRkw5bXVNQTBCY3k?oc=5",
+      "publisher": "Department of Energy Philippines",
+      "source_label": "DOE 项目及招标索引",
+      "source_id": "doe_procurement",
+      "source_method": "google_news_search",
+      "category_hint": "energy",
+      "published_at": "2026-11-20T08:40:37+00:00",
+      "first_seen_at": "2026-11-25T23:09:37+00:00",
+      "summary_excerpt": "NOTICE OF APPLICATION FOR COAL OPERATING CONTRACT (COC) Department of Energy Philippines",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "dae2cf9b4c32a54a8b5e",
       "title": "LOOK: President Ferdinand “Bongbong” Marcos Jr. met with Ming Yang Smart Energy Group Chairman Zhang Chuanwei and company executives during the sidelines of the 33rd APEC Economic Leaders’ Meeting in Shenzhen, China. The leaders discussed - Facebook",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSWF2WmkzQjJhS3FWeUtZSEJmcV9zZFdXZHRraERmTngxMk81QXhtT0J4SHp5YzVzeU9EdjFwUUlNUDRUZVQyNkNQdE5fWV9EZ3V2VElkYW5oUnYwNHZoYWFBMWVGM3pBYWZNdGEwTEtMSUcwUzNWZ05hYWxVZWZ2S21NRUxWUlN5RUZBNnJ3RXJJQTdSUktyQ3RSbWMzbVpaa0RabmZRZnpub21lT19QUUJFQWltZXJVcFJXNFFOZHdWUjBWbXZGeVdUeGUxbW5xQ1kw?oc=5",
@@ -1768,6 +1894,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "695dbce0c26e24681b36",
+      "title": "Global data centre construction to peak in 2030 - Oxford Economics",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcDNfVHp0QzQ2WU1rNHRMY1g5SEptSTFBSW1BbWZLcXg0eUU5eU9lQkhpTFJVRFFmQ2ZRVmhYY3hnbG5hcGFSZ01jTWhLWDRzeWlrbmlNNkg5MV9FQjlYeXBRZmtIcTVVcEdKVUVydjhWaXlrQ0FNZDc3RzU3RnlibU14d0ZGUlBWNU02NVBGV2R3b1U?oc=5",
+      "publisher": "Oxford Economics",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-13T08:00:00+00:00",
+      "first_seen_at": "2026-11-25T23:09:37+00:00",
+      "summary_excerpt": "Global data centre construction to peak in 2030 Oxford Economics",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "f72867c184f2714a9c9f",
       "title": "MTerra Solar turns daytime sunshine into nighttime power - Asian Power",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRGFvbTQ5SGctTnVEYy1rQzJhX25VMk5BU0MwUHBBX3k5SE9jVHhxc2Q4Yi11OFRXaHp5Qk5mZnRKZTVUSWdlWEl3SFFNSDhMaklOZndEMndlZ09nVTJYRGdFdGhiY084UnhPQU00UWl6ZHZ4TGI1LWZTTXZDeDJxNW5sYjdUa3ZFWDRpY1FR?oc=5",
@@ -2524,6 +2664,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "8b6135837910c2c98bb0",
+      "title": "A site in Nabas, Aklan, is among the locations the National Grid Corporation of the Philippines (NGCP) is assessing under Project Airbag. The battery storage initiative aims to cushion the grid against tight supply and the possible 2027 El Niño. Link to the fu",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQzZXbmpvZUQxZmhBeEJHQWhiQ3VBMW9zQndHa3NhZEtYTlI4bEhIbmk3TlM1Ni1pNVMwRkUwM0xxSkF5SWJ0ZFZUVDhyZWxVNkd4NGt2d1VqeWwtX1VrbDhCWk5Lb3Fwa3RiT2x0X3dYV0VUTWNvX1FuN2pMTG8xN1I2TkFuWF9pMU9SUU0yQi1ER05JeTdUTkppMy0zTEtiYlIyQTBHTlhYczBEdjNHMjR2X1BEOEQ1ek1Fa2RlaEhCR25BdlJJWFFQeU8yRU1IMV9PbTFMN3pfR0J4NFE?oc=5",
+      "publisher": "Facebook",
+      "source_label": "菲律宾储能项目新闻",
+      "source_id": "bess_ph",
+      "source_method": "google_news_search",
+      "category_hint": "storage",
+      "published_at": "2026-11-09T08:00:00+00:00",
+      "first_seen_at": "2026-11-25T23:09:37+00:00",
+      "summary_excerpt": "A site in Nabas, Aklan, is among the locations the National Grid Corporation of the Philippines (NGCP) is assessing under Project Airbag. The battery storage initiative aims to cushion the grid against tight supply and the possible 2027 El Niño. Link to the full st Facebook",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "8370f1fc4c2a4f36fb11",
       "title": "Google invests $15 billion into Malaysia as Southeast Asia's data centre infrastructure ramps up - Khaosod English",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZ3BmdHdTWEM2c0FfZE1pcktialpSazlGNWhXYW5VMXI4SXpPVUhDMXR2MUJXMjA5VmNxd3dlNm5qVGNGdjBuOGhOdWJFcDlLeXMyN2NyR2NROGoxWDkxZlNCWWdzVWV1RU0zTU55djAwbm93T0xNYTdPQ1pCUEFUbUd6QVpZZFNpZGJqMWdiTGdzMDdydHc2WFYtQ0x0WnRsMXRBNXpjdXQwVlhFZU5QQUkyRk16am9DRXdhOExTeVFYS3laODNjbUZ1cjV0enNodXFuYk9GdGtnZ9IB3wFBVV95cUxNSmRzYW9YRGZIX2FTVWdBQXBpbGdJUG03bjBDY2M1RXo2RzM0Rk9lR1hlTHRjdVQ3NW5qQTFaT0UzMDJZVmdaVVBjSlpMM3Y3M1BxOWtQTVlvejU3dGNYdzJwOUhlNmRNQjV5SG9EZ1dndzBIdUViTE80cllhcXo0SW5zSFVqOHhZWk80X00zTmF5dEotX2g0TTNTaVVsYmw0bjBNU3JuWl80RG4xWjhxNjdpbEdoUlhqcWFnNjFHUy15aWNZM1pDVXZIVkllRkIwVE5TUkFtX3dDdklFNUd3?oc=5",
@@ -2633,6 +2787,20 @@
       "published_at": "2026-11-06T08:00:00+00:00",
       "first_seen_at": "2026-11-25T11:28:01+00:00",
       "summary_excerpt": "Activists breach Microsoft data centre construction site as protests spread in Europe The Star",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "385f4d63dd15fe4941c6",
+      "title": "Solar for whom? What Philippines can learn from Pakistan’s rooftop boom - Rappler",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRk9McW5ZTjBGbkFlOHE0bzNKOFpVWU9ibVBEdzRIVnZMZ01FbWtVNk1JZVgtR2lzNVF5Qi1xb0NQZ25VN2ljeFduRW82dl9OdGdxbXFHWElVR1NTVjZxc2tRZExpS3dPRlFYNjdSV0dNWW5MdjRPYUpVSzktaGdZZjMyRUpFZzRj?oc=5",
+      "publisher": "Rappler",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-06T08:00:00+00:00",
+      "first_seen_at": "2026-11-25T23:09:37+00:00",
+      "summary_excerpt": "Solar for whom? What Philippines can learn from Pakistan’s rooftop boom Rappler",
       "review_status": "unverified_discovery"
     },
     {
@@ -3238,6 +3406,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "9ebd9689bdd3c1717312",
+      "title": "EXPLAINER: Is going solar affordable now? - Rappler",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa0lkY0d4U2ljem52SF9UUG9OcVhfZzNDZ1B3a1VoUEtxNlJ2ZllpTmtDdTdaNURPQTJGTngxd0xQV1d2UWRQelBSZ1lLb2p0V0lJc0J2UTR1TFFjRlBkNVZvdWFzWk91Y1pWajNoWlFMNV9aeDduSk1SUkIyYmNpZzhUODVLQQ?oc=5",
+      "publisher": "Rappler",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-10-31T07:00:00+00:00",
+      "first_seen_at": "2026-11-25T23:09:37+00:00",
+      "summary_excerpt": "EXPLAINER: Is going solar affordable now? Rappler",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "7b5d1d449a78279b8d9d",
       "title": "Ottawa still funding EV awareness grants after moving to repeal mandate - Rebel News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdUE2a2dnUGZYZEp6Ukt2cUoyZ28xakxSTmI1UWhlTFZIWFRjVk92UmY4NUJBcGVESklid2U2eXRjejhWSEV2ZlRIZ0k4REtTZ3A3TkxMSUxNUWUyME5pRnd6VFZ6cTBkbjVXXy1obnVsTjBLeUN5RXJWOU9ubVFiYXkwdGhseTJIYnZYQlFCZFRjbk1mQ3NYbVFsN1hUZw?oc=5",
@@ -3795,6 +3977,20 @@
       "published_at": "2026-10-27T07:00:00+00:00",
       "first_seen_at": "2026-11-25T11:28:01+00:00",
       "summary_excerpt": "Philippines BESS revenue streams will shift to arbitrage after initial reserve market reliance: Aurora Energy Research Energy-Storage.News",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "68d9311506b769dc5a75",
+      "title": "PHL courts investors for 98-GW energy potential - Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWm5fTGNtWVI3SjIxcENBMXlySTBNWWlGU1NwYzUtcHN1SnNkXzdPV1VDcWt1ZHBGeWs4eWhTSUtJQl84S0RUbVo5SjEyalh0WjgyTDhqNlBGNTVuS3FlX25EUzkxOGJxMTk3TGE1QVpPVGF3UE4zZF9yYjFBRloweW5BcTdFblRs?oc=5",
+      "publisher": "Daily Tribune",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-10-27T07:00:00+00:00",
+      "first_seen_at": "2026-11-25T23:09:37+00:00",
+      "summary_excerpt": "PHL courts investors for 98-GW energy potential Daily Tribune",
       "review_status": "unverified_discovery"
     },
     {

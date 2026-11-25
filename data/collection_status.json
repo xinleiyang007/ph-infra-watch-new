@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-25T11:28:01+00:00",
+  "generated_at": "2026-11-25T23:09:37+00:00",
   "success_sources": 12,
   "total_sources": 12,
-  "new_leads": 116,
-  "stored_leads": 399,
+  "new_leads": 105,
+  "stored_leads": 413,
   "sources": [
     {
       "source_id": "doe_energy",
       "label": "DOE 官方信息索引",
       "state": "ok",
       "items_seen": 35,
-      "new_items": 13,
-      "checked_at": "2026-11-25T11:28:01+00:00",
+      "new_items": 9,
+      "checked_at": "2026-11-25T23:09:37+00:00",
       "error": "",
-      "elapsed_ms": 547
+      "elapsed_ms": 470
     },
     {
       "source_id": "doe_procurement",
       "label": "DOE 项目及招标索引",
       "state": "ok",
       "items_seen": 35,
-      "new_items": 4,
-      "checked_at": "2026-11-25T11:28:01+00:00",
+      "new_items": 6,
+      "checked_at": "2026-11-25T23:09:37+00:00",
       "error": "",
-      "elapsed_ms": 324
+      "elapsed_ms": 262
     },
     {
       "source_id": "ppp_infrastructure",
@@ -31,29 +31,29 @@
       "state": "ok",
       "items_seen": 35,
       "new_items": 30,
-      "checked_at": "2026-11-25T11:28:01+00:00",
+      "checked_at": "2026-11-25T23:09:37+00:00",
       "error": "",
-      "elapsed_ms": 483
+      "elapsed_ms": 405
     },
     {
       "source_id": "bcda_clark",
       "label": "BCDA 基础设施索引",
       "state": "ok",
       "items_seen": 35,
-      "new_items": 26,
-      "checked_at": "2026-11-25T11:28:01+00:00",
+      "new_items": 25,
+      "checked_at": "2026-11-25T23:09:37+00:00",
       "error": "",
-      "elapsed_ms": 479
+      "elapsed_ms": 312
     },
     {
       "source_id": "dict_digital",
       "label": "DICT 数字工程索引",
       "state": "ok",
       "items_seen": 35,
-      "new_items": 20,
-      "checked_at": "2026-11-25T11:28:01+00:00",
+      "new_items": 21,
+      "checked_at": "2026-11-25T23:09:37+00:00",
       "error": "",
-      "elapsed_ms": 463
+      "elapsed_ms": 349
     },
     {
       "source_id": "philgeps_procurement",
@@ -61,9 +61,9 @@
       "state": "ok",
       "items_seen": 35,
       "new_items": 2,
-      "checked_at": "2026-11-25T11:28:01+00:00",
+      "checked_at": "2026-11-25T23:09:37+00:00",
       "error": "",
-      "elapsed_ms": 362
+      "elapsed_ms": 475
     },
     {
       "source_id": "solar_ph",
@@ -71,49 +71,49 @@
       "state": "ok",
       "items_seen": 32,
       "new_items": 4,
-      "checked_at": "2026-11-25T11:28:01+00:00",
+      "checked_at": "2026-11-25T23:09:37+00:00",
       "error": "",
-      "elapsed_ms": 337
+      "elapsed_ms": 332
     },
     {
       "source_id": "wind_ph",
       "label": "菲律宾风电项目新闻",
       "state": "ok",
       "items_seen": 35,
-      "new_items": 6,
-      "checked_at": "2026-11-25T11:28:01+00:00",
+      "new_items": 2,
+      "checked_at": "2026-11-25T23:09:37+00:00",
       "error": "",
-      "elapsed_ms": 472
+      "elapsed_ms": 524
     },
     {
       "source_id": "bess_ph",
       "label": "菲律宾储能项目新闻",
       "state": "ok",
-      "items_seen": 29,
-      "new_items": 5,
-      "checked_at": "2026-11-25T11:28:01+00:00",
+      "items_seen": 31,
+      "new_items": 2,
+      "checked_at": "2026-11-25T23:09:37+00:00",
       "error": "",
-      "elapsed_ms": 387
+      "elapsed_ms": 331
     },
     {
       "source_id": "ev_ph",
       "label": "菲律宾充电桩新闻",
       "state": "ok",
-      "items_seen": 14,
+      "items_seen": 15,
       "new_items": 2,
-      "checked_at": "2026-11-25T11:28:01+00:00",
+      "checked_at": "2026-11-25T23:09:37+00:00",
       "error": "",
-      "elapsed_ms": 392
+      "elapsed_ms": 352
     },
     {
       "source_id": "datacenter_ph",
       "label": "菲律宾数据中心建设新闻",
       "state": "ok",
-      "items_seen": 32,
-      "new_items": 4,
-      "checked_at": "2026-11-25T11:28:01+00:00",
+      "items_seen": 35,
+      "new_items": 2,
+      "checked_at": "2026-11-25T23:09:37+00:00",
       "error": "",
-      "elapsed_ms": 357
+      "elapsed_ms": 574
     },
     {
       "source_id": "elv_fiber_ph",
@@ -121,9 +121,9 @@
       "state": "ok",
       "items_seen": 3,
       "new_items": 0,
-      "checked_at": "2026-11-25T11:28:01+00:00",
+      "checked_at": "2026-11-25T23:09:37+00:00",
       "error": "",
-      "elapsed_ms": 344
+      "elapsed_ms": 246
     }
   ]
 }
