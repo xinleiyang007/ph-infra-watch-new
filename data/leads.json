@@ -1,8 +1,176 @@
 {
   "schema_version": "discovery-leads-1.0",
-  "generated_at": "2026-11-24T23:31:02+00:00",
+  "generated_at": "2026-11-25T11:28:01+00:00",
   "source_note": "RSS feeds and Google News site-restricted discovery indexes; not a complete registry or verified projects. Links may be Google News redirect URLs.",
   "leads": [
+    {
+      "id": "46d909321189e252f4ac",
+      "title": "Mingyang Eyes Offshore Wind Projects in Philippines - Offshore Wind",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTTVMeElXM240UkxRVWRueC1lVW1xUWJZSUF5MzdpVjNUR1p6bEtsdEpDT3BmeE1JcExrS1FRT2xuRlNUZjgyWjB0R2xtdHBtYklXSHpzOUNwNVBQTHJ3bXNPa09SbjFONkFBV05fdWFKeF91X0JjczJGMmdmaEVYMEwtYmRfV054Z0IzY2hLdFRwMzljRUE?oc=5",
+      "publisher": "Offshore Wind",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-25T11:06:31+00:00",
+      "first_seen_at": "2026-11-25T11:28:01+00:00",
+      "summary_excerpt": "Mingyang Eyes Offshore Wind Projects in Philippines Offshore Wind",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "c5f928fe02e4a230e40a",
+      "title": "Project Cannoli: Construction Halted at $2bn Google Data Center in Van Buren Township, Michigan - Construction Review",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUXA3VHVLM2RtQUQtY1VSS0MxOXMzeUlrbFZWcGVFV3k5ODAtVTNCcGFXYnljTWNDSWtxZ2F6dkFub0xNNi1RNlhVa2JTelpOaVdnd2w5ODVuMGFwcnVxclBySjhkYjQ4Zk5YZlBqUTEtelR6dDNXWU85WTYycEJPMTFHVDFjZGhGNlFjYzlPRms3dUdCSjh5MFJtaDBxV1Z5VWlLQnNlTFV1eHJsREJyN2VwRFNzQXZMZ0ZwVTFlcWJ3V2ladUVIODNR?oc=5",
+      "publisher": "Construction Review",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-25T09:33:45+00:00",
+      "first_seen_at": "2026-11-25T11:28:01+00:00",
+      "summary_excerpt": "Project Cannoli: Construction Halted at $2bn Google Data Center in Van Buren Township, Michigan Construction Review",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "0f8a3b7e251bde51f846",
+      "title": "DTI: Mingyang eyes 600-MW offshore wind project in Negros Occidental - InsiderPH",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS2JJeGNYMzFVekZrUGxjdDhfTlFhZTNzOXZSbXVSdDlQdG5nOWxPOVJRcW1mQWtvb05ja0pPUExMSkZDdGRaOEJhOUhlOEdVcndmcjNaYUtRSnRZaVBjMENaazlXTlFyMU0tR1g2dzhDZndjMGJKMm02ZVJZS2VMdGppNm94TFlTaHZrZ1hTbk9ZX0k?oc=5",
+      "publisher": "InsiderPH",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-25T09:17:22+00:00",
+      "first_seen_at": "2026-11-25T11:28:01+00:00",
+      "summary_excerpt": "DTI: Mingyang eyes 600-MW offshore wind project in Negros Occidental InsiderPH",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "a283294c330d7a22a043",
+      "title": "ASEAN 2027 budgets accelerate green transition, creating investment opportunities - TNGlobal",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc2RmcEFMN1ZMYWlrNlZOT211MFNxWDNiekNHb3RmODh2QUtWMkFxZUlhb2g4d180dXhNNzVBWGxkTHU0SmxJU29lVW9lUnB6dWdVMmpwTXpFT1lsNmduOFBpZ0hid3FNVlo4RV9kV0JJcGdfUTRtYXU2ZFNrTWJsVmRPckt0OEpYaE5RVDNTZ1ppNnUyRC1kblVmcUx2RE9NYXp6UmhMMHhPVXVXOExKVGV3aFdOaGM?oc=5",
+      "publisher": "TNGlobal",
+      "source_label": "菲律宾充电桩新闻",
+      "source_id": "ev_ph",
+      "source_method": "google_news_search",
+      "category_hint": "ev_charging",
+      "published_at": "2026-11-25T07:43:29+00:00",
+      "first_seen_at": "2026-11-25T11:28:01+00:00",
+      "summary_excerpt": "ASEAN 2027 budgets accelerate green transition, creating investment opportunities TNGlobal",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "00d37c62ac603842a7c5",
+      "title": "Philippines advances Ming Yang wind service centre plans - Asian Power",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNGVMbGtGR1JjdFRpR1l6YWdxRk9TZGtsZ0ZVS1RWY1NQbmZQQTF2WHBaOWRNYXJ3X0FqcFhMWkZFbDR1UDlBMlA2Tk9xSXhoNmpfY2RRV2RLRWlZYThQNEI4OWdTd0FwcmhKVkZtcU51VEpYeEFiWWU4YWk2WVo0ZFZHRFU5VnFPNEdDak1vanpRaW1iNTJEMA?oc=5",
+      "publisher": "Asian Power",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-25T07:32:01+00:00",
+      "first_seen_at": "2026-11-25T11:28:01+00:00",
+      "summary_excerpt": "Philippines advances Ming Yang wind service centre plans Asian Power",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "d08f34bd1e84653ef15a",
+      "title": "Legarda’s ex-nanny, relatives and former staff tied to Leviste’s 35 solar companies - The Global Filipino Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmRkbkQ0WFZSWnZEUzI0ODc1dGpnS0ktN1o2ZUNEVW5NWWl4SnFNV3dlOUZVbXpGOWxXNUlCWXdDYnhvVGg2bi1CVVEtbE5ZRlprbTdCTUg5bVBsOVFwYi1vYlBtTlo3QW9RZl9WODZORFlVT2VWUlhLX0tRS3g1VFc3d0pRb2wwY2lVemNtYVZQODFBUWJkQ3RXMmpqc1hPeVFfQTdKSllPTlE3UkU3dzFwYlZ6WG5HcHJB?oc=5",
+      "publisher": "The Global Filipino Magazine",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-25T05:48:56+00:00",
+      "first_seen_at": "2026-11-25T11:28:01+00:00",
+      "summary_excerpt": "Legarda’s ex-nanny, relatives and former staff tied to Leviste’s 35 solar companies The Global Filipino Magazine",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "faf41ed19f097ca3a7ae",
+      "title": "China's Minyang eyes developing offshore wind projects in PH —DTI - GMA Network",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDZLLV9ObHRQZXZkVEhJMHoyQmJNTmZKUUtING1JWTRyeXdjWWZOYlBYcnNTRWxXd1BTZEhMS09KMnBpTVlKcXEzOGs2enZtVlQ1RXhQcW0tZWtieGVQOVZuUG5XYXlXa2tZcU9QTEF1RjV6N2dRcUtNYXY2WFB3X0tuS3VkR25fX3EtM2dSRENCSVU3T2JBdGpMYkRIb0lwNkdhRzFQd09vUE5ValN2SlhFNmsyVXdZYnVqS3BoRi1FbmVBZEHSAcsBQVVfeXFMT0MyTE5LVmNQeGM2Ylg0c2hxSmdZcVJfZVlxb2hHYXVndDlGUnpmUThaQ2FRUG53Nkd1M3pReU9JMmxuVXBxNGZDbEpER2Q5eUs0c2dkVVl4ZTNYblpiQ09hRDc5cDlobjJKek5ZVVYtdzBRQThiSnNxTjlnZ1MtMlhtSWZaejFZdGFHZmVYYW1aNk50S1BuWXpRMjlHbTZicTBEcDZRWWdPNGtXWnJvN3pqcFQtTGwxTjBZU0YzQ0lnMHBDSE5UUFdCZlk?oc=5",
+      "publisher": "GMA Network",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-25T05:04:58+00:00",
+      "first_seen_at": "2026-11-25T11:28:01+00:00",
+      "summary_excerpt": "China's Minyang eyes developing offshore wind projects in PH —DTI GMA Network",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "079379f8d0eb925d885c",
+      "title": "Mingyang plans $3.5M facility for 600-MW Negros wind project - Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRmxENXVHaUw5SmNzTHJHd2lrUHp0ejdTUkJiVHFwTDBIa2hvdHhhZHo0bW9taHZNQVBaRGhnZXZUYmhQand6dW04R3FUaEs0RGpaNnBjRHVBUTUtNVdMOUZuRWwxWTEzNEpiTnBCVHZqdkc5M08xRU9kdzh0XzVOcHMwVlBIZWM0WHdXYTViZHh0ZGJBMy1J?oc=5",
+      "publisher": "Daily Tribune",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-25T03:46:33+00:00",
+      "first_seen_at": "2026-11-25T11:28:01+00:00",
+      "summary_excerpt": "Mingyang plans $3.5M facility for 600-MW Negros wind project Daily Tribune",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "812ed512c2e955bdeac7",
+      "title": "Kalihim, kapamilya pati yaya! Leandro Leviste taps Amenah Pangandaman, Loren Legarda's aide for solar empire - politics.com.ph",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbGd1OWJmX25Fd0tBdmpRSkprWUdsNVZNWDhrdW44YUQzSjJ5MXZTaE5ZYUFNS0tmRkdpc1ZSZllpclJKbVNfQjVaejBsc1dYUGd0d2M0QzkwT1F4c2lSQWZLcGw2UDFVYXlTTS11eTd3dmV6VUNaSjROc1JNLVc2X1p6SW5EcXJKWlprSVRBLTR0QnVZMXJOZW12aXdMUi1GYnZxTGRBc3h6VEc3RlBZUlZwVW10VzBpRXJFTm1zQjR4SVVRaEtoTA?oc=5",
+      "publisher": "politics.com.ph",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-25T02:01:41+00:00",
+      "first_seen_at": "2026-11-25T11:28:01+00:00",
+      "summary_excerpt": "Kalihim, kapamilya pati yaya! Leandro Leviste taps Amenah Pangandaman, Loren Legarda's aide for solar empire politics.com.ph",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "1d567ba674fc9ced81c1",
+      "title": "Aurora Energy Research launches flexible energy forecast reports to support Philippines’ battery storage investment - Aurora Energy Research",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPbm9QcjdSdFd5c3FhNjVlNEgyc2lVRV9VUDdkYThPN1hCQ3RVZFNibUwwbHNKWXE3bmtZelhGdzhmeHRFbTFSWnJ2ZDJvWi1kQzZnTHVVX0UxYTNMU3FDb3Z3aks3OTFHZTYyS1lrZXZDeTZESThHQS00VkplMk1zRjZWWnFfc0x5eU5Gd2tJV1lhbE5SNk01UWN4SFZXU3NqMlRHdTFGbnhydWZ1OGtxTzk4UGh0b0ZzMHVXbUJ1YjgtVlpBYWJzLVNJdnZLVkNDWXBMX3MtbV9rVmFIWk1VX2VLQ0lBemZUckpxM0RqODh1amRVeHRlRllpYw?oc=5",
+      "publisher": "Aurora Energy Research",
+      "source_label": "菲律宾储能项目新闻",
+      "source_id": "bess_ph",
+      "source_method": "google_news_search",
+      "category_hint": "storage",
+      "published_at": "2026-11-25T01:28:50+00:00",
+      "first_seen_at": "2026-11-25T11:28:01+00:00",
+      "summary_excerpt": "Aurora Energy Research launches flexible energy forecast reports to support Philippines’ battery storage investment Aurora Energy Research",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "788f2aeab81bc1c45c66",
+      "title": "TRIPS and brownouts can be so annoying for those with easy access to electricity, but the flicker of lights from renewable energy for those in far-flung and off-grid areas inspires them to start micro enterprises. FULL STORY: https://www.sunstar.com.ph/davao/t",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUDFYSHI0N2NtQjVrYm1jam5TenB3aHg2R1ZkN0gzMk5VRVhibXJ3UFNHQXBTVldHM1FFVnpyOGFBejgtWWVUQUNGVzlsdUdVd0tQTjdYbGNpWERnQW5TS1B2bkJzbWxLRmpHUTlqYWlzSEpqWXFiUm42Nk16bllxZEtEUkJGbEl5RWw5N19SMXd1a3podW12TVBKMm1OanQ1WG9oT0ZIczdrTTV2MndNUHNMMTg3RDMzMUdHdC0yYXo4RkpReVNDNXoxMFJoWGIwRlJlTGdISnZMamNRZnF2MA?oc=5",
+      "publisher": "Facebook",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-25T01:00:14+00:00",
+      "first_seen_at": "2026-11-25T11:28:01+00:00",
+      "summary_excerpt": "TRIPS and brownouts can be so annoying for those with easy access to electricity, but the flicker of lights from renewable energy for those in far-flung and off-grid areas inspires them to start micro enterprises. FULL STORY: https://www.sunstar.com.ph/davao/ta Facebook",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "0c3b417044a45959a872",
+      "title": "Sungrow targets more reliable power with solar-diesel hybrid technology - https://megaproject.com/",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQmRFazVtOTR3cVZNWkE3cTFUZzFwQ21CeFhiNGJzazBJOVNQc1lkOG5waUp1Q3lDYVlnTm9zSXl6T3A3M1h4cUlUU3pjYXJDa2dMOGk2T1piV191Njh1RE1QVy1RcVZUaXpzZmZkbkYyYmlLV0dCRG9FdGNHWGh2YkwydXRabFVWX2VYSElNZERqNmpRTWtnVkY4RkUzYWtfbzJWUDVxNEpYU01kaDI1aw?oc=5",
+      "publisher": "https://megaproject.com/",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-24T20:14:28+00:00",
+      "first_seen_at": "2026-11-25T11:28:01+00:00",
+      "summary_excerpt": "Sungrow targets more reliable power with solar-diesel hybrid technology https://megaproject.com/",
+      "review_status": "unverified_discovery"
+    },
     {
       "id": "c12cfa4b765518b1a874",
       "title": "US agency helps fund study of IPS unit's Philippine cable plan, not its construction - Tokyo Brief",
@@ -32,6 +200,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "ff7014a8aaea6a99fcda",
+      "title": "£16.5 Billion Chapelcross Data Center Project Planned at Former Nuclear Power Station in Scotland - Construction Review",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPV1JBaGRaNFJ1bzZ3VmxYR1B2WC02bk5FWm1FZHQ0aDVvNU1sUE1tUWNHb0h1SDZ4alc4ZHJtV3F3RnFHakVHWl8tazlCbmRqU3ZBNGt6MDd2RGpXYkhHY0RJUDR2M0JCMkJYbUZWeTFBR3pVazRqNUFaMW1oejhZemktaUtWZmVtWUZBbjVDRnZHSTQxQ09BbXBFZU0yeG9YRzhUUkRWaVEteUZtLUxUOVU0eGM3d0EwS25yT2pRelBPemRJSkhITnVTTXk2X3M?oc=5",
+      "publisher": "Construction Review",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-24T19:58:43+00:00",
+      "first_seen_at": "2026-11-25T11:28:01+00:00",
+      "summary_excerpt": "£16.5 Billion Chapelcross Data Center Project Planned at Former Nuclear Power Station in Scotland Construction Review",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "35b7539df4c475190fab",
       "title": "Chinese group eyes building PH wind energy hub - Inquirer.net",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYUdMbWxRUEJWYjFsNFd2MnMwWHpoTGFpRDlGbHA2TVhnMkRrdV9tM0JndTBOYXkyUWRZOURubUVqMGYxbzJHTlFiY1V1MkNNdHdSb2xON0JRcmoxZUZNYWU0UFRMU19lYWZMZ1NkbjlwZjBiNUZBTTdZbnRtUmt3WlROOXlLLXI0Sk9hY0ItcUHSAZABQVVfeXFMT2FHTG1sUVBCVmIxbDRXdjJzMFh6aExhaUQ5RmxwNk1YZzJEa3VfbTNCZ3UwTmF5MlFkWTlEbm1FajBmMW8yR05RYmNVdTJDTXR3Um9sTjdCUXJqMWVGTWFlNFBUTFNfZWFmTGdTZG45cGYwYjVGQU03WW50bVJrd1pUTjl5Sy1yNEpPYWNCLXFB?oc=5",
@@ -57,6 +239,20 @@
       "published_at": "2026-11-24T16:00:00+00:00",
       "first_seen_at": "2026-11-24T23:31:02+00:00",
       "summary_excerpt": "Chinese firm eyeing wind energy hub in Philippines Philstar.com",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "2056dbf6780c8fe6e0b4",
+      "title": "10-GW new power capacity coming online by 2028 – DOE - Philstar.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZWMzZlRta0hHQXQ5MU9hanlEc0pTdVpnT0NOUXlUbl91QVlvZFM3YldvZlhxWHpIbVJ4MTJEckFVWVJyWW1sT0d1OUFDa2YyQjEzUkpqSUVBUkZ5NVNzb09vME0xU2U2WTBpbjVocFZiVHFXNG1FY3hKcFl3TFhOXzdvLU5lWC1RZUQ0TUpNQWFwZVN1SWdwVHRpZjA3VlBmODIzUWMxMmfSAagBQVVfeXFMT2VjM2ZUbWtIR0F0OTFPYWp5RHNKU3VaZ09DTlF5VG5fdUFZb2RTN2JXb2ZYcVh6SG1SeDEyRHJBVVlSclltbE9HdTlBQ2tmMkIxM1JKaklFQVJGeTVTc29PbzBNMVNlNlkwaW41aHBWYlRxVzRtRWN4SnBZd0xYTl83by1OZVgtUWVENE1KTUFhcGVTdUlncFR0aWYwN1ZQZjgyM1FjMTJn?oc=5",
+      "publisher": "Philstar.com",
+      "source_label": "菲律宾储能项目新闻",
+      "source_id": "bess_ph",
+      "source_method": "google_news_search",
+      "category_hint": "storage",
+      "published_at": "2026-11-24T16:00:00+00:00",
+      "first_seen_at": "2026-11-25T11:28:01+00:00",
+      "summary_excerpt": "10-GW new power capacity coming online by 2028 – DOE Philstar.com",
       "review_status": "unverified_discovery"
     },
     {
@@ -130,6 +326,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "5771d51b4f0186a7a6e0",
+      "title": "MGEN Renewables projects ₱700-million full-year profit on MTerra Solar commercial launch - Manila Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM2RON0o1cDA5OEdzR1U0VEpKSTRYZU4yZF9yaW9aeU9kRW9HNlY2NW9ZZDZ3SmRLMkZzZDFINU93QzQwdEZHRkVqWXlsTVQ4NUp5Tm1icjJ6aDlTVWpESUxDdF9DdkJwckZ5NndCeG9tZF9Rc1ltRHJOSGJ2ems3TEhOdzhSUmRIdURSM0NoSy05TjFuU0FEM0QwaUxlcHZYeVF6UnI4bWxRakdxNk41Y0pOM2JqVDg?oc=5",
+      "publisher": "Manila Bulletin",
+      "source_label": "菲律宾储能项目新闻",
+      "source_id": "bess_ph",
+      "source_method": "google_news_search",
+      "category_hint": "storage",
+      "published_at": "2026-11-24T08:29:24+00:00",
+      "first_seen_at": "2026-11-25T11:28:01+00:00",
+      "summary_excerpt": "MGEN Renewables projects ₱700-million full-year profit on MTerra Solar commercial launch Manila Bulletin",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "10f5b13adce881877148",
       "title": "Ex-budget chief, Legarda's former aide, ‘yaya’ among incorporators of Leviste's 35 solar firms - Bilyonaryo Business",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbkJkRDVWRjVvY3dkSzNCRUdqZjl0aEw4b1dGSUE3SUJUWVZIM2hGa0tDYmRsRjhCR3dIa2tjR2VITEdqZFI2alVobHQ3WThBOWF6b1V6emRFcUxraWEyNEg0MDlramtVLUEtVUlnYVZlMGd2ZnpBWGN0LWZZZW5DNG10M05CTDJhSW5PTHlYZU9PTGlwYkZTeVlVQWkzLXZlV284S1NySngwWXg0TjFSYVJ5b24tMzdmbllqLXJn?oc=5",
@@ -158,6 +368,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "fe4d9c7469ca577a82f5",
+      "title": "MGEN Renewables Earns P197M in 2026, Driven by MTerra Solar Operations - Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdHp0elJxUjhBZmJCZzcyRWhNWTdUY0FhUmNxNjROWG9mbzkyMHM2OW5qY3NYYTc5ODhpVWZyMTVaX3dnb2VfTldWeWo0ZW5JWTdXWmg0b2dyOG1tTFFTbm0tVXF5YW1FdTZ3dHhTeG1SN2dGVzNhX3pvNXR0Z3g0TEVIYw?oc=5",
+      "publisher": "Daily Tribune",
+      "source_label": "菲律宾储能项目新闻",
+      "source_id": "bess_ph",
+      "source_method": "google_news_search",
+      "category_hint": "storage",
+      "published_at": "2026-11-24T07:21:53+00:00",
+      "first_seen_at": "2026-11-25T11:28:01+00:00",
+      "summary_excerpt": "MGEN Renewables Earns P197M in 2026, Driven by MTerra Solar Operations Daily Tribune",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "7ab0f83a0f5b659deff7",
       "title": "Beyond AI: The ASEAN Companies Building the Region's Data Centre Backbone - Beansprout",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtU3Vja0dqLTBoOVNVY1NONzNJMjJyMVJVQXJkQlQtSnVUUFdCMnJjTnZaU3oySG8zMHlnb2JWTVhFam9HQ1NIYklTMnpnRDEwTWpTbGlwV3Q?oc=5",
@@ -183,6 +407,20 @@
       "published_at": "2026-11-24T05:58:47+00:00",
       "first_seen_at": "2026-11-24T12:37:24+00:00",
       "summary_excerpt": "DOE Investment Talks Gain... Department of Energy Philippines",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "725f743ba6baeac8c29a",
+      "title": "DOE Investment Talks Gain Traction as Ming Yang Eyes PH Wind Energy Hub, Filipino Jobs - Department of Energy Philippines",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNGNOU2V3TVFhY0lZSjdxUzNZaFJWalYyMlJnMmgtMG5LWGhKT1VBdzNtUzZTWDZscWtURjJKTTMxN0JXM3hYSFY1ZTROYlQzWmdES2JsdUExcWR2b2xpV25neXVjZ09RdWtaZWRLWkVESmtuUF8xLV92MnU3cHZnS1lBSlJGM254alg1eXN5YkduUDFteVVsQVlkSlJwaHFIU3BySDNsOA?oc=5",
+      "publisher": "Department of Energy Philippines",
+      "source_label": "DOE 官方信息索引",
+      "source_id": "doe_energy",
+      "source_method": "google_news_search",
+      "category_hint": "energy",
+      "published_at": "2026-11-24T05:58:47+00:00",
+      "first_seen_at": "2026-11-25T11:28:01+00:00",
+      "summary_excerpt": "DOE Investment Talks Gain Traction as Ming Yang Eyes PH Wind Energy Hub, Filipino Jobs Department of Energy Philippines",
       "review_status": "unverified_discovery"
     },
     {
@@ -911,6 +1149,20 @@
       "published_at": "2026-11-19T22:38:44+00:00",
       "first_seen_at": "2026-11-22T07:53:08+00:00",
       "summary_excerpt": "DENR assures strict safeguards amid PH renewable energy goals Philippine News Agency",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "a718dfe8046da9323e24",
+      "title": "SunCon upbeat on data centre outlook as order book hits record RM12.45bil - The Star",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUm51el9JRDhnNlAwZTJYd2ZabGhPQ2lHZWdZeXIzaFFJX3hBTlV2LWdsLThLNnZ3WXBYWlJfQi1tOG1Bcm1SamU5OVp6Q2tfOU93aEhoYWp2NzdpYUpGSUM2c2NSeUMybEFhczR5TkU1RjFkU0NXTDAyamxkQXUxa2M3YnljRUpXM0hYa3dZZ2VQX1lhYkJwaWZ3aWo5NVgtSjJZNU9XMFF4ZHJxejZ4d0swOVJCek5xbE1NN1pvLVlPa0ZfOEtmXzBmWTdzQQ?oc=5",
+      "publisher": "The Star",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-19T12:30:00+00:00",
+      "first_seen_at": "2026-11-25T11:28:01+00:00",
+      "summary_excerpt": "SunCon upbeat on data centre outlook as order book hits record RM12.45bil The Star",
       "review_status": "unverified_discovery"
     },
     {
@@ -1670,6 +1922,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "aa2582102fd4d7e22d0e",
+      "title": "Puerto Galera wind energy stabilizes Mindoro power - Inquirer.net",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeXVSZDZzdElzclNjUXYwV3BUNlRyTC1rYVd0NGdJMW54ZHM1NElkQ20wbW8tNmFHR3RLQU9fbEZRVEc5eG9xYUxMWm15Um1yR1RFa0k4SjVVZTRtNGdwQWphRkNodjJmQ3oyc2ZaTkdHR0ZBT0hRZ1RKWl90OW41MkNOYWZWTDdJaklzdDBFNkh2UdIBlwFBVV95cUxNNmpVSXR3OW1fdUltUGF5RnV4Y08wVkFiOXhTNzcwWS1aeHdwNkl1ZzY5N2pEV3NGM1Q1d1k4SGJDaUZxbXY4dk9KSWNQTWloVmJtRm85R1Z5Wml6TkhpdFZjZXRRVDhKQl9DbmJSUnNINFNfUWtIUXh0WWpSNGRNeHJqYXctSVpPS0U2VWNYRkZPR0p3UW1F?oc=5",
+      "publisher": "Inquirer.net",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-12T08:00:00+00:00",
+      "first_seen_at": "2026-11-25T11:28:01+00:00",
+      "summary_excerpt": "Puerto Galera wind energy stabilizes Mindoro power Inquirer.net",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "b971ce5c08dd9bb55fa8",
       "title": "Raslag unit advances plan for Philippine solar-storage hybrid - Renewables Now",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUUlIckdNYXhYLW4wT0tHUUJ2bEpadThKcFYyZ1hkOFBuS1BLUEZsWVdSbHJpUDhVOXVRYmpsZWtuYUM3aW8tNHBnN0xOUzAyTnNKajh1WFZDWkhVUGRRTXk4U3pta0pqWXJycTc3WVZtYzJIUzlBVVhqaUNscXIxMkgyaWNhb2hYQVprT1hOX0IwRGFwdGF4d3NGYlhlZlZsTmpr?oc=5",
@@ -2356,6 +2622,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "96b72777c1199d8d9779",
+      "title": "Activists breach Microsoft data centre construction site as protests spread in Europe - The Star",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOLW05ank3cDkyeVo2VTd1eHlOTERpSmNQc3g1aTZQU1ZEaUhlV3Q0dC03bHFfNk1QWFpNYkFWVEh4aEFYY3BEY2lIQ29OVkItX29sNUZoUWtCZXhzVXNnQU5aTXhlOXJwbGptT2pVMXEwVDZVZEc2dEZ2QWY2MFVWWGd5NEVEQTk2Z29KWTFYOURJQlRHd2otdExOdXAyOVNfM25IX1p5dXJIYWhZazZRNnlMUmxQYzZxRzNlU0pSS1gxT244THBVZXNZUGZJM3dXcHFCTg?oc=5",
+      "publisher": "The Star",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-06T08:00:00+00:00",
+      "first_seen_at": "2026-11-25T11:28:01+00:00",
+      "summary_excerpt": "Activists breach Microsoft data centre construction site as protests spread in Europe The Star",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "80eff236d3166aa5b3b9",
       "title": "Chinese Top DC Charging Station Producer Reshapes Global EV Infrastructure Leadership - EIN News",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZVJhR3N4YXQ1YjgtNVdhbUNlMHhqYXlROVJuMmNaV0NKeDhkNGdjUl9xYkFhY3dPbDI4eG51N2MyTGpLTFdwa0RwVmtxUTNaM245OTFwTWtVR1BzU2d1ZmZNenQ4Zmo2b0ZPaWZhd3UzUEdQZDRCN3pYQzJZbjRybUtxN1A2U28ySW5tNVBqZTM4T29SSTB1MVF1MW0taGhKZDgtNHg3Z19Ra19wekhpeTJWWlpBVFFIVWNSUl9OT20xZnp6a2c?oc=5",
@@ -2958,6 +3238,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "7b5d1d449a78279b8d9d",
+      "title": "Ottawa still funding EV awareness grants after moving to repeal mandate - Rebel News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdUE2a2dnUGZYZEp6Ukt2cUoyZ28xakxSTmI1UWhlTFZIWFRjVk92UmY4NUJBcGVESklid2U2eXRjejhWSEV2ZlRIZ0k4REtTZ3A3TkxMSUxNUWUyME5pRnd6VFZ6cTBkbjVXXy1obnVsTjBLeUN5RXJWOU9ubVFiYXkwdGhseTJIYnZYQlFCZFRjbk1mQ3NYbVFsN1hUZw?oc=5",
+      "publisher": "Rebel News",
+      "source_label": "菲律宾充电桩新闻",
+      "source_id": "ev_ph",
+      "source_method": "google_news_search",
+      "category_hint": "ev_charging",
+      "published_at": "2026-10-30T15:34:21+00:00",
+      "first_seen_at": "2026-11-25T11:28:01+00:00",
+      "summary_excerpt": "Ottawa still funding EV awareness grants after moving to repeal mandate Rebel News",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "4b2d723a599b206d1faf",
       "title": "Are emerging markets pressing pause on data centres? - Developing Telecoms",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPc0JrT2hGU0FGU1pZOGF5bjA1TlNZU1hXS3pWYnRfN2ZyTG5mV2N6OVMxc25laHZZTzZrSUh0bVBPY1Y5Z3gzZ3dtbDhpaHRjZGZVWmY1UWxFbHRpUzBzcFNTOXRobmtRTF9oNlVXdXpReVlMVVg4a0ZhVzRHRVRUUWpLNEdibjJ1Q1V6dlZMbXQyUHRDZlN4bzVkY1FHV1JsLVJpM1ZpZndoU0x5SVNhZFo2MHdJOE9McEVwb0RzdFFTU2VSNVEwMHRNME5lQlk?oc=5",
@@ -3487,6 +3781,20 @@
       "published_at": "2026-10-27T07:00:00+00:00",
       "first_seen_at": "2026-11-23T10:53:50+00:00",
       "summary_excerpt": "Alternergy completes sea-crossing transmission link for Quezon wind farm BusinessWorld",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "41468b120fd91b943a65",
+      "title": "Philippines BESS revenue streams will shift to arbitrage after initial reserve market reliance: Aurora Energy Research - Energy-Storage.News",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQR3NIaFE5NlJXMHNfNkhpOG92MEYydU5LRXpYOU51MGhDMG1LcGVmT01vb2FHY0ZtcUl5RnlYbEZHRU5JR1N0S3lRaFU4bkp1V2UxSWo3a3NxeXZZNzI2N1VsWnJXU3FRMGFOcEFRYUFfdmtZV3JOV21GUWo5amd1T1dXWElOOUdiTGtTQWpMM3VBd0ZMbkQwRWpQLUI2MHJzTlUtaVZsdHhsTTA0MzNUdExqNHFHYmdJOVJaQjVVcGhubTVsRE5wdDZ5RjFxUnI3SzROclU3R3d2dXc3ZngtaDl0c3A?oc=5",
+      "publisher": "Energy-Storage.News",
+      "source_label": "菲律宾储能项目新闻",
+      "source_id": "bess_ph",
+      "source_method": "google_news_search",
+      "category_hint": "storage",
+      "published_at": "2026-10-27T07:00:00+00:00",
+      "first_seen_at": "2026-11-25T11:28:01+00:00",
+      "summary_excerpt": "Philippines BESS revenue streams will shift to arbitrage after initial reserve market reliance: Aurora Energy Research Energy-Storage.News",
       "review_status": "unverified_discovery"
     },
     {
@@ -4288,6 +4596,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "6032c29cddc6fc799cac",
+      "title": "Electric Power Industry - Department of Energy Philippines",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aWm1GY2JFelp1U1lLbVI1SjFkWkpXenMzal82WlJaQTQ4akVLTV83WXBLXzJHdUVoVEZKcXl3cjU5MXY0ZHN5b1I1VnJoZFkzSkYxZzY2a3BqS0Z3NG9Kaw?oc=5",
+      "publisher": "Department of Energy Philippines",
+      "source_label": "DOE 官方信息索引",
+      "source_id": "doe_energy",
+      "source_method": "google_news_search",
+      "category_hint": "energy",
+      "published_at": "2026-08-19T07:00:00+00:00",
+      "first_seen_at": "2026-11-25T11:28:01+00:00",
+      "summary_excerpt": "Electric Power Industry Department of Energy Philippines",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "dac2538180e0fc4d849b",
       "title": "Department Circular No. DC2021-06-0018 - Department of Energy Philippines",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZSUp3ZHFRQXVfTFZURng3Nno4SlJKQ2xiZ3FNUEJSdFJSTjZMWmRWS2ktazExTmJEYno5UTBMcFdpRW5EMzJXc01qSk1xdmNQWHVjcnFxbHB1UQ?oc=5",
@@ -4694,6 +5016,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "1a32f426e2e10df43660",
+      "title": "Department of Energy List of Existing Power Plants as of 30 April 2026 - Department of Energy Philippines",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSkFfWHRENmFxV0JJWm5sRVlYbnh6bHFVaXc0YzVjd3ZncFUyZVVpWll1VU1yRlRuMGJWRWR3dEpTMy1SZ0hZUncwNGJWa1hSU2VkZmRRRUNEOV9UV3FEWTZjU2RORTlIRm5BN0pQNGFyMGN6cmRnSkcxWTNrM0RQeE5GUHB2a1lKN1NOalJxTlRfaGxvNHBvN0llSUI4ckFfQ0xRdmxQWnBNRXNH?oc=5",
+      "publisher": "Department of Energy Philippines",
+      "source_label": "DOE 官方信息索引",
+      "source_id": "doe_energy",
+      "source_method": "google_news_search",
+      "category_hint": "energy",
+      "published_at": "2026-06-13T19:07:42+00:00",
+      "first_seen_at": "2026-11-25T11:28:01+00:00",
+      "summary_excerpt": "Department of Energy List of Existing Power Plants as of 30 April 2026 Department of Energy Philippines",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "ba0f67ae6252266272db",
       "title": "Department Circular No. DC2026-06-0013 - Department of Energy Philippines",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sbDhaUHNzQ293R1pSU2l5TzQ4a2hvOHF1UjlnbV9Nb05wNDRFWFVWcEFFRUhxTGpaVDZLTjhybHdmREFlRmQ4cmVEOEdTZC1DR1ZjenlKeVQ0Zw?oc=5",
@@ -4831,6 +5167,20 @@
       "published_at": "2026-04-27T07:00:00+00:00",
       "first_seen_at": "2026-11-22T06:56:34+00:00",
       "summary_excerpt": "PH and South Korea Seal Biggest Landmark Deal to Build National Cyber Security Center Department of Information and Communications Technology (DICT)",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "96cbb57a99f0ac87ee97",
+      "title": "GEOP RENEWABLE ENERGY SUPPLIERS - Department of Energy Philippines",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX3hMT3pVaFpkbFdOVVRVeVFEZ0lhcENoeXVyN2NoYUNva0dyRHc2M2ZQUGM3alF0anZ1eVRFMHhnY1dxVlJIaEc5SWI1TDBjVzZmbjdPSnV1TUIyemUtelpzRTJvRm10VUhXTjZFak55Nm16OWJuRXZ4dThvaWpoVkZ0c3dZRGViNHpSSWlFNA?oc=5",
+      "publisher": "Department of Energy Philippines",
+      "source_label": "DOE 官方信息索引",
+      "source_id": "doe_energy",
+      "source_method": "google_news_search",
+      "category_hint": "energy",
+      "published_at": "2026-04-22T14:10:27+00:00",
+      "first_seen_at": "2026-11-25T11:28:01+00:00",
+      "summary_excerpt": "GEOP RENEWABLE ENERGY SUPPLIERS Department of Energy Philippines",
       "review_status": "unverified_discovery"
     },
     {
