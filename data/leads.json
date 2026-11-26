@@ -1,8 +1,64 @@
 {
   "schema_version": "discovery-leads-1.0",
-  "generated_at": "2026-11-26T11:02:01+00:00",
+  "generated_at": "2026-11-26T23:04:03+00:00",
   "source_note": "RSS feeds and Google News site-restricted discovery indexes; not a complete registry or verified projects. Links may be Google News redirect URLs.",
   "leads": [
+    {
+      "id": "573bd08dfd5080c0522c",
+      "title": "Philippines: Pax Silica is not a land grab — but Aeta rights cannot be sacrificed for a tech dream - Gulf News",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYklabXBQV3I2QjlFU1NGTW5CcC1KV19FdDdzb1R1NXJZRTdfa0Q5Z1dCS05ZYlI1WS1nZjhwdkJYODNwRVE3T0JET2FWX2VtYVFVWGJvWm5pc1hCTlppMUx4bUdaaTZoamE2SGtwWVhrZVg5VzJfdnNWdVVFVVpUbGRxOHQwbDRuWTlVcUlSZ3hXQld1MEhScjhjMlVOTU5HNnZpZFF2ZG5wbTk3Y2x5MXlfT21pYkpOaHdVRXhiWS1XVk5LbzJ5STl5aC12RlB0QXfSAeIBQVVfeXFMTndqbHRFWkZPX3NPMnN5S2ZITWNwVlZNajZsOWJWV245blhEQ0N6dlVTWm82a0lPWElKN2R3aExSSmdDNjhIQW5hY3N0dEkwWmxENFlHZFA1WVZGOWxkTEw5X2FfT0RoZnNqVkRmTTVWT2xtSm95SXFxZmpETlhOS2VLaEJHanB1T092RGFyZUdiSHhPWXFFVWJ5SU1PRTljS1hfWTRDY3ZTREZ3WDYxUHgwVjRVaHVGai1PTlRrWlN6X3QxX3NJa2liTzdrLTd4YUx4dEtkaGgyM09XSXJDQ3E1QQ?oc=5",
+      "publisher": "Gulf News",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-26T21:53:13+00:00",
+      "first_seen_at": "2026-11-26T23:04:03+00:00",
+      "summary_excerpt": "Philippines: Pax Silica is not a land grab — but Aeta rights cannot be sacrificed for a tech dream Gulf News",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "61f77986a90d622cc50d",
+      "title": "Bharti Airtel Data Centres: $129.7 Million Assam Projects Target 2028 - Construction Review",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdzNOaEFnNVRZR2gycUwtOEdsdjc0Y01OLWtMUG50VDZ4TjJVaTZXSVZyVXNGQ2ZSOEJrT3ZYdldzZjVFcWFSQ0RBVllMeWFkb0hVdTlZeTBhNTdhWEZTaXlMUG5FXzIxZlpUX2F3aDNUUXViZVNXRUJkUXZHY1hXcXdBbGFmMGRSU2ctRm5PSlN1VWxha1ZxRW0yOVlLOUlHclJGSm1fREw?oc=5",
+      "publisher": "Construction Review",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-26T15:24:17+00:00",
+      "first_seen_at": "2026-11-26T23:04:03+00:00",
+      "summary_excerpt": "Bharti Airtel Data Centres: $129.7 Million Assam Projects Target 2028 Construction Review",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "7fbdedbf318fbeacb454",
+      "title": "Philippines Expands Government Solarization Programme As 38 LGUs Commit To Clean Energy Adoption - SolarQuarter",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTGFteVRPMTBfem9KdmJISDVjNlNYUGVzbHBMZnJGaWU4Uk16TUxwSzhjeU1GaEgyM2xFaU5XbVdXMXV6MGdDVDd0RFpZbENYT0xQWHBJYnY2LXZ4ZXBWRnlvRGxoeWZaT0h4YWZxbktrT0l5VllkelhqSUdad1FFcnJNYXVJWWtidUcwSGlrSFlObVB6S1BzZGdjaHdyTGUyWUNnX3Bkd2E1Z1hlTzJNR2RjeHY5MVJvV19iTTRBUVRvZXdpaWpKVDRkdUlrQQ?oc=5",
+      "publisher": "SolarQuarter",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-26T12:30:22+00:00",
+      "first_seen_at": "2026-11-26T23:04:03+00:00",
+      "summary_excerpt": "Philippines Expands Government Solarization Programme As 38 LGUs Commit To Clean Energy Adoption SolarQuarter",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "8e2282423d3499235b7e",
+      "title": "Bright Horizon's $686 Million Wyoming Grid Expansion Sets Stage for Microsoft Data Center Buildout - Construction Review",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbmdOb3p4cXpiWkd5c3BVdzN5RHNNeXE1RVNOLVczTXNqUHZoOHVtVW9zUmtFQXkzUkFwTVVSNkxneHBHYnY5NGlUTXJzb0lRRjNRdUtCYTBWVTIxdVBiUVdYSnJmMjROOGVPX25UQVNqQXM1SjlBeXkzcEg4d3puUldPU3lvVURwVUhtbVFVd18zeG1TRE5tZGMzQUhVc0dWcm1BSXEwbFgzdFMxWGFDckNQWUY5ckR3MlpERDBSZkdRd0dNVFRCYjhoQzdSMVk?oc=5",
+      "publisher": "Construction Review",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-26T10:09:10+00:00",
+      "first_seen_at": "2026-11-26T23:04:03+00:00",
+      "summary_excerpt": "Bright Horizon's $686 Million Wyoming Grid Expansion Sets Stage for Microsoft Data Center Buildout Construction Review",
+      "review_status": "unverified_discovery"
+    },
     {
       "id": "57a300c03a5616cd0cd6",
       "title": "Vietnam plans additional international undersea fiber-optic cable for 2030 deployment - Vietnam Economic Times",
@@ -71,6 +127,20 @@
       "published_at": "2026-11-26T03:49:34+00:00",
       "first_seen_at": "2026-11-26T11:02:01+00:00",
       "summary_excerpt": "Mingyang eyes 600-megawatt offshore wind farm in Negros Occidental Daily Guardian",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "95d8252f29b521153a58",
+      "title": "Cambodia lists record $99mn bond for 350 MW solar farm - Power Philippines",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM0dDcURxR2FOWERFaElZSGg5c3RNcWNTMjdEN3VtN2dUUWtfbjlOTjgzb1doTVZIbU5Ob2NmakNoRmJaLThONHhyZExnOEhoQWNhOFFLdFdHQnY5eE1pd1FTMGlqazJYWHhXeTBGRWVSNnVaR1VJaGFEWmFqbDI4RldXNm5mTUJOY3VZ?oc=5",
+      "publisher": "Power Philippines",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-26T03:12:26+00:00",
+      "first_seen_at": "2026-11-26T23:04:03+00:00",
+      "summary_excerpt": "Cambodia lists record $99mn bond for 350 MW solar farm Power Philippines",
       "review_status": "unverified_discovery"
     },
     {
@@ -606,6 +676,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "9c48698fc4f502d655b5",
+      "title": "Malaysia advises data centres to cut links with US blacklisted firms - The New Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdDhkcW5OTXowQXZOMm5aVXlpRzBIbVpwQXVnOEdkSVYyWUloYXpWMjEtRzViMHpTU3JZOFNHQmhNbFU2QUpqaWdUbkttdWpGMUVkWW8tUVUxU1lwei1tRC1zU3Y2ZWg3alhiS3FvWjBlZkprcEZjMXFOQ2JRMWJGdEtfeHhfTEliX0xYb29XWWQ5akpSZzY2NzdoRF8zN29OcEJmZ0dkWlhBV1NNakJCZGRxR3p5TXVTWHNz0gHIAUFVX3lxTE9XZmZZLWFneWE2WmtidDM3MFJJUTE0M2l1MWFrckFwV2Nrb0J0TXVzaXJEaExyWU1lRzFtZ0NyTnZDUkdOaU90dmZsNXJCVHU3S09BdnNYZmJqWFlEekxBakZOQXl2SFJZVHg1MUM2Zmo0SHRyT215QVlON0VLMURLS3FId3RDSTFHMEVuWnhXdU1CTjRNMGRnN1Y4TzVkQTdMbE5DcjRRd1htX1JfMTFjUG5MdEc1VGVmV1EwaEh6OGFaWnRpYTc2?oc=5",
+      "publisher": "The New Indian Express",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-24T05:59:13+00:00",
+      "first_seen_at": "2026-11-26T23:04:03+00:00",
+      "summary_excerpt": "Malaysia advises data centres to cut links with US blacklisted firms The New Indian Express",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "e5ca5ded6aadd5408bbe",
       "title": "DOE Investment Talks Gain... - Department of Energy Philippines",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNGNOU2V3TVFhY0lZSjdxUzNZaFJWalYyMlJnMmgtMG5LWGhKT1VBdzNtUzZTWDZscWtURjJKTTMxN0JXM3hYSFY1ZTROYlQzWmdES2JsdUExcWR2b2xpV25neXVjZ09RdWtaZWRLWkVESmtuUF8xLV92MnU3cHZnS1lBSlJGM254alg1eXN5YkduUDFteVVsQVlkSlJwaHFIU3BySDNsOA?oc=5",
@@ -827,6 +911,34 @@
       "published_at": "2026-11-23T08:16:35+00:00",
       "first_seen_at": "2026-11-23T10:53:50+00:00",
       "summary_excerpt": "‘Whoever wins SI wins’: Trump sells US AI clouds to Southeast Asia The Next Web",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "4ebec6831a23f66eac2b",
+      "title": "PPP Projects Under Procurement - (PPP) Center of the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qXzZXUm8wY05qbmFHQkphbnhxaFE5aDhtTDEtOWREd2s1elhHaDBuWVBkVVJMcFJfQjlDV3ROTFJYYkJ3ZE5rd2owWFhuWDBYWFdSaVYwU0FtSU1XNVBNMWd4emtOY2hXMG9NdFNvNVl1QTZYdENN?oc=5",
+      "publisher": "(PPP) Center of the Philippines",
+      "source_label": "PPP Center 项目索引",
+      "source_id": "ppp_infrastructure",
+      "source_method": "google_news_search",
+      "category_hint": "infrastructure",
+      "published_at": "2026-11-23T08:00:00+00:00",
+      "first_seen_at": "2026-11-26T23:04:03+00:00",
+      "summary_excerpt": "PPP Projects Under Procurement (PPP) Center of the Philippines",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "bd8f9839f6d62f138bd1",
+      "title": "£3.9bn Equinix Hertfordshire Data Centre Advances as UK AI Construction Expands - Construction Review",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRTNYczhxRFU0a0RYWHJKa1pjSm11YU1hSzNWY0gwUGlaZU9vWVptdkVVVnBwUHdKVFhfM0REMTlkNTBsTEhHaXkwY3VDeWlhV19iOENOX3lITUxvdVNvZ2xrRVBoNXhkcEN3SkRFWVpobVVDSFM1aGlHaUN1TFUxUjEzV05EU0RHZ1pEdkVmQ3BHQlhleHpWLW16cVhkX1d1UFJMeDlpcjVpSnYwTWEzN1JCRXZKcFVmZVNwT3d2VXVjanVyYkxB?oc=5",
+      "publisher": "Construction Review",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-23T08:00:00+00:00",
+      "first_seen_at": "2026-11-26T23:04:03+00:00",
+      "summary_excerpt": "£3.9bn Equinix Hertfordshire Data Centre Advances as UK AI Construction Expands Construction Review",
       "review_status": "unverified_discovery"
     },
     {
@@ -2804,6 +2916,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "47af32776bf8ac2ee518",
+      "title": "Can’t cook or shower: Indonesians take aim at AI data centers - Inquirer.net",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM3JMQm1iODhNZW5jLXBXVXd4OTdxMGt1bGVrNkpZbENFYm5BRXpsXzhjdXprVjk3dVRjTFRKS1I3R0c3M2N3aWREdWpVOXlrcWRqdHFHdk5DQTZnaGhjSTBQYjhDc09WM1ZBLUQ3M3hHUmlDLXpBbVFoaXlaLWxNT2czR3QzR3Q0Z1hBcDN1bU9EdEk4cklZT0oxN0dfY213V3fSAacBQVVfeXFMTWZQTFU5c2FmdEN6d1pOVmFpNWxzLVhuQ1pKTlRvSGN4Ty1sQVFCZmQ3RnlIcnI4SlUwMnIzaGhUYUVoSl9QZXZVWm9rQi12VV9GMGtlelNEODd0X2Z2RTNPOUFKc3hnWjZsSmdwWnJTMndnbGhYbkNiWkNSN2NUOGxvT1RhR3pQeDNzUXN2N2UteHFTNWppTTVvd0NORWNQTDJ6U2NxT00?oc=5",
+      "publisher": "Inquirer.net",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-08T08:00:00+00:00",
+      "first_seen_at": "2026-11-26T23:04:03+00:00",
+      "summary_excerpt": "Can’t cook or shower: Indonesians take aim at AI data centers Inquirer.net",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "8370f1fc4c2a4f36fb11",
       "title": "Google invests $15 billion into Malaysia as Southeast Asia's data centre infrastructure ramps up - Khaosod English",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZ3BmdHdTWEM2c0FfZE1pcktialpSazlGNWhXYW5VMXI4SXpPVUhDMXR2MUJXMjA5VmNxd3dlNm5qVGNGdjBuOGhOdWJFcDlLeXMyN2NyR2NROGoxWDkxZlNCWWdzVWV1RU0zTU55djAwbm93T0xNYTdPQ1pCUEFUbUd6QVpZZFNpZGJqMWdiTGdzMDdydHc2WFYtQ0x0WnRsMXRBNXpjdXQwVlhFZU5QQUkyRk16am9DRXdhOExTeVFYS3laODNjbUZ1cjV0enNodXFuYk9GdGtnZ9IB3wFBVV95cUxNSmRzYW9YRGZIX2FTVWdBQXBpbGdJUG03bjBDY2M1RXo2RzM0Rk9lR1hlTHRjdVQ3NW5qQTFaT0UzMDJZVmdaVVBjSlpMM3Y3M1BxOWtQTVlvejU3dGNYdzJwOUhlNmRNQjV5SG9EZ1dndzBIdUViTE80cllhcXo0SW5zSFVqOHhZWk80X00zTmF5dEotX2g0TTNTaVVsYmw0bjBNU3JuWl80RG4xWjhxNjdpbEdoUlhqcWFnNjFHUy15aWNZM1pDVXZIVkllRkIwVE5TUkFtX3dDdklFNUd3?oc=5",
@@ -3179,6 +3305,20 @@
       "published_at": "2026-11-04T08:00:00+00:00",
       "first_seen_at": "2026-11-22T20:45:40+00:00",
       "summary_excerpt": "Google unveils $15 bn data centre investment in Malaysia Yahoo Finance",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "5e0882416d80c470f522",
+      "title": "Bolt.Earth deploys 1.5 MW EV charging station in Vijayawada, making it Andhra Pradesh’s largest EV charging station - BioEnergy Times",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVkZ5Rm4wSWlkZGlpRGJJUkJaSVdfREExMkRkdmJqSllfakJiNThLMWx4WkpDUmVURVI4aEF0Q3RjSVZXOVVWTmo4Y2l2Q3dOdVhfbTRSQXBnNWozTDJBN25zY2ZlcGFfTTYyUl9ScVRhZHFFZ3JYeWJBSDZmNzdwd21jTkx5X1B4NXBKV2JyQTNNQmJlNy1SWnM0alByMUtRSmtRLXpPOTM5TWQ2OENydXNpbkRGSGFrNmVSOG5qTTlwWDBaQ3kxblFUZXAxbGNaVWRkWW9TbnA?oc=5",
+      "publisher": "BioEnergy Times",
+      "source_label": "菲律宾充电桩新闻",
+      "source_id": "ev_ph",
+      "source_method": "google_news_search",
+      "category_hint": "ev_charging",
+      "published_at": "2026-11-04T08:00:00+00:00",
+      "first_seen_at": "2026-11-26T23:04:03+00:00",
+      "summary_excerpt": "Bolt.Earth deploys 1.5 MW EV charging station in Vijayawada, making it Andhra Pradesh’s largest EV charging station BioEnergy Times",
       "review_status": "unverified_discovery"
     },
     {
@@ -5237,6 +5377,20 @@
       "published_at": "2026-08-10T07:00:00+00:00",
       "first_seen_at": "2026-11-22T06:56:34+00:00",
       "summary_excerpt": "Procurement Management Division (PMD) Department of Energy Philippines",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "ced1691aed8f9af758ed",
+      "title": "Renewable Energy Legal Services Division (RELSD) - Department of Energy Philippines",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZV1RnRF9nRHk1enp1VWRYSU1OSWlvUWlkSnBDX0NCTU9pVlNnRHNpZGxRYW9FREEwbkxaRzF2VWZVMTVLMVhZU0l1WVlNRHdXalFESjdTRF9YRmdLSFBCTllsWWM4R1pKMFJJ?oc=5",
+      "publisher": "Department of Energy Philippines",
+      "source_label": "DOE 官方信息索引",
+      "source_id": "doe_energy",
+      "source_method": "google_news_search",
+      "category_hint": "energy",
+      "published_at": "2026-08-10T07:00:00+00:00",
+      "first_seen_at": "2026-11-26T23:04:03+00:00",
+      "summary_excerpt": "Renewable Energy Legal Services Division (RELSD) Department of Energy Philippines",
       "review_status": "unverified_discovery"
     },
     {
