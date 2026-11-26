@@ -1,8 +1,92 @@
 {
   "schema_version": "discovery-leads-1.0",
-  "generated_at": "2026-11-25T23:09:37+00:00",
+  "generated_at": "2026-11-26T11:02:01+00:00",
   "source_note": "RSS feeds and Google News site-restricted discovery indexes; not a complete registry or verified projects. Links may be Google News redirect URLs.",
   "leads": [
+    {
+      "id": "57a300c03a5616cd0cd6",
+      "title": "Vietnam plans additional international undersea fiber-optic cable for 2030 deployment - Vietnam Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVlFPWGJydWNzTUNlTXFBVUE0Y3M3STRPdEQ0a3BSTGNMTUpYc2d2bEF1bTUzbm1KcTJDYTFxYWRzMEp6aDlJSWxpMExRdnFJVDNPUGhvSGpNTElrRlhWa2VnOHd3V2c2eFFhb2lxZGlxdnRGeXJxM0ppY01wbGc5aG9fZjRmd3dEb2FJZ3l1RjRTQTFnYVd3NjFuNEFOcTJyOEItZlJfbEdXaUFpZXFmT2dOTQ?oc=5",
+      "publisher": "Vietnam Economic Times",
+      "source_label": "菲律宾弱电和光纤项目新闻",
+      "source_id": "elv_fiber_ph",
+      "source_method": "google_news_search",
+      "category_hint": "structured_cabling",
+      "published_at": "2026-11-26T10:00:00+00:00",
+      "first_seen_at": "2026-11-26T11:02:01+00:00",
+      "summary_excerpt": "Vietnam plans additional international undersea fiber-optic cable for 2030 deployment Vietnam Economic Times",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "8a1200e5e04bf3a12b34",
+      "title": "DOE Prepares Visayas for El Niño with Battery Storage and Power Barges - Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWms0bkIwM2c2cXZENnRvbXVmWk1tUTV1MEZwdXp1S3NBTm1IbmZUQVpvRjZxZHVjWFBDYW42QVlJSk1RejJNUnNqZVItWDA2NzYzdng4ZFpTMUdtYVpheG5DRXVMUllVa1VybHpvVVA4d0lwc3VFMGJRdGZOTE8ybGszMUF5WHlURVdBdFVCWXJxSlNoVWw4Y29yb3gxdHQtY3ZyMU9yMG5OVFpuX1Vv?oc=5",
+      "publisher": "Daily Tribune",
+      "source_label": "菲律宾储能项目新闻",
+      "source_id": "bess_ph",
+      "source_method": "google_news_search",
+      "category_hint": "storage",
+      "published_at": "2026-11-26T08:23:26+00:00",
+      "first_seen_at": "2026-11-26T11:02:01+00:00",
+      "summary_excerpt": "DOE Prepares Visayas for El Niño with Battery Storage and Power Barges Daily Tribune",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "595b20692b90abaf4d20",
+      "title": "Solarization of Public Buildings Gains Ground as 38 LGUs Commit to DOE Program - Department of Energy Philippines",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPREV1WHhfTkFUSFp3WGpqQ0gwek93VHNwQmdLRl84OFdqZEtYQ0hxREJDWFBMQjBaMXBfMF8wNzN0aGtKdGF5OVdXd0QtYldvSlZSeFBTdk1lZ2lRSmk5NXZrUFBMU2wtVXpSTU5zTzNmd0g2RzFjWHhJUlprLXhQWUlrVjJaSjNoZFRFUC1rSm9UNUFwLTlVSmNFU3VtZw?oc=5",
+      "publisher": "Department of Energy Philippines",
+      "source_label": "DOE 官方信息索引",
+      "source_id": "doe_energy",
+      "source_method": "google_news_search",
+      "category_hint": "energy",
+      "published_at": "2026-11-26T07:36:17+00:00",
+      "first_seen_at": "2026-11-26T11:02:01+00:00",
+      "summary_excerpt": "Solarization of Public Buildings Gains Ground as 38 LGUs Commit to DOE Program Department of Energy Philippines",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "5acc6b23f89db9b4c003",
+      "title": "DOE reinforces power supply readiness amid looming El Niño - Department of Energy Philippines",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdEtTUE9raXJUY1E4TXRaTjFsVFV6bFlIdC1QWkJwNkc2dkl3bS1odUpQb1FCdUV0cFkzbklnV0swZk9QSUpKTTgwOVJGazZtajlHX0I5MlBHczBEeDV3QklyYUxnWG43Y01nU2N6c2Y0UjBnbi1QVWNEOWlxV3E0cWVzVQ?oc=5",
+      "publisher": "Department of Energy Philippines",
+      "source_label": "DOE 官方信息索引",
+      "source_id": "doe_energy",
+      "source_method": "google_news_search",
+      "category_hint": "energy",
+      "published_at": "2026-11-26T07:36:16+00:00",
+      "first_seen_at": "2026-11-26T11:02:01+00:00",
+      "summary_excerpt": "DOE reinforces power supply readiness amid looming El Niño Department of Energy Philippines",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "5514df18fb80b367264f",
+      "title": "Mingyang eyes 600-megawatt offshore wind farm in Negros Occidental - Daily Guardian",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSTNlbUhyeWxtQ0JDa1BTSmxaUXZ1UEZ4dGxyNU95WFVoejd0N1pFcUJpY3NOUHVDNDhjS2pGTVpOSHUzd3BfSGtEM2hxcm5OWFJDMjNGdzhENDdCMmZqbXJpdXM4VnFrbTVJd1hsN3Y1NkdVWnQtSXZEOUVBTmtUX2plT2tQTGdjZ3RJbXVOeTFZOFVDRkRON3VaTXhQNUh1NWFuWDc4QQ?oc=5",
+      "publisher": "Daily Guardian",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-26T03:49:34+00:00",
+      "first_seen_at": "2026-11-26T11:02:01+00:00",
+      "summary_excerpt": "Mingyang eyes 600-megawatt offshore wind farm in Negros Occidental Daily Guardian",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "cb5a9b739c5f6628bdbe",
+      "title": "[SMM PV Flash] Philippines Breaks Ground on World's Largest Integrated Solar and Battery Storage Project - Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQN3BWZFZTV0lMdllHbjNCTFFfQkpBT2RqQXBJLW5sRHpNdzB3dTRlT1M5aDkzMmp6YlVOX1hoRzdRRWFYdnFvd0duY0xHN2UtMDFoNzZVdE5lQkNjZlpRMXZFOXNZM0txVGNVQkM5d0RhWjNyNmxvaDd2YmpXT2RkYTNHZU1NazJLb1lraTdfTFRjQTY5TG1CbjdkODR0WWFwdllzaGZrLU1jMHhwTGNfaTZzNWJkcDJvM3BLNkNnM290cHNudUZNWnZQMlpfcWVvZUJ5M1V3ajF6R2NrY2dUazJHUHBPNENhTE4yek5vdDRudFZfdE03WVU2czY0eFMzVTFzaV9URQ?oc=5",
+      "publisher": "Shanghai Metals Market",
+      "source_label": "菲律宾储能项目新闻",
+      "source_id": "bess_ph",
+      "source_method": "google_news_search",
+      "category_hint": "storage",
+      "published_at": "2026-11-26T02:59:00+00:00",
+      "first_seen_at": "2026-11-26T11:02:01+00:00",
+      "summary_excerpt": "[SMM PV Flash] Philippines Breaks Ground on World's Largest Integrated Solar and Battery Storage Project Shanghai Metals Market",
+      "review_status": "unverified_discovery"
+    },
     {
       "id": "799abdc7a1eaa7c8867d",
       "title": "Raslag proposes P1.43-B solar and battery project in Nueva Ecija | Business World Philippines - newspaper - Magzter",
@@ -29,6 +113,20 @@
       "published_at": "2026-11-25T16:14:00+00:00",
       "first_seen_at": "2026-11-25T23:09:37+00:00",
       "summary_excerpt": "Chinese firm to build offshore wind center The Manila Times",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "27472489c0bb61823bfa",
+      "title": "Meralco pushes grid readiness to accelerate EV adoption - thephilbiznews",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTGVwdW5TWm9CZV9JWXZlWlNuRG1mUzdZOHl2QlVoRzRnQWowQ0tqRXB2UW1hZ09WMXdEeFIwVEVCTlhiRmxJUXFWSnhaMy1BVS1sa0tDNDZCUXlaUjFXY1hnQS13cHluZ1k2SlFZZE5NS2hyRDJsOWZKekFnaE94alFSTVpZT0wyZTFRNnVpeS0yOVB5dl9seVVB?oc=5",
+      "publisher": "thephilbiznews",
+      "source_label": "菲律宾充电桩新闻",
+      "source_id": "ev_ph",
+      "source_method": "google_news_search",
+      "category_hint": "ev_charging",
+      "published_at": "2026-11-25T16:06:00+00:00",
+      "first_seen_at": "2026-11-26T11:02:01+00:00",
+      "summary_excerpt": "Meralco pushes grid readiness to accelerate EV adoption thephilbiznews",
       "review_status": "unverified_discovery"
     },
     {
@@ -1824,6 +1922,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "971236a28d59a04f45a8",
+      "title": "NGCP rolls out Project Airbag to ease grid strain, prepare for El Niño - Mindanao Gold Star Daily",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSkxPM1l3OUNseXFnZTBjRm4wSFA0cU5rd3ZiQ0stTFFEa0NDRE1zcnRYdzVJTGZ4V0Q3bkZUSm80UVVYNUVFODVDMkpXeDJmbDJ3d0RWcV9rME1JVkh3UU5GcVN6NExQaWh5N3dBLWY2dWVjWkl1bjF5UGJCZWJacmtBRFV0am9TSGVwQWtsbC0zV2s1ZFZGSVZTUWhpVHBLNWc0NHNR?oc=5",
+      "publisher": "Mindanao Gold Star Daily",
+      "source_label": "菲律宾储能项目新闻",
+      "source_id": "bess_ph",
+      "source_method": "google_news_search",
+      "category_hint": "storage",
+      "published_at": "2026-11-13T09:40:23+00:00",
+      "first_seen_at": "2026-11-26T11:02:01+00:00",
+      "summary_excerpt": "NGCP rolls out Project Airbag to ease grid strain, prepare for El Niño Mindanao Gold Star Daily",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "938d6c2f708519d10e42",
       "title": "LGUs Push For Faster EV Charger Permits, Share Best Practices At ASEAN EV Conference - Journal Online",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM2RHYURPbExZb0hhTURoMWlsd1ZXWGRXZFEzVTJOTGZQOHp0UGtyNC1qT1NrdzdxUnZWNG9OcDZMZjJRNUhfN21SUVkwQVptMi1EZnhjSHc1TTE4SEowY1Bhb0lpTExka0ppVXo1djF2YjRoV05POGF5aWI3YVBOSGFKbHU1Um81RGo2cE5IRUl1WGRnQTFjTWpUNkxCRmNPUXk3ZjVsT2Rfcjg?oc=5",
@@ -2073,6 +2185,20 @@
       "published_at": "2026-11-12T08:00:00+00:00",
       "first_seen_at": "2026-11-25T11:28:01+00:00",
       "summary_excerpt": "Puerto Galera wind energy stabilizes Mindoro power Inquirer.net",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "d75e946d2d98d943aee8",
+      "title": "NIO Power, Poly Property Group Sign Strategic Cooperation Agreement to Expand EV Charging, Battery-Swapping Network - Gasgoo",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQQUUyZl9TazJZamZZR1FZeEs1NFc1TF93V1ZQS3FVUzRubFk0cURyTXBsQS1ySk5PRFAzWXRGMGVTMlkwRzZ0b1JqYlE4alc3cDJvekFoOEQ0WmpTVXJfRV9WSU4wWkZHUWJWa1VlUFFPTXFaR1hybjZqckcwS1pzaElDT2pkWExVLS1WZ1lwLUlibllYcDNScVgyOHFRY3U5NDk4M0tyeU5oZTlSbTVGR3haOXFfTWVneWc0SE9iOEs2bmpqSXdRSDdUVFMyN1RDVURuRmlwTDJydm9mZ3NjNGxBU09uOVV3UktuX1V1V0VhN2F5UkpKX2FtZjk3MHZpM3JFX1NB?oc=5",
+      "publisher": "Gasgoo",
+      "source_label": "菲律宾充电桩新闻",
+      "source_id": "ev_ph",
+      "source_method": "google_news_search",
+      "category_hint": "ev_charging",
+      "published_at": "2026-11-12T08:00:00+00:00",
+      "first_seen_at": "2026-11-26T11:02:01+00:00",
+      "summary_excerpt": "NIO Power, Poly Property Group Sign Strategic Cooperation Agreement to Expand EV Charging, Battery-Swapping Network Gasgoo",
       "review_status": "unverified_discovery"
     },
     {
@@ -3322,6 +3448,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "9013b8e2c06a1d49fcea",
+      "title": "Anong legal basis? NASECORE questions NGCP battery storage system project in Visayas - politics.com.ph",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ2d6RXMzWDZXT0xucmpOTWZBbTBHT3NLbURXZG9lM09ZQ25WOHRzRVVGWkVYU3Y5aVMzYTQ3a2ltSWxSUFpkZHRnaGdCVHFaVUM0TVVuMDB5ZmdwSjk5aUlGN1FpSFo3b2FiTGNwbks1VHVnUC1mWXRmX1NhRjZ1TXduckpMRXZtd3lJWndZY1lvbDVXSVkzVk1ZOWpEUGcyZkJRajFpZjZLN0VY?oc=5",
+      "publisher": "politics.com.ph",
+      "source_label": "菲律宾储能项目新闻",
+      "source_id": "bess_ph",
+      "source_method": "google_news_search",
+      "category_hint": "storage",
+      "published_at": "2026-11-02T08:00:00+00:00",
+      "first_seen_at": "2026-11-26T11:02:01+00:00",
+      "summary_excerpt": "Anong legal basis? NASECORE questions NGCP battery storage system project in Visayas politics.com.ph",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "8d4ddab7c32ee45efca2",
       "title": "The Philippines’ ‘solar surge’ leaves many Filipinos behind - Dialogue Earth",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONTlnc0FYdXdDcEhfOUJ2YUpZd1JPbzJrZWJaQXh0RTYzYmt5SE1EcWZKR3NRZ2lsRUxWY25kYlB0VFNieU02OUVlWmYtUUd1dnp6c0RkOGpHZ2FSdlZzRWJKeWZGRXhrN05BY1ZYbWRwcXJnMWtVUEhkRVpYQUQzR0tOa1FpYnVFeGlwTmRQSlZpR1ln?oc=5",
@@ -3375,6 +3515,20 @@
       "published_at": "2026-11-01T07:00:00+00:00",
       "first_seen_at": "2026-11-24T01:44:05+00:00",
       "summary_excerpt": "Harnessing Northern Samar’s winds: Econergy eyes P5.67B power project Bilyonaryo Business",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "19b237d0b3a6d74aefd9",
+      "title": "Japanese capital plugs into Filipino EV charging tech - BusinessMirror",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRnRLTnpKVEYyOWhlakc0bEswZUsyWTdYb1d1a2s3ekQ2WDhvVm54Q21reTBUT0Rya1JXNEN3d0hoQzFFN05CX1RkN0lLWkdvbC1wc3lmVTFFOGdGM1Y3MFkxNXM2WHJ6S2ZaRm96NFMzOVFaVFltYkpvcVRKb2RKQmRrTUFOcUtwUnV3SnZVaUlJeVlkdkhTeHdLbw?oc=5",
+      "publisher": "BusinessMirror",
+      "source_label": "菲律宾充电桩新闻",
+      "source_id": "ev_ph",
+      "source_method": "google_news_search",
+      "category_hint": "ev_charging",
+      "published_at": "2026-11-01T07:00:00+00:00",
+      "first_seen_at": "2026-11-26T11:02:01+00:00",
+      "summary_excerpt": "Japanese capital plugs into Filipino EV charging tech BusinessMirror",
       "review_status": "unverified_discovery"
     },
     {
@@ -4355,6 +4509,20 @@
       "published_at": "2026-09-22T06:13:34+00:00",
       "first_seen_at": "2026-11-22T07:58:18+00:00",
       "summary_excerpt": "Navigate Your Next Career Move Department of Information and Communications Technology (DICT)",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "199eca690825b66b9ec3",
+      "title": "Invitation to Bid for 2nd Round of MGSP - Department of Energy Philippines",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLVlhU2NPY21aLTB6NTBSNFdPYTFvblViUHdjUkVQdTFHYnRvVDFoSzFmQ0lBT3UyendrZnVMMFNWazdJVk5Gd2NiNnM2UVZaY3JJZUIyczczakxDWHdLX2J5ZjZnXzBiWWdBWTVDdFJ4R1pEZ1k2cGlRR1AzWkttMi1idkJFVVJVd3Q2WnJsaW5xdw?oc=5",
+      "publisher": "Department of Energy Philippines",
+      "source_label": "DOE 项目及招标索引",
+      "source_id": "doe_procurement",
+      "source_method": "google_news_search",
+      "category_hint": "energy",
+      "published_at": "2026-09-21T07:00:00+00:00",
+      "first_seen_at": "2026-11-26T11:02:01+00:00",
+      "summary_excerpt": "Invitation to Bid for 2nd Round of MGSP Department of Energy Philippines",
       "review_status": "unverified_discovery"
     },
     {
