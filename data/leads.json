@@ -1,8 +1,92 @@
 {
   "schema_version": "discovery-leads-1.0",
-  "generated_at": "2026-11-27T10:59:02+00:00",
+  "generated_at": "2026-11-27T22:45:21+00:00",
   "source_note": "RSS feeds and Google News site-restricted discovery indexes; not a complete registry or verified projects. Links may be Google News redirect URLs.",
   "leads": [
+    {
+      "id": "67f067badb7230b6cc2a",
+      "title": "ACEN to beef up power capacity amid El Niño - Inquirer.net",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ1d5UzVhOTlPeFM5M283S0R1RHQ4U0FySVc0dTMyQk9qeUhud0ZhZkw3NmNCZXFQa2JfclUzcHZKa2xmd3dLT1hFcUtiblRyOWhnVktqOU5LZHZjU0FMajdkZzE2VTc1MU1CWEtvMUtnZEFhRmVZMWY2aWFGeDl4cmZ3MVFYNXFUX0RVSNIBjAFBVV95cUxQQ1d5UzVhOTlPeFM5M283S0R1RHQ4U0FySVc0dTMyQk9qeUhud0ZhZkw3NmNCZXFQa2JfclUzcHZKa2xmd3dLT1hFcUtiblRyOWhnVktqOU5LZHZjU0FMajdkZzE2VTc1MU1CWEtvMUtnZEFhRmVZMWY2aWFGeDl4cmZ3MVFYNXFUX0RVSA?oc=5",
+      "publisher": "Inquirer.net",
+      "source_label": "菲律宾储能项目新闻",
+      "source_id": "bess_ph",
+      "source_method": "google_news_search",
+      "category_hint": "storage",
+      "published_at": "2026-11-27T18:20:15+00:00",
+      "first_seen_at": "2026-11-27T22:45:21+00:00",
+      "summary_excerpt": "ACEN to beef up power capacity amid El Niño Inquirer.net",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "7ec3c79d4e52f901d4d1",
+      "title": "Work starts on 1st PH port for offshore wind dev’t - Inquirer.net",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcWNwSG1yeThkREVsRjdydTE2MmVRcjZmZzg4NnhNWmxyeklHM3hRaV81TDJXZTAySS0wMkt0cWVpR29JeVQzUV8xQ0MtNWZjRHA4cm82UDc4dklxdDlRd0FJUy12cHdKUXhJNkpQVnJvSF9teldNSjVyT1U4OEw2MWFXWmlSV1NEN1ZDQ1JvVdIBlAFBVV95cUxPRkVNTzhBZC0zVnFjajhOWV9neDhLWTkzNVZJRTdpY2w1MFF2azM2MU01UmRnZk9VWFdBX09NV3BsLXozaGNDUkN6T0JQczRIUXJPb0M1Yl9CdzEyNUVXUUp6b2I5MzROSFFUZjIyQlBkbXduZzJObTNfQWJEeHJtMmQwSkVsNkFlaFBRSExOci12MUkx?oc=5",
+      "publisher": "Inquirer.net",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-27T18:12:00+00:00",
+      "first_seen_at": "2026-11-27T22:45:21+00:00",
+      "summary_excerpt": "Work starts on 1st PH port for offshore wind dev’t Inquirer.net",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "32c5488df90cfb3c393e",
+      "title": "Exploring new solutions for power grid bottlenecks - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcllaM0pYRlR5ZFhOU0tBTjFmQ1pvQUk0N2wtdmVwaEZIYkJDMzlRSmh2VVp2RWFrdW1UZklYWEF5dGJERXRtSC01UWd6NUx4NTVwcWRXMmpLM0xtT09rRk9FSW9GbGY3WWFHNTdYNW9oZ0ZXaWZMS25XWWI0SmFxcXRlTnZmRm5TbE5rcnlRcXBkdE9zOTVuWEE4eGZQVjNNQWM2ZWJ0YnFfdU8zaW1JNVRDUjhwV1dEUjlaNHZ6ambSAcYBQVVfeXFMTW9zQnFXMTZQNEdnU3RRMUdtZUstMEdySGo5aTV3NFdybmRXMTh5dGFwbHpRZjhMUDZDUllvVWxMWU1xbjFiRWZ5OTcwVmNjWGtSSWhtdlNMbVFLbkUwb0Q5eVgwRlVtcUFLeC1BV0oxZWsxcjY4OGRiSHpGVGNGTUJmZ2FlUTZlLUFKOGFrS2xwNlNoMVdPcUhQT1NQUm96WmMyeWpabU4yNWNkaWdVTTdNajdoVVlUWU4yN3JRMTBzWTV2LU1n?oc=5",
+      "publisher": "The Manila Times",
+      "source_label": "菲律宾储能项目新闻",
+      "source_id": "bess_ph",
+      "source_method": "google_news_search",
+      "category_hint": "storage",
+      "published_at": "2026-11-27T16:01:00+00:00",
+      "first_seen_at": "2026-11-27T22:45:21+00:00",
+      "summary_excerpt": "Exploring new solutions for power grid bottlenecks The Manila Times",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "d63ba4566c71f7cb6566",
+      "title": "PPA builds P2.3-B port for offshore wind project - Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNHkxLTZfUkRwdE1JVTNjMVdnaXdjLVNOc2FWQnFTM1d1ZExGX0xaZ0JnNG9ydlNZdF9XVWxXaUF2OG11Z3czS3JzWWRSNW5zYzU5VHBiTUtjYlY2VVBIZ1BiajBJUGVobHVSd05oMUQzSlFicERSUHBsZ1Z4WUxoanlFd19HTVJj?oc=5",
+      "publisher": "Daily Tribune",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-27T14:35:55+00:00",
+      "first_seen_at": "2026-11-27T22:45:21+00:00",
+      "summary_excerpt": "PPA builds P2.3-B port for offshore wind project Daily Tribune",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "cf8c35624a22df819b2d",
+      "title": "New Camarines Norte port to serve as PH offshore wind hub - Philippine News Agency",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUDhnYTVlUnF0TDdoQVN5WGcwR1JtWXRkYTZXbXZoYTBfdUhDc09qYTZaTVVVRmx5TUxLeEtuN1J5T254NjNNcFNZX1BjaXZITWR6bnJxMC0tdF9MNS1SNzgyNWVTZ2F1el9FTVVmSHZyN3E4OGljTnFfdTdUWnFjWEhyczhsZGpnUzhVa3I5VTNVQQ?oc=5",
+      "publisher": "Philippine News Agency",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-27T11:38:40+00:00",
+      "first_seen_at": "2026-11-27T22:45:21+00:00",
+      "summary_excerpt": "New Camarines Norte port to serve as PH offshore wind hub Philippine News Agency",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "fb41e4b486b1b606df4a",
+      "title": "August Energy breaks ground on 18 MW solar project in the Philippines - energynews.pro",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT0lSUXR6SEpjU2N1MnRoblJ5OVpkRXN6aHI5V3dGQlBVN1k1YkMyYnFzWENXZ3RfNmZwS2RfRlNfMmI4Um5mX0RIa1hac2lQY0tlV3B6ZWtGdS13N1kxRzV1NjZvT1ZJUVJ2R1RkV2ItV051OExDQWt6T2hqckFnUy0tZTNYVzJZZHU4WW9taHZvbm5EeksxTm5MOA?oc=5",
+      "publisher": "energynews.pro",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-27T10:34:29+00:00",
+      "first_seen_at": "2026-11-27T22:45:21+00:00",
+      "summary_excerpt": "August Energy breaks ground on 18 MW solar project in the Philippines energynews.pro",
+      "review_status": "unverified_discovery"
+    },
     {
       "id": "52228ef3e388f88533e3",
       "title": "New Camarines Norte port to serve as PH offshore wind hub By Raymond Carl Dela Cruz MANILA – The Philippine Ports Authority (PPA) broke ground for the Pambuhan Offshore Wind Port in Mercedes, Camarines Norte on Friday, a facility expected to serve - Facebook",
@@ -1936,6 +2020,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "a3e9ccc4244b8fc7f923",
+      "title": "6.5GW BESS forecast for PH until 2028 as gov’t shifts to renewable energy By Joann Santiago-Villanueva MANILA – An energy research firm forecasts that around 6.5 gigawatts (GW) of battery energy storage system (BESS) will be installed in the Philippines until ",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZ0pQakNMSmRGMUdSV1otX1lUS3J3dnVYbVZZd2VhNzVjN3M2ZTRRZzRxU0dQMFhkTnFZckU5WkFjbzhpLUhBS18ydjdqM18wTjRiTVpuU3c1ems2WDFYRmwwOXNFVVc2dmVOdlhSNUJvdzVwNndEWVJKSFBGOVBzQ2ZyYXVqR2NUTVNtTHh2VVJ3X0ZzZU9CZGpVVFo3Y2VzeThfWGE2V25ROGtTNS1rR3N3R2JRRkdvQ2RpaWxFNXJRZ1M3N2dMcWZyeHJKMUxOby0tRQ?oc=5",
+      "publisher": "Facebook",
+      "source_label": "菲律宾储能项目新闻",
+      "source_id": "bess_ph",
+      "source_method": "google_news_search",
+      "category_hint": "storage",
+      "published_at": "2026-11-18T12:10:03+00:00",
+      "first_seen_at": "2026-11-27T22:45:21+00:00",
+      "summary_excerpt": "6.5GW BESS forecast for PH until 2028 as gov’t shifts to renewable energy By Joann Santiago-Villanueva MANILA – An energy research firm forecasts that around 6.5 gigawatts (GW) of battery energy storage system (BESS) will be installed in the Philippines until 2028 as the country shifts towards clean energy. The Departm",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "ea6f5cf35649f35c6b28",
       "title": "Projects Dashboard - (PPP) Center of the Philippines",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YS1hoTTBrbndJWXNMRzlGcHRhQ2FqUDc4b09MSVJ1eHJkeTk5V1VreXFqNjhVeGktMVA1SkQwTXNHV1Q4ZjJhcWE5engxQQ?oc=5",
@@ -2762,6 +2860,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "16e7aa6c059c8247c7db",
+      "title": "UK's Octopus Energy enters PH with investment in 450-MW solar, 350-MWh storage pipeline - Power Philippines",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdk1FV2pkeURHelFoWVk3a2VKUzVRNTNjejNlVE94SmFpbXR4Y1hXRU1jejkzRDZxc1djU0NYR0d5d3NmaXZYeGRhcmRSbjNFWThuQ09JamZyQ09xRHN2UThsV2NnOEFRWkRUd0hyRnFhcjNlLVV6RW5oSDlmOHhnbFJuSWgxZkExVG1YbGQydkpNSHgyQmlzYjE3X0MxT2Nmdkh6UDNkSFVudVNTWS1BYXVKUnIxUQ?oc=5",
+      "publisher": "Power Philippines",
+      "source_label": "菲律宾储能项目新闻",
+      "source_id": "bess_ph",
+      "source_method": "google_news_search",
+      "category_hint": "storage",
+      "published_at": "2026-11-11T08:00:00+00:00",
+      "first_seen_at": "2026-11-27T22:45:21+00:00",
+      "summary_excerpt": "UK's Octopus Energy enters PH with investment in 450-MW solar, 350-MWh storage pipeline Power Philippines",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "6b7ce43d2b271c9ac592",
       "title": "Petrogreen Partners With Ming Yang To Advance 2 GW Offshore Wind Project In The Philippines - SolarQuarter",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcGNTeTJob2oxdTdUZEpXZUZDS0FnWE1ONkJjaVJqZm5iSkNHV1dyM3FyNWo0Z1hibzhXXzNNWC1COHVvM1BPaHU3QXBwWnZ0UU9ObVhhOHFGakZ6dnN0S092NDl5YlNkUzVoaG5uSl9yQVY0OHVxaTVaTDR4UG1CUFFTUDhuU0tWQWxRekpaOGFNUGtLUVJXY2w1cU40eE1WekZJbDk4UHhwUWNOdVdzdzd6V1Z4TzZmTV83V2xidlkwVFFneVlF?oc=5",
@@ -2871,6 +2983,20 @@
       "published_at": "2026-11-10T10:05:18+00:00",
       "first_seen_at": "2026-11-22T20:45:40+00:00",
       "summary_excerpt": "3rd Annual Philippines Offshore Wind Day 2026 reNEWS",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "5653f5b7953fa1ee3c72",
+      "title": "Economic Letter from Asia: AI and Data Centres - Haver Analytics",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbV9rbE84TmxHaG9VbkNrZHQ4aTMtRGpmN1JGdUVuanlFOUVYSDJDbnIzMUtmVDZmaTVvVGZIWlFkaVJpRjd2dUZZemZQaUVzUlRZeGlhOWwxVm5veFAxR1lsZmlNUTVQZjRwbVcwQ0tSYjRGcFU5aEpLQ0RqX2JaR1B3?oc=5",
+      "publisher": "Haver Analytics",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-10T08:33:18+00:00",
+      "first_seen_at": "2026-11-27T22:45:21+00:00",
+      "summary_excerpt": "Economic Letter from Asia: AI and Data Centres Haver Analytics",
       "review_status": "unverified_discovery"
     },
     {
@@ -3098,6 +3224,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "18df79f2033bb408481e",
+      "title": "NGCP launches project airbag to strengthen power grid ahead of 2027 El Niño - Punto! Central Luzon",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQU2ZtUlBSSWNrSkJ0bTdFR0xnUmx3RktyRnFUcEd2cldzMkpQY3VwY1g0c0hqdXhCV1lsdG1WRlhzeFNycVNsd2tCTXQ2d1BKSEJKQ01vWWJpTUJVLTVIa1N5N19HWkdkN3ZDUm1jeU5QZUZsRkUwYjJvS01zYllTSGF5RDZyNVg5dnpIX2JBbDVrd0pkZkUyX3kzeE5Zdw?oc=5",
+      "publisher": "Punto! Central Luzon",
+      "source_label": "菲律宾储能项目新闻",
+      "source_id": "bess_ph",
+      "source_method": "google_news_search",
+      "category_hint": "storage",
+      "published_at": "2026-11-10T08:00:00+00:00",
+      "first_seen_at": "2026-11-27T22:45:21+00:00",
+      "summary_excerpt": "NGCP launches project airbag to strengthen power grid ahead of 2027 El Niño Punto! Central Luzon",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "022a76da3549a84d8b5d",
       "title": "Alabat wind farm begins supplying power to Luzon grid - Malaya Business Insight",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY2hIVmdBNkhENGZVc0dCRHpjNl8wODVnMVNYN2xQOUs5RkU2MmhGYzRNNEVMaVdRdFRYLVZ4eUNRSTRzQnZZWDJ3Tl9EbjRXOEdnX1IyZlplbnlFd0lobHYtRWt6ZHF2X25CRnp0MWNxdGJFcTFlOUpYS3ExTWIzek04UTRaTVlTYkNuN2trNk45YVFuNmQ3Ug?oc=5",
@@ -3291,6 +3431,20 @@
       "published_at": "2026-11-09T08:00:00+00:00",
       "first_seen_at": "2026-11-25T23:09:37+00:00",
       "summary_excerpt": "A site in Nabas, Aklan, is among the locations the National Grid Corporation of the Philippines (NGCP) is assessing under Project Airbag. The battery storage initiative aims to cushion the grid against tight supply and the possible 2027 El Niño. Link to the full st Facebook",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "ff53f3b267eb095e683e",
+      "title": "A site in Nabas, Aklan, is among the locations the National Grid Corporation of the Philippines (NGCP) is assessing under Project Airbag. The battery storage initiative aims to cushion the grid against tight supply and the possible 2027 El Niño. Link to the fu",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQzZXbmpvZUQxZmhBeEJHQWhiQ3VBMW9zQndHa3NhZEtYTlI4bEhIbmk3TlM1Ni1pNVMwRkUwM0xxSkF5SWJ0ZFZUVDhyZWxVNkd4NGt2d1VqeWwtX1VrbDhCWk5Lb3Fwa3RiT2x0X3dYV0VUTWNvX1FuN2pMTG8xN1I2TkFuWF9pMU9SUU0yQi1ER05JeTdUTkppMy0zTEtiYlIyQTBHTlhYczBEdjNHMjR2X1BEOEQ1ek1Fa2RlaEhCR25BdlJJWFFQeU8yRU1IMV9PbTFMN3pfR0J4NFE?oc=5",
+      "publisher": "Facebook",
+      "source_label": "菲律宾储能项目新闻",
+      "source_id": "bess_ph",
+      "source_method": "google_news_search",
+      "category_hint": "storage",
+      "published_at": "2026-11-09T08:00:00+00:00",
+      "first_seen_at": "2026-11-27T22:45:21+00:00",
+      "summary_excerpt": "A site in Nabas, Aklan, is among the locations the National Grid Corporation of the Philippines (NGCP) is assessing under Project Airbag. The battery storage initiative aims to cushion the grid against tight supply and the possible 2027 El Niño. Link to the full story in comment section. Facebook",
       "review_status": "unverified_discovery"
     },
     {
@@ -3529,6 +3683,20 @@
       "published_at": "2026-11-05T05:59:48+00:00",
       "first_seen_at": "2026-11-22T06:56:34+00:00",
       "summary_excerpt": "Philippine’s Altenergy energises 64-MW Alabat wind farm Renewables Now",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "cc004f72e068748fa654",
+      "title": "Project Airbag – Strengthening Grid Flexibility, Resilience and Energy Access - thechronicle.com.ph",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTVJTSkVmX1ZUZ3ZLcTJYOVZwVUFab3Z1Z1p6MldkU1UtREdmWDdPQVR1LVNRcWs4SDJiYVdIUFd1M29YZ3VmV1A0V1VfRGN2T0RlbFhaTVIydXl3VG5LYXp3cWZ1ZjQ2bXdNdUx4c2pSbEx6Y3A3aWlvdzBzcUFnX3BNakp3NTEtUTAyNlV1aWYzM3M1Qll0azAyQ2dockhTNXBvVWVB?oc=5",
+      "publisher": "thechronicle.com.ph",
+      "source_label": "菲律宾储能项目新闻",
+      "source_id": "bess_ph",
+      "source_method": "google_news_search",
+      "category_hint": "storage",
+      "published_at": "2026-11-05T01:48:57+00:00",
+      "first_seen_at": "2026-11-27T22:45:21+00:00",
+      "summary_excerpt": "Project Airbag – Strengthening Grid Flexibility, Resilience and Energy Access thechronicle.com.ph",
       "review_status": "unverified_discovery"
     },
     {
@@ -3921,6 +4089,34 @@
       "published_at": "2026-11-03T08:00:00+00:00",
       "first_seen_at": "2026-11-24T01:44:05+00:00",
       "summary_excerpt": "NGCP floats an innovative proposal The Manila Times",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "2720fafbe07393c3129a",
+      "title": "Tanauan and Maragondon Solar Projects Supply 128 MW to Philippine Grid - Construction Review",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPX0ktQTRFay1WUXhBbWhPcTBaU3MyajZ3NHV0Wm02RENNRkdoLUpMRmU0U1ZWUDl1RGdhWl8yM01WRDBidjBpcFBJdzFDcEtkWmtRSE5NY0hIWS1iVXRWa2RmeURrbzNqRFJqVmdoTE1EdUVKcktlVXpXR2hFajFYMGhTVUxnek1SWkg1ZGloSzc3YldUV3R0UDR6SVpfTmxxSTdrLXUya1hmOUZrcjNQRUZ3Tmtzb19wNlBLRS1YYVlQWUp6SV95VTdpLVZuU2lrR1ZHRTVvZk4?oc=5",
+      "publisher": "Construction Review",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-03T08:00:00+00:00",
+      "first_seen_at": "2026-11-27T22:45:21+00:00",
+      "summary_excerpt": "Tanauan and Maragondon Solar Projects Supply 128 MW to Philippine Grid Construction Review",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "326202b3411c84487e55",
+      "title": "China's cable-cutting threat reaches Taiwan and the Philippines - Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTQzT3kxVmMtak9FMGI2bmhlVnFuUkpqUnZtWVE1SFRnaG93UVlOU3ZWQklTRDlqcTFJYTZOQXB1UnkxRHVOSDctN1ZJLTFxVElQeGtFaTRGcXJMZTQ1RGVIM2lXWWNxa3EzWTRNWS1FRWhjZ25BNUY3WnVmeFE3TEFLbi1OZzNQVEhOUFVPaDZ6ZlVaYV81NGVpUQ?oc=5",
+      "publisher": "Nikkei Asia",
+      "source_label": "菲律宾弱电和光纤项目新闻",
+      "source_id": "elv_fiber_ph",
+      "source_method": "google_news_search",
+      "category_hint": "structured_cabling",
+      "published_at": "2026-11-03T08:00:00+00:00",
+      "first_seen_at": "2026-11-27T22:45:21+00:00",
+      "summary_excerpt": "China's cable-cutting threat reaches Taiwan and the Philippines Nikkei Asia",
       "review_status": "unverified_discovery"
     },
     {
@@ -5030,6 +5226,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "c01d971258833c759c4a",
+      "title": "Polished draft_04 March 2026 - Department of Information and Communications Technology (DICT)",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPRi1YTmozZ2w2ZG96bXNtM1IzX0s1X3pfMDFlSXlUZTBBT2N3SHNJZWM0a2RrLWdTcEE1OFZWb2pldHFNU2xxdmtmeWtmQzdCQnhCU2JBeXA2SUZ3cllNMDBwOWh4ZzB6Z181ZW8yZlJPTGt3dHhWblVfc3RhR2QyZk9sV1ItUUg4em1VeWxlZzlZSHZnX2tkME1mUEI5MFNJeUtpeHJTMnVRM184bHdmb1YtazR6UTlpeW5PcGJxNDRYTVJmcVc0Ymx3Wlg3MF9yNTdxT0QwblB3alAwOVhUdmNlaXFVcG8tMVE1SHZYSWJ3SHZUVDdzZXd5VHN4V0FBVGZheUg1bExtNGNlRmUybmx1elpCcl80N19NUnBzb2w5aXlzNS16c2lqMkR5aUdYOTNtSHpkMTBhRUR2NUpha3R2cw?oc=5",
+      "publisher": "Department of Information and Communications Technology (DICT)",
+      "source_label": "DICT 数字工程索引",
+      "source_id": "dict_digital",
+      "source_method": "google_news_search",
+      "category_hint": "ict",
+      "published_at": "2026-10-03T01:54:55+00:00",
+      "first_seen_at": "2026-11-27T22:45:21+00:00",
+      "summary_excerpt": "Polished draft_04 March 2026 Department of Information and Communications Technology (DICT)",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "70199c4c53e07c5fccae",
       "title": "Department Circular No. DC2026-09-0020 - Department of Energy Philippines",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XcGR4VXlSdjlrLW5Hdm9ReXlVbVdjNkxWSmxsWEJpMHlfUE83ZUs2NFlzMGgtaS1hcEcwOTZWSEVpcXdyZFhmXzB5dnNMcGFoMzFfOHUwV24zZw?oc=5",
@@ -5223,6 +5433,20 @@
       "published_at": "2026-09-04T07:00:00+00:00",
       "first_seen_at": "2026-11-22T06:56:34+00:00",
       "summary_excerpt": "Solar Projects (Awarded) Department of Energy Philippines",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "1577674acafdddf7db6a",
+      "title": "COA Wind Projects - Department of Energy Philippines",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94c2t6M192eXJ3N0JHTWNjc3NHNUVyYldLS1VSUUlFSkk2bGNnXzRYVV9fQWg4cXRObnVvMVBlNFNsLTlHOXBrMzR0TjlmdFNlRDlmbFBfWjZoWkNfUExBUS1GWQ?oc=5",
+      "publisher": "Department of Energy Philippines",
+      "source_label": "DOE 官方信息索引",
+      "source_id": "doe_energy",
+      "source_method": "google_news_search",
+      "category_hint": "energy",
+      "published_at": "2026-09-04T07:00:00+00:00",
+      "first_seen_at": "2026-11-27T22:45:21+00:00",
+      "summary_excerpt": "COA Wind Projects Department of Energy Philippines",
       "review_status": "unverified_discovery"
     },
     {
