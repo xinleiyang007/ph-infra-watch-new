@@ -1,8 +1,190 @@
 {
   "schema_version": "discovery-leads-1.0",
-  "generated_at": "2026-11-26T23:04:03+00:00",
+  "generated_at": "2026-11-27T10:59:02+00:00",
   "source_note": "RSS feeds and Google News site-restricted discovery indexes; not a complete registry or verified projects. Links may be Google News redirect URLs.",
   "leads": [
+    {
+      "id": "52228ef3e388f88533e3",
+      "title": "New Camarines Norte port to serve as PH offshore wind hub By Raymond Carl Dela Cruz MANILA – The Philippine Ports Authority (PPA) broke ground for the Pambuhan Offshore Wind Port in Mercedes, Camarines Norte on Friday, a facility expected to serve - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNi1XbzFoaUY4UktTWnJZeUsydVhhUDFyOEFMTXI2RDdncXdiWUdXRi0yWGtScnhZcTBzRERKTFZDZDZxcG9ydFJvZlN2MHpXWVpzc2hoX1NOOWh0X0ZOcDRZeGlrdk5RSy1zaU04WFlwSllBeHBydWZnczNqLWMxb25tdmRlb0dhMDZoakJBOUV1MjFtYkdYeDNlZlU1Z0pTX3RteGJ4ODhuek50RTMtcXhKNFBva0wyQXJwdjR4NTZhSGRCeEtlTk5icUtZdVBfalhpbA?oc=5",
+      "publisher": "Facebook",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-27T10:20:04+00:00",
+      "first_seen_at": "2026-11-27T10:59:02+00:00",
+      "summary_excerpt": "New Camarines Norte port to serve as PH offshore wind hub By Raymond Carl Dela Cruz MANILA – The Philippine Ports Authority (PPA) broke ground for the Pambuhan Offshore Wind Port in Mercedes, Camarines Norte on Friday, a facility expected to serve Facebook",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "7da0cd3ed1dc11cb7bdf",
+      "title": "Will drone strikes drive some Russian data centres underground? - Developing Telecoms",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOX29SVWhkbVpiZU9zS05qS0N6WEU0NzF2TERzc1VXZ1UzeTdIeHp5a0p2VnZXSXk1OFo4bWZhdzJkejh5NkNTZDY4NFdGNTVLcXB2aHpkWDdydkxKenN6WF94N2pHQzgyMHJWZF9YNnotblU5elUyWEVnem1qc2hPX3B5QXZUWUhQbWtuLVVsMTdMeTRKelQ5UmlWVHBlYndBdVNIRVJKS014Wmo4eXhsUGpwTVRTaGdUWlFZUjBFUW5qQ2k5V2JFbktrTmtPVUg1ejc1V3dUQjVLYndkWEE?oc=5",
+      "publisher": "Developing Telecoms",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-27T08:34:09+00:00",
+      "first_seen_at": "2026-11-27T10:59:02+00:00",
+      "summary_excerpt": "Will drone strikes drive some Russian data centres underground? Developing Telecoms",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "0e6576e756a94546427c",
+      "title": "Philippines starts wind port buildout ahead of 2028 target - Manila Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOHkxWlJybDk2d2JzVVhqVmRoQ2w4SEZCUkQzRHM2di1SSnZSdmthdHBBUzFZMFRrNVZFTUJIT3hwTjJzYXdQYWNYSzhZaTZDcWxtdVpfX21IUFhyN1hwNU5wNG1pdGZMbzg1NFhNOEtKdnRDMjUtVXRSQkpnMWhPbi1ERUVjQ0dvU2VReGJhaEM?oc=5",
+      "publisher": "Manila Bulletin",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-27T08:04:31+00:00",
+      "first_seen_at": "2026-11-27T10:59:02+00:00",
+      "summary_excerpt": "Philippines starts wind port buildout ahead of 2028 target Manila Bulletin",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "331c71e96056df0fe458",
+      "title": "Schneider Electric Launches Ultra-Fast EV Charging and Battery Energy Storage Solutions to Advance Hong Kong’s EV Charging Infrastructure - Newspatrolling.com",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRTl2REtaRHhxTlhjQkp2d3d2aWxGTERSYUZ3T3d2c0lzUXktYmh0NFF4OVJzcEJRVFh4b3lFTW1MVHg5VnBVM2tDbEJRTzFmQmJXd2U4TEZiaU5QanJpSGFCUUN0cGVzMVRhY0cxakVfZGVtMi1HTHpJY0ZJaGZnd3czYmdUN0t6RlJaVEZRNjlLR1FiRTVOZE1kVTJ4TkR3TjcxZGJHRVZ4ZHdKdWVKOHJNS1g3ZzJNUFRrM3M5TnR3LXQtTHNYbjFfRFFKMVFrcG41alpsVjlMWi1ua3Qwcm9SZ3FxNllxZndBN19JbkROa3M2YnJj?oc=5",
+      "publisher": "Newspatrolling.com",
+      "source_label": "菲律宾充电桩新闻",
+      "source_id": "ev_ph",
+      "source_method": "google_news_search",
+      "category_hint": "ev_charging",
+      "published_at": "2026-11-27T06:04:34+00:00",
+      "first_seen_at": "2026-11-27T10:59:02+00:00",
+      "summary_excerpt": "Schneider Electric Launches Ultra-Fast EV Charging and Battery Energy Storage Solutions to Advance Hong Kong’s EV Charging Infrastructure Newspatrolling.com",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "743c87f84fdac64fc281",
+      "title": "Philippine Ports Authority Breaks Ground on P2.3B Offshore Wind Port in Camarines Norte - Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUjJ3elljVmZBeU54TEdBMG11dUZuRFYzRVppS2p0aG1CQjRsekVZbVQyUnhlTHp0bUdWX1RJQ0d0aFM4cnZPY1dHREU2b3BqSTFaYXBFbXF1S1p5dHp4bGh5TU1FWk9tZU91Y1lreGk5SlR6OEVERUhSRndaaUsyRmR5RFFUQ0VLcV9JcVZMdF84cmx1M01JUGVQcTU1WEd5c2hSUXlCTENSLWhYNmRr?oc=5",
+      "publisher": "Daily Tribune",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-27T05:54:31+00:00",
+      "first_seen_at": "2026-11-27T10:59:02+00:00",
+      "summary_excerpt": "Philippine Ports Authority Breaks Ground on P2.3B Offshore Wind Port in Camarines Norte Daily Tribune",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "d2f78897d99467f492cd",
+      "title": "DOE: Pambuhan Port to Unlock Offshore Wind Potential, Spur Investments and Jobs - Department of Energy Philippines",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaFVoWV9DcVRnNHFPRlhBbHU5dlBhcjJMODNRbVRFY2FOc3kxanBOdmFjWFNLcm9GUk9BdzNlYWpHLUg3SjFyLU5iV0h2RWV0U0hvN0RZN05tZUlNQ0dDQmwzX0xqbXFsRmxOb3hJeHpxbFdFdE8yTVBaV3pQUG9ESVozaFJydUczbkx2WU5uU1ZaellvUG41NXpjdzk?oc=5",
+      "publisher": "Department of Energy Philippines",
+      "source_label": "DOE 官方信息索引",
+      "source_id": "doe_energy",
+      "source_method": "google_news_search",
+      "category_hint": "energy",
+      "published_at": "2026-11-27T05:48:48+00:00",
+      "first_seen_at": "2026-11-27T10:59:02+00:00",
+      "summary_excerpt": "DOE: Pambuhan Port to Unlock Offshore Wind Potential, Spur Investments and Jobs Department of Energy Philippines",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "0cfebb8cad177c56dee4",
+      "title": "P2.27-B offshore wind port breaks ground in Camarines Norte - Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV1Qtdm1faTM1REd2MlBTbDI0U2pySDNvZzlKdFZKZ3h2OHplODM4Nk9pa2IyMEJrSFhqM2lXZ1Y5VkZJVHhrb3VXbC1ja0MwcU1oR3JST3Ezc3pwQzVHU3RqQUN6Qko0WFdlR243bTRhMk1mamQ0NXgzMjJ3dkE1LWxYM1N6UVI0eWVzZHQ5emJleHgzaFVV?oc=5",
+      "publisher": "Daily Tribune",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-27T05:31:45+00:00",
+      "first_seen_at": "2026-11-27T10:59:02+00:00",
+      "summary_excerpt": "P2.27-B offshore wind port breaks ground in Camarines Norte Daily Tribune",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "c04574173bd4050ce1be",
+      "title": "VinEnergo commences construction of a 126 MWP solar power project in the Philippines, realizing a strategic partnership with the Department of Energy. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdEk3ZS1IN1FQb1BPTEdGZ0dlUVNWOE1YVTMxRllQNGt0Y2duSDFmVWNnNjV6X2lnbjBwck1zTDl0amNDblB6UFRBYm9LcDNjVURCLTNCbWUwZ0hzMzExUm1fMlE3Wk1ZV3hmQ0kwd29rTzk0NFZ3VjFIbFdaazRDV2FJd1VyOVc2RzFxaTlZcDU5d2MycDFjOUR0VjJmWExwOVA4c080TmV2cmw4MjdZWUZabVYzQTdaTUhxeGxKOGxSZ1Uzb0YtMFVpR2FIdlg5N1VXTVVTTQ?oc=5",
+      "publisher": "Vietnam.vn",
+      "source_label": "菲律宾储能项目新闻",
+      "source_id": "bess_ph",
+      "source_method": "google_news_search",
+      "category_hint": "storage",
+      "published_at": "2026-11-27T05:07:43+00:00",
+      "first_seen_at": "2026-11-27T10:59:02+00:00",
+      "summary_excerpt": "VinEnergo commences construction of a 126 MWP solar power project in the Philippines, realizing a strategic partnership with the Department of Energy. Vietnam.vn",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "7e62f644d2d071f3265f",
+      "title": "ACEN maintains 7 GW Philippine renewable energy pipeline, reinforces commitment to energy transition - Bilyonaryo Business",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTWhwNGVQUWtWUi02VWVkVy1kTXpwdzRLYTRiTDJTaUREZlVlNEEtSGlrbFMzU0ZzRmlGOFQ5V2tCYUlpMHBXY1BFc3dXZVdKcWctNkxaRTlXbjZ2ekFkS0pudDZ1c1ViSG5kMG1jaEFyOHM1N1EwS3lqUnlSNWU5bEM5VnhjY2NnV0swTWZYYzd2WnB0N1ZReEk0dV9LTDRnaHBkVk9nNWo1ZHFJYmRGcGNLeUNFUkNQankzN2lNdmo?oc=5",
+      "publisher": "Bilyonaryo Business",
+      "source_label": "菲律宾储能项目新闻",
+      "source_id": "bess_ph",
+      "source_method": "google_news_search",
+      "category_hint": "storage",
+      "published_at": "2026-11-27T04:56:30+00:00",
+      "first_seen_at": "2026-11-27T10:59:02+00:00",
+      "summary_excerpt": "ACEN maintains 7 GW Philippine renewable energy pipeline, reinforces commitment to energy transition Bilyonaryo Business",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "4e7edae0e051cd421e96",
+      "title": "VinEnergo Breaks Ground On 126 MWp Solar Power Project In The Philippines, Advancing Strategic Cooperation With The Department Of Energy - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPMlF4MlNCRXJISEl4U2pGcnFHQ1Nua3RTN3hGa2V5ZGpmR3M1amNUcnVpMW1rakVuY3d5YW9lSGY5cmpJbGJ4SnVIalVsT3hINmJfX3NrRXpaUXc2cUY4ZmVpbndyUGV1ZklrQ1pUcmhMOWhabmR2UUhyZ2NvdENVZm5TVFRWUXVOX3FuOW1GNWVwQ2tpQ1ZIRmhMNVVxSGJ5Q1FJUml2bHluVDJUQnlLWmY4SG1tNVVCUTIyVFpucVBzM3dseEF6RW1lX0RidXRHdU5CaUtJb2RkQVVjVVNrdTZEVmVuQnQ5YWJ5MDI5Zml3TVBOYVJxWG0waHV5TWRfeFhud0RoVThRSm4yZ3E4MHlxN3pETmdaNjREaWRLZ2dKaERtVmdLeFVoaXdubVlyckFOMGVuandhMF9rU2ZUMtIBxgJBVV95cUxOSFFfV01HWjZsVF9KLXRpN3BIS1lCSWpEbjNjZUdmdTRKN3F2X2ZsQWpBQ0RySEZEbjZHam1zaHI5REU1S3V2akJUVjNmVFJ5Zk5OOXJPLTNLTUw4LU9qV3BMNjJ1Z3hWNVdncXFXR0FkelF5cHc3TUZnMUNUazFISnNYdU9JVHlBWFBxcnlXbTB1SjNXU3QteERrQnBkX2NoODVZVnVlQkM5dUo4dl9sQXk5aW9WZTlyV1hmVDVmSlV5bWt0aFBvNmRQNkhXZ25nTy1wbGEtdFItS1Z4cUh4TzJNRzNQSjhBMzM0dFJFX2UwUzVmWGhzbTJZblZ3Q29pZnphLTFQTmlLRkYwT1YxRE9yS2NwUnBpUkVubTV3dGdZcV9BLS15VlVwSUJvczhyNi1HZDVLOVAtQlJ1YTE1NjJzY2dsQQ?oc=5",
+      "publisher": "The Manila Times",
+      "source_label": "菲律宾储能项目新闻",
+      "source_id": "bess_ph",
+      "source_method": "google_news_search",
+      "category_hint": "storage",
+      "published_at": "2026-11-27T04:43:23+00:00",
+      "first_seen_at": "2026-11-27T10:59:02+00:00",
+      "summary_excerpt": "VinEnergo Breaks Ground On 126 MWp Solar Power Project In The Philippines, Advancing Strategic Cooperation With The Department Of Energy The Manila Times",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "84e7291a3af48d436d43",
+      "title": "DOST Secretary Renato Solidum Jr., Cotabato Governor Emmylou Taliño Mendoza and Special Assistant to the President Antonio Lagdameo Jr. ride the hybrid electric road train turned over on Friday to the local government. The hybrid electric road train, crea - Fa",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVDZTaHRRbGhSS3NpTEhLYXJ3M0tBM2FjTUJXWHZ0c2NXSUQwVGZvakFrSzJXY25UanJsLW5oN1RtX3dmbzJhX3ZBM0JhMzNQbndfMTBIWVVyOW50UFMtc3A2R0ZzbHNwZUV2dEJBVFdnb2pPd01FVjdPRTFLNW5IZ1VSanc2UDllSVd6OHB5QlYwb3dvRDJMNHVEcU5MTElYTGNtT3F5WnRhWFRWVGpzaVFieFVjb2NRTXF2VjJjZkxUc3J1eTN4cE8xX3gzNHRmM0g2SFQzTWlOOHhaU01kbXNYTWY?oc=5",
+      "publisher": "Facebook",
+      "source_label": "菲律宾充电桩新闻",
+      "source_id": "ev_ph",
+      "source_method": "google_news_search",
+      "category_hint": "ev_charging",
+      "published_at": "2026-11-27T04:31:52+00:00",
+      "first_seen_at": "2026-11-27T10:59:02+00:00",
+      "summary_excerpt": "DOST Secretary Renato Solidum Jr., Cotabato Governor Emmylou Taliño Mendoza and Special Assistant to the President Antonio Lagdameo Jr. ride the hybrid electric road train turned over on Friday to the local government. The hybrid electric road train, crea Facebook",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "a3b3d55c4db7ceec0553",
+      "title": "August Energy breaks ground on 18-MW solar project in Philippine province - Asian Power",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRno5eWJOM2lDbFpzR3F3QXU4dVNTM2ZQTWdkMEtaN0pNVk11bFNVaDNQVXlhZ1RfRm5VRHRBbHFMN2FsampoSVNGSTdCRllNTXlnenh5WE9HeGR3cTN3VUFzb1c5Z2VEeVdMekpsMUNNSGpkU2tVYmxyRVNTcXZDUF9yOUFBcXFHZEpGakgxOTNVUU1IbmZ6TEZmMVdGbmJqb0thb2hNS0NfRFk?oc=5",
+      "publisher": "Asian Power",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-27T01:31:25+00:00",
+      "first_seen_at": "2026-11-27T10:59:02+00:00",
+      "summary_excerpt": "August Energy breaks ground on 18-MW solar project in Philippine province Asian Power",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "58e0d1a51c2cf70640bb",
+      "title": "CO26241 | Southeast Asia’s Data Centre Boom and the Growing Competition for Water and Energy - S. Rajaratnam School of International Studies (RSIS)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM0tTdEZzVWw2Rk1IYW5ycGUyU05RSXZocktEcHg0U0hrSlBvb1ZRVi14MnY1VDZGSEJibDBiOE9PNnN2dHVVSW1ZaDlCNG82WFl0cUJ0b0V4c1BqeGVsZ0hEQ1FHWUR1TWluVmlXemg4c0RMRVVEak85RXQ4Wjd5NGF3UDAwQUN4YVNLMmJKLThYU3ZiVXROOXMtNV9LRHJvb1dzbUNDYVpaY3VCVVI2c3ItVmNSQ2MwVnM3Qlg2YUhpUQ?oc=5",
+      "publisher": "S. Rajaratnam School of International Studies (RSIS)",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-26T23:54:59+00:00",
+      "first_seen_at": "2026-11-27T10:59:02+00:00",
+      "summary_excerpt": "CO26241 | Southeast Asia’s Data Centre Boom and the Growing Competition for Water and Energy S. Rajaratnam School of International Studies (RSIS)",
+      "review_status": "unverified_discovery"
+    },
     {
       "id": "573bd08dfd5080c0522c",
       "title": "Philippines: Pax Silica is not a land grab — but Aeta rights cannot be sacrificed for a tech dream - Gulf News",
@@ -88,6 +270,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "3838ce6b42c2d22b6a22",
+      "title": "Construction begins on the first Vietnamese-owned undersea fiber optic cable line. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaFJ5SjRWMXpzcklVb1p1U3Y4S050cUM4Mks2cG85ZFVtQkxzNlk1ZXJXMmZMUF83VldXR1VqblVwVWNuTzJGTVhIcmQyLU55LUlMM3BEVm9Qa2ZJZTFBNnA0QUREY2ZLRjNqTUx3TkxmZjl6aHJwR1d4TlJQTTQzbTN6Yzg5cm81R3VRUFZPTlk?oc=5",
+      "publisher": "Vietnam.vn",
+      "source_label": "菲律宾弱电和光纤项目新闻",
+      "source_id": "elv_fiber_ph",
+      "source_method": "google_news_search",
+      "category_hint": "structured_cabling",
+      "published_at": "2026-11-26T07:51:30+00:00",
+      "first_seen_at": "2026-11-27T10:59:02+00:00",
+      "summary_excerpt": "Construction begins on the first Vietnamese-owned undersea fiber optic cable line. Vietnam.vn",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "595b20692b90abaf4d20",
       "title": "Solarization of Public Buildings Gains Ground as 38 LGUs Commit to DOE Program - Department of Energy Philippines",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPREV1WHhfTkFUSFp3WGpqQ0gwek93VHNwQmdLRl84OFdqZEtYQ0hxREJDWFBMQjBaMXBfMF8wNzN0aGtKdGF5OVdXd0QtYldvSlZSeFBTdk1lZ2lRSmk5NXZrUFBMU2wtVXpSTU5zTzNmd0g2RzFjWHhJUlprLXhQWUlrVjJaSjNoZFRFUC1rSm9UNUFwLTlVSmNFU3VtZw?oc=5",
@@ -113,6 +309,20 @@
       "published_at": "2026-11-26T07:36:16+00:00",
       "first_seen_at": "2026-11-26T11:02:01+00:00",
       "summary_excerpt": "DOE reinforces power supply readiness amid looming El Niño Department of Energy Philippines",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "b0315abe45854edf84f4",
+      "title": "Viettel, Singtel building subsea cable for data-hungry Vietnam - The Edge Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLTY2VExMOC03UURSTW5PRmpEM2t2bTlhY2NPX09KSGl1YzFlNC1CNTdTaU5XUlFCYk1VNTV6WEt4TE9VMElabG1sREJhNV9RM1BNSzlkTWg0X3hiZzdjMjVqM2cyMzNJcmFIbnYwQU4xZlJnZk5nQ1hVSkZVeUVMazV1UTJjSWNSOXg0TDd5NHpJX2hBUmJVT2o1d19xWl9HVUE?oc=5",
+      "publisher": "The Edge Singapore",
+      "source_label": "菲律宾弱电和光纤项目新闻",
+      "source_id": "elv_fiber_ph",
+      "source_method": "google_news_search",
+      "category_hint": "structured_cabling",
+      "published_at": "2026-11-26T04:00:09+00:00",
+      "first_seen_at": "2026-11-27T10:59:02+00:00",
+      "summary_excerpt": "Viettel, Singtel building subsea cable for data-hungry Vietnam The Edge Singapore",
       "review_status": "unverified_discovery"
     },
     {
@@ -239,6 +449,20 @@
       "published_at": "2026-11-25T14:13:45+00:00",
       "first_seen_at": "2026-11-25T23:09:37+00:00",
       "summary_excerpt": "PH off new US chip curbs list, but regional rivals build at scale Malaya Business Insight",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "abbd73df3e9686666bcc",
+      "title": "Isinagawa ng Fyt Media ang “Sayang Ang Araw,” isang forum na tumatalakay sa kahulugan at kahalagahan ng energy transition sa pamilyang Pilipino, sa Fersal Hotel, Malakas Street, ngayong Miyerkules. Binigyang diin sa forum kung paano nakatutulong ang solar powe",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLUZrU1V5NnVNMXdhU3lkd1hQOUlBeU5FVXpXdU9iTTQybnNVU1o0QmFlRV9tc2FqRm5jN2JMSkNjX1FOQkczdF9Xd2g3RTYteGJpT0pqYjFhaGFKOWxQYVNsblRDNVdoc0NtakxiVGdaYW1HMUhUTmF6NE1PN0JIUld1aEpRczVtdXlxWWRzWWlZZ1RrMVhER2dUaTFtMTd3UV9BLUpaN0ZwOHFDMnlINEU5X1BBVTNST1hxb2R0cXZzTUlpNTJPelRvVTNPMDBy?oc=5",
+      "publisher": "Facebook",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-25T14:00:05+00:00",
+      "first_seen_at": "2026-11-27T10:59:02+00:00",
+      "summary_excerpt": "Isinagawa ng Fyt Media ang “Sayang Ang Araw,” isang forum na tumatalakay sa kahulugan at kahalagahan ng energy transition sa pamilyang Pilipino, sa Fersal Hotel, Malakas Street, ngayong Miyerkules. Binigyang diin sa forum kung paano nakatutulong ang solar power para epektibong magamit bilang pangunahing pinagkukunan ng",
       "review_status": "unverified_discovery"
     },
     {
@@ -424,6 +648,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "8a75c227317d08efb366",
+      "title": "TRIPS and brownouts can be so annoying for those with easy access to electricity, but the flicker of lights from renewable energy for those in far-flung and off-grid areas inspires them to start micro enterprises. FULL STORY: https://www.sunstar.com.ph/davao/t",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUDFYSHI0N2NtQjVrYm1jam5TenB3aHg2R1ZkN0gzMk5VRVhibXJ3UFNHQXBTVldHM1FFVnpyOGFBejgtWWVUQUNGVzlsdUdVd0tQTjdYbGNpWERnQW5TS1B2bkJzbWxLRmpHUTlqYWlzSEpqWXFiUm42Nk16bllxZEtEUkJGbEl5RWw5N19SMXd1a3podW12TVBKMm1OanQ1WG9oT0ZIczdrTTV2MndNUHNMMTg3RDMzMUdHdC0yYXo4RkpReVNDNXoxMFJoWGIwRlJlTGdISnZMamNRZnF2MA?oc=5",
+      "publisher": "Facebook",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-25T01:00:14+00:00",
+      "first_seen_at": "2026-11-27T10:59:02+00:00",
+      "summary_excerpt": "TRIPS and brownouts can be so annoying for those with easy access to electricity, but the flicker of lights from renewable energy for those in far-flung and off-grid areas inspires them to start micro enterprises. FULL STORY: https://www.sunstar.com.ph/davao/talaingod-microgridterprises-a-means-to-earn #AllYouNeedToKno",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "5396a9ad53cb5041e7b3",
       "title": "UAE-PH cooperation for sustainable future - Inquirer.net",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNXy1Rd012MGh1cHlmZTJWTzQzZGcxUVcwMGF0b3JEVjhzaTZJTXBTcTRlUDBjTHFVNU9fLS16TF9HX3dYX20tTlF0OGZzNkUtdHd4SWh6ZmNrdlF1ODlTOEEwbnFtOHdCQ1dtMlUxaGZScmlhSTVSMC0wMnY1UDAxMkU2UdIBiAFBVV95cUxNbG5kc3Y4RkR6UHlKVkx2eURCdDZVeFMtMFpfbHlmbzVLakJpMFhrU0dUeW5lT0JIWC00MTRUUXcwc0RHTkVaYjJlUDdhMEpPanZ1Y1NBODc4OUE0V0RKMURyRW40SHE1bDEtUlVaeko0REROZEFCZ1RJOVp6WmRuVDd2TkpEei0t?oc=5",
@@ -505,6 +743,20 @@
       "published_at": "2026-11-24T18:05:56+00:00",
       "first_seen_at": "2026-11-24T23:31:02+00:00",
       "summary_excerpt": "Chinese group eyes building PH wind energy hub Inquirer.net",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "5a61ead007c40765b987",
+      "title": "Completed power projects hit 4,167MW, may top 6,500MW - BusinessMirror",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbzdFU3hjNF81Y0RrUFpRTm9HSm9EVlhvM2IzSlVVWlFKNkJqamR1ZGxOLTNENnhaT3VfX1g3QWdLLV9rMHNwMkpJUTRWS1BDZVAyS3BBaUdVTE9lWjJJX25QTW1XMG41M1BtcU1sZEdPNUtQV2hPQ0c5Mlpqa01Hc2ZrcURmcDZtSHljVHZqMVZiNEVJd0xJ?oc=5",
+      "publisher": "BusinessMirror",
+      "source_label": "菲律宾储能项目新闻",
+      "source_id": "bess_ph",
+      "source_method": "google_news_search",
+      "category_hint": "storage",
+      "published_at": "2026-11-24T16:05:00+00:00",
+      "first_seen_at": "2026-11-27T10:59:02+00:00",
+      "summary_excerpt": "Completed power projects hit 4,167MW, may top 6,500MW BusinessMirror",
       "review_status": "unverified_discovery"
     },
     {
@@ -617,6 +869,20 @@
       "published_at": "2026-11-24T08:29:24+00:00",
       "first_seen_at": "2026-11-25T11:28:01+00:00",
       "summary_excerpt": "MGEN Renewables projects ₱700-million full-year profit on MTerra Solar commercial launch Manila Bulletin",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "abad6bf79c34e26aed1c",
+      "title": "Australian data centre construction faces a power test in Darwin - World Construction Network",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMllUQS1NSVVjMjg2d01RMkl3eXA3NEFhcTFZM3hQZXFsR05nVXV6a2ludXdjVEp0TTduMEl5RkliUmFFY3hVdnNRc054XzIwX2NGTmtfMGJ3eDRaWGw4VWd1aFNKem8yU1FwT0NlVE05NTJnLWJ4ZnZpd18wRG9OWmNaS1ljQ0ZOaWd0UDJ0YjY3dw?oc=5",
+      "publisher": "World Construction Network",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-24T08:00:00+00:00",
+      "first_seen_at": "2026-11-27T10:59:02+00:00",
+      "summary_excerpt": "Australian data centre construction faces a power test in Darwin World Construction Network",
       "review_status": "unverified_discovery"
     },
     {
@@ -1037,6 +1303,20 @@
       "published_at": "2026-11-22T11:32:12+00:00",
       "first_seen_at": "2026-11-23T10:53:50+00:00",
       "summary_excerpt": "CarBEV seeks to make ‘electric transpo’ more inclusive TV5 Kapatid Network",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "99868368d64cff4c711c",
+      "title": "Noreco 1, Korean firms ink deal for energy storage systems By Mary Judaline Flores Partlow DUMAGUETE CITY – The Negros Oriental 1 Electric Cooperative (Noreco 1) has partnered with two South Korean energy companies to develop solar-powered battery energy stora",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaldGX1BVcURoYkNMcjFGb2UwajZ3ZjRQWVpYRk56MVFDTklhaXB0bE5wRkpyTTJEemNoZ2xOcjFYNXVaM2Q2M2Q4ZUZFM0p5cXc4UGZtak1ZMVR3U3JJQ3NpaWhkTlR3dmNTRnNOMDRPay1lX21qY3VXTUNHZ0ppbTNnM2VDeFhCUTVwYWdUV05hSDktLVFBcnpta2JIbVBwN2ZJX0c2MFN1aURqNzBJenR0Z2pDVkQ5VWMwelpLRWJFR2NhWm9XN3c5TlZla3pQcDJJcA?oc=5",
+      "publisher": "Facebook",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-22T11:17:41+00:00",
+      "first_seen_at": "2026-11-27T10:59:02+00:00",
+      "summary_excerpt": "Noreco 1, Korean firms ink deal for energy storage systems By Mary Judaline Flores Partlow DUMAGUETE CITY – The Negros Oriental 1 Electric Cooperative (Noreco 1) has partnered with two South Korean energy companies to develop solar-powered battery energy storage systems (BESS) aimed at improving electricity reliability",
       "review_status": "unverified_discovery"
     },
     {
@@ -1586,6 +1866,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "4eefee78dd5ce459ca72",
+      "title": "An energy research firm forecasts that around 6.5 gigawatts of battery energy storage system will be installed in the Philippines until 2028 as the country shifts towards clean energy. The Department of Energy has required new power projects with installed cap",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUy1aOXJ2UUFjeDVrc01aNmJVWjVHOThwTGE4QUo1aEpGSE5BcTFPZ01vY3pGZTRuUjE5VW94Ymw3MkZ2RUwyNTdHNnMwRVV6ZkhaSmg3QjkxNlJFM1ljZlBsSERqcVpnNk1oUFJuYm5teGY3RFpSV1RGLVlLaTVzTUNsaXRaWHFsLWg4dFZqTE1nMzFxNW1nQWZOUHZwSlREYnNfbzIyMmN6YkhLUnBUSHV3bEh3TjRhZzM5YmRFQ0tDTXFRaExBZ1RkMmRDVkVnbW1RUw?oc=5",
+      "publisher": "Facebook",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-19T01:10:02+00:00",
+      "first_seen_at": "2026-11-27T10:59:02+00:00",
+      "summary_excerpt": "An energy research firm forecasts that around 6.5 gigawatts of battery energy storage system will be installed in the Philippines until 2028 as the country shifts towards clean energy. The Department of Energy has required new power projects with installed capacity of at least 10 megawatts, such as solar and wind, to i",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "ca2af1b1827cde911ba0",
       "title": "DOE sees merit in ACEN’s surrender of RE deals - Philstar.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZkdYcF9YUzkwZHQtS2l1WG1DQnBuUmQtdm82UTJJYk5jWnUxTnNfVVpzN2I5QlQ2cnZrOUM5T3pEeWlsS3BxUTFXdUJIZlZvUHNPTTE5Wjd6YVFmd0ptanVvVE9GMWZIWjFtdzhPSjhGQXB3S09scjV3c1A2ZDVkYkRRTmR3TjZxVVU5Z0lEaWxmZjJrd1Zj0gGeAUFVX3lxTE80T3ZLODE3OHBTcHEydGI0X1Fid0V4aFh1RFZqenNMa1Fac3JSVTB3c1ZsbklrbTB5dHcxTDgzaW1FbGw5YjVOeHVEZlN4T09uOTM4bVZuWF9ieWJwS2l6b2VONnBJakdKcllWUWhncjRIdm1ZbElkX01GN09EaGp3aUtSSlFpNkNrNENaTmxBaEtZUUJmcGxQWDYzUFNB?oc=5",
@@ -1933,6 +2227,20 @@
       "published_at": "2026-11-15T08:00:00+00:00",
       "first_seen_at": "2026-11-24T01:44:05+00:00",
       "summary_excerpt": "DW News. . Could the infrastructure powering chatbots and businesses also support military operations — and potentially become a military target? Data centers have come under attack in the conflicts in the Gulf as well as in Russia and Ukraine. As tensions b Facebook",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "6219f656de1f2d48c5a6",
+      "title": "DAMAC in serious talks for Australian data centre land - Certified Strategic",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbUhJNzFoTWRqVGlBUHQ2cmJZNDJlXzVxeUlmOUdsQVloRmdEYzExZjVrcjFvcDhHN094NkRaek85RXhLQ2prRWtxblJ0QmNDWjlvbzVNTXEtSFlhV2FjMy1ONXJ0cFRPd3lNZWdZdnp1Rm1CaDMydklCMkZkQnJENzVYOXk1TTQ?oc=5",
+      "publisher": "Certified Strategic",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-15T07:26:31+00:00",
+      "first_seen_at": "2026-11-27T10:59:02+00:00",
+      "summary_excerpt": "DAMAC in serious talks for Australian data centre land Certified Strategic",
       "review_status": "unverified_discovery"
     },
     {
@@ -2314,6 +2622,34 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "e0b1ec28468a0ae1755c",
+      "title": "GEA-1 Bid Bulletin - Department of Energy Philippines",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LRjVCek9vbEF2ZnQ5Z1FUUTdXaUszZ0RxT0FnV3ozOVVOQTRIV1dwTmpaX21KRHM3enFMajVzUmNLUzFvaG52enBJZ2xwZw?oc=5",
+      "publisher": "Department of Energy Philippines",
+      "source_label": "DOE 项目及招标索引",
+      "source_id": "doe_procurement",
+      "source_method": "google_news_search",
+      "category_hint": "energy",
+      "published_at": "2026-11-12T08:00:00+00:00",
+      "first_seen_at": "2026-11-27T10:59:02+00:00",
+      "summary_excerpt": "GEA-1 Bid Bulletin Department of Energy Philippines",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "f90e6afe941a2ce8202b",
+      "title": "Lawmaker bats for nationwide household solar installation subsidy MANILA – Abra lone district Rep. JB Bernos on Thursday called on the government to consider replicating a neighboring country’s initiative that would help residents finance a shift to solar ener",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOV94Q1JFbldSUThHZHVZaUtiZ1MzbVUtSnRqY2dZdGttZ2NyV2tpazc2VGxtaFNJaEFRWldfR1AtQUZyRDFrVC10RHB6c1Z5Skd1eU84dUxBYk9PRDdZYnFQdWVMLXhSOGZhWmxoYVpfWkFZVTNGNGQzMDhlQW1kNnNsM0FXNDdFMDJCMm43akVVT3d3WmhqakdIN0k2U3V0WElOVEhiVmRBNzJwZXZta2J2U0g5Wk9EUXpiTl9Tb1F6UXhmSnMxOHlGQUhMM2ZKOWd3TA?oc=5",
+      "publisher": "Facebook",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-12T08:00:00+00:00",
+      "first_seen_at": "2026-11-27T10:59:02+00:00",
+      "summary_excerpt": "Lawmaker bats for nationwide household solar installation subsidy MANILA – Abra lone district Rep. JB Bernos on Thursday called on the government to consider replicating a neighboring country’s initiative that would help residents finance a shift to solar energy. Thailand recently launched a 50-billion baht (about USD1",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "b971ce5c08dd9bb55fa8",
       "title": "Raslag unit advances plan for Philippine solar-storage hybrid - Renewables Now",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUUlIckdNYXhYLW4wT0tHUUJ2bEpadThKcFYyZ1hkOFBuS1BLUEZsWVdSbHJpUDhVOXVRYmpsZWtuYUM3aW8tNHBnN0xOUzAyTnNKajh1WFZDWkhVUGRRTXk4U3pta0pqWXJycTc3WVZtYzJIUzlBVVhqaUNscXIxMkgyaWNhb2hYQVprT1hOX0IwRGFwdGF4d3NGYlhlZlZsTmpr?oc=5",
@@ -2409,6 +2745,20 @@
       "published_at": "2026-11-11T08:00:00+00:00",
       "first_seen_at": "2026-11-24T01:44:05+00:00",
       "summary_excerpt": "NGCP Project Airbag sites in Mindanao still under study Mindanao Times",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "a888bcdbd9453de355a2",
+      "title": "LOOK: Solar street lights are installed in Barangay 1 San Lorenzo, Laoag City, Ilocos Norte. Village chief Manuel Morales on Thursday (Nov. 12, 2026) thanks President Ferdinand R. Marcos Jr. for the grant of PHP100,000 financial assistance, through the Bawat B",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWnpYemNmeEtuT0EyQ19kWGo5SjNWMzJjLURCaDZQcU93WDVBT1hYbGhHcmVXZG9yZXBla25qaUkteVNQb25yOVdqdlVWU2ctTXhwUzNJaEFxRVlONUk3NkRqNS1HZzBCYi1McUVaNk5iWFpkc01fODJnWE5XcUxobzhEcmpqeW1fTGRkYWRRYTBGcEV6YTNvYkxwSVZxMVpSMUwyRTJhcGV4c2ltVTd0aExRbFRxaTlYSkxCSFR5MmRUSWhKeDREeXVZaV9hY2l2TjRjdw?oc=5",
+      "publisher": "Facebook",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-11T08:00:00+00:00",
+      "first_seen_at": "2026-11-27T10:59:02+00:00",
+      "summary_excerpt": "LOOK: Solar street lights are installed in Barangay 1 San Lorenzo, Laoag City, Ilocos Norte. Village chief Manuel Morales on Thursday (Nov. 12, 2026) thanks President Ferdinand R. Marcos Jr. for the grant of PHP100,000 financial assistance, through the Bawat Barangay Makikinabang Program, which has been allocated for t",
       "review_status": "unverified_discovery"
     },
     {
@@ -2720,6 +3070,34 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "eeb60e6af1e93b90108f",
+      "title": "NIA's solar powered irrigation project benefits farmers in Pangasinan town By Hilda Austria CALASIAO, Pangasinan – Farmer-members of irrigators associations in Alcala, Pangasinan are benefiting from five solar powered irrigation projects of the National Irriga",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTWxPSjhvZ1RRUk5ybEVUNVI1ZFg1bjQ1TU52WVJRNTFpb1pNZ0ZGTXVyTzNFbFJlRVl5MWNFVWdNaUc3R3hpMkNOb3JHNk02Vkh6blRGakN3WFFvRURNQmtmd3B0M3JzQUh6TTlVSFU0WktUNGQ1M2VQQUdEV0pUcWRaV2lSdURjMHphY2hfb1JIQU5BbFkyUFpfT292UXNaQXBJSThyRTRQWFJVUEMwUS1sOVZxR3dEeW9vOFA1X1BIejN0T0RvaTQwUkFyQzlyWk03Sg?oc=5",
+      "publisher": "Facebook",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-10T08:00:00+00:00",
+      "first_seen_at": "2026-11-27T10:59:02+00:00",
+      "summary_excerpt": "NIA's solar powered irrigation project benefits farmers in Pangasinan town By Hilda Austria CALASIAO, Pangasinan – Farmer-members of irrigators associations in Alcala, Pangasinan are benefiting from five solar powered irrigation projects of the National Irrigation Administration (NIA). The projects include solar-powere",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "43f80cde759218598603",
+      "title": "How Trump's Pax Silica AI Hub Deal Could Impact Indigenous Peoples in Philippines - Newsweek",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeTdvX1RTejRDaXlrN0k5S3QybVlxUUdpNUs5SDUwdkNjbjhmZnJiM3I2YmhpaUtSY3FlNVJvQUltRmpTQ01oQmtWUTNxWGZhdlRvQlh3REJ6OWFETkFoVGFSNUVIVEFzMXZSUmVEM2pZeFBLc1Bwb0xxQVdObU0zV2piOWhnZnpJS3JPX25NZHpuQTRnV0xWLU5UVnh0dHhQSDBxbjJVTWNaV2ZvdFNiVTZxeTVZYUsw?oc=5",
+      "publisher": "Newsweek",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-10T08:00:00+00:00",
+      "first_seen_at": "2026-11-27T10:59:02+00:00",
+      "summary_excerpt": "How Trump's Pax Silica AI Hub Deal Could Impact Indigenous Peoples in Philippines Newsweek",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "022a76da3549a84d8b5d",
       "title": "Alabat wind farm begins supplying power to Luzon grid - Malaya Business Insight",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY2hIVmdBNkhENGZVc0dCRHpjNl8wODVnMVNYN2xQOUs5RkU2MmhGYzRNNEVMaVdRdFRYLVZ4eUNRSTRzQnZZWDJ3Tl9EbjRXOEdnX1IyZlplbnlFd0lobHYtRWt6ZHF2X25CRnp0MWNxdGJFcTFlOUpYS3ExTWIzek04UTRaTVlTYkNuN2trNk45YVFuNmQ3Ug?oc=5",
@@ -2944,6 +3322,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "24c9292c833b675166ed",
+      "title": "The datacentre arms race hits pause in south-east Asia - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRHVPaXM3YWlYQVc1YWswREhaRnNDUkhZLWtnenRKeXlmQ0w0RDBTTzBIT1NqUHU1dzZwdzVvSC1fenFsNTVwMXVVelkwc3ZsSTR4QVpCZ3N0VnByNVhSZFJQc2E2TUctMXVhc3VGWTdaTElLdFhaRk03ODBvZ2M0Ni11dw?oc=5",
+      "publisher": "The Guardian",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-07T08:00:00+00:00",
+      "first_seen_at": "2026-11-27T10:59:02+00:00",
+      "summary_excerpt": "The datacentre arms race hits pause in south-east Asia The Guardian",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "8d639c80e54104de7a84",
       "title": "Protesters break into Microsoft data center site in Amsterdam as Europe's backlash spreads - Manila Bulletin",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOUMxSlI5dEs2MldUUTlxaGF2by1uc2VkdThmZXFfeGo3VFNIWU5oUGk1eTRCV085akJObHVHSlBNVTJpeE1nU0hXSkFKXzFpX3NDak5ra21NNTR0eV9lR1NsMkg5ZDA2a1VqcUNDcGhCQldwd1l6YUJuLTZMWTZjRHpTWjBERVhWRkNkbVY4WG9CanVhQ0xGc210R215Sk5nVjJVNjBNYlV0M0Nrb0RPTFFLelFBQ3U2NXc?oc=5",
@@ -3109,6 +3501,20 @@
       "published_at": "2026-11-05T08:00:00+00:00",
       "first_seen_at": "2026-11-22T06:56:34+00:00",
       "summary_excerpt": "Alternergy Energizes 64 MW Alabat Wind Farm in the Philippines Ahead of Amihan Season energynews.pro",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "24ed3f2844616854ad22",
+      "title": "'We're not for sale': Americans want to pump brakes on data centres - The Star",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQkRHTTdjYkg2VzJHWXlQaTNkLU5LZXVNcDRMd25BX0VzUHlJWC14T3lPY2dfQ3otZEhuUUxKUGtLOURHWUV3VTdIQ0hmaHRGd1RGd2d3RDJ0YUFyaVN1R0lxbjBJWndXQmIwbHB0cDFJR2NjNWpDS3NjRVZwOHc4ZWNiN2ItOVgzblNaTzNoSm9haFFMWGw4ZVBndzhkUnFKRE05ZzFDRWw2Wm53NXJ2dGVRbDlFbW9TeFB4ZU5UbDFpd0E?oc=5",
+      "publisher": "The Star",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-05T08:00:00+00:00",
+      "first_seen_at": "2026-11-27T10:59:02+00:00",
+      "summary_excerpt": "'We're not for sale': Americans want to pump brakes on data centres The Star",
       "review_status": "unverified_discovery"
     },
     {
@@ -3896,6 +4302,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "91b51671aef92845c735",
+      "title": "Landbank targets 140 solar-powered branches by 2027 MANILA – State-run Land Bank of the Philippines (Landbank) continues to fast-track its shift to renewable energy and has equipped 82 of its branches and facilities with solar power systems. Landbank on Friday",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaVhNSXIyLTJsemhlNnZ0dDhzN2dWYzB2dmR2QUQ1dk5QcTZzVFFBaXFqdHdyZC1JQm1mX1A4eWt5OXZKUnk1WmUzcHBwWm1GWXZhV1ZZUVZsc3A0bDJlb0NtX01YRy1Jcm9mcmczNXhhV2UyeDFuMXB3Wmt3bzJWRGtQNnpjeWlPRVJQYjJGUzF5VFluUWJLSlpyR0hrOTU5VXJuTXBCcXg0X0htTk9oeHZpZ21fWWRtV3RPMWNlN0VqeEhBTEEtRk1UZk5kcjhodDdVRA?oc=5",
+      "publisher": "Facebook",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-10-30T07:00:00+00:00",
+      "first_seen_at": "2026-11-27T10:59:02+00:00",
+      "summary_excerpt": "Landbank targets 140 solar-powered branches by 2027 MANILA – State-run Land Bank of the Philippines (Landbank) continues to fast-track its shift to renewable energy and has equipped 82 of its branches and facilities with solar power systems. Landbank on Friday said it plans to expand its solar-powered network to 140 si",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "a867956cef85853bf57b",
       "title": "MGEN Renewables targets 2026 profit with PHP 4.98B asset swap - Daily Guardian",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObzgzcXc1MUdHbnBLTHAwRzNaQ294X2JnMVp6eGl1QkQxR1pvRkNadFQxekhWYmUtcUdnbkxzOE0wS3dmRFVOcU5jSS03NGRYdHZTcU9aNGVpcThBNk5ncnlZSVRDT0JnNUU5eGdHcWZuQy1aMDRpN2tzQXZWdEdBMFVPTmVGWEtGN1dtZTZsMlFGUFZEb05IcXJEWmtib1hu?oc=5",
@@ -4033,6 +4453,20 @@
       "published_at": "2026-10-29T07:00:00+00:00",
       "first_seen_at": "2026-11-22T08:17:00+00:00",
       "summary_excerpt": "Finland launches criminal probe into land clearance for Google data centre The Star",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "83764e8ddb3932a67bd0",
+      "title": "ABS-CBN News. . Thailand’s Cabinet has approved a 72.6-billion-baht energy transition package, including a 50-billion-baht residential rooftop solar program that will allow households to sell surplus electricity to utilities for 2.20 baht per kilowatt-hour.��T",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNDNmcU1ydkkzWGZlaFo3dmJib1c1b3FBQ0FTREVPNW1nNW9ZRV9xQ0VEV2p1cEFzaURrWTk4d2l3UUhxaDZMNWJERmJ5UUdRRU5BenhKdXVHSjNONW9LN1BRR2wxNGw2dm5VZkxVZlpWSXdQWTluTFp1RVJhSHZCTTlqWjVEUUFRVTBETnpMOXNCcndyakFyRkJtZkQzaHlUYVdWR3IwYlZVcmpxUkplNnpDTHV0dUJ3M0luZlA3dGV0cTlSM0JaV3BGeWtVbVNxV0ZjdGdmY0Y?oc=5",
+      "publisher": "Facebook",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-10-29T07:00:00+00:00",
+      "first_seen_at": "2026-11-27T10:59:02+00:00",
+      "summary_excerpt": "ABS-CBN News. . Thailand’s Cabinet has approved a 72.6-billion-baht energy transition package, including a 50-billion-baht residential rooftop solar program that will allow households to sell surplus electricity to utilities for 2.20 baht per kilowatt-hour.��The initiative aims to accelerate the country’s shift to clea",
       "review_status": "unverified_discovery"
     },
     {

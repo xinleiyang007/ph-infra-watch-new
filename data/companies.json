@@ -1,6 +1,6 @@
 {
   "schema_version": "company-atlas-1.0",
-  "generated_at": "2026-11-26",
+  "generated_at": "2026-11-27",
   "notice": "未具备公司介绍证据时，仅展示其在项目库中的记录与角色，不推断公司主营业务或股权关系。",
   "companies": [
     {
