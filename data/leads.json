@@ -1,8 +1,64 @@
 {
   "schema_version": "discovery-leads-1.0",
-  "generated_at": "2026-11-27T22:45:21+00:00",
+  "generated_at": "2026-11-28T10:36:18+00:00",
   "source_note": "RSS feeds and Google News site-restricted discovery indexes; not a complete registry or verified projects. Links may be Google News redirect URLs.",
   "leads": [
+    {
+      "id": "de9327f828bd30c27b41",
+      "title": "[Vantage Point] The Legarda-Leviste solar empire: From government contracts to private billions - Rappler",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRHlOS3p6N0cyVlM5U1RobU04WGlUaUV1bkZyZDAyaEF0YS1ZTXl2VEJybXRXZHNOcXNUMEdzUTRnOUt1TTNtWkxMS3NwQ0g1Tk41OXNER3Z3SWQ1b0Q5S25UYTFwQVBndFhjZE9veV9Sd3ZrMU5vUFBvZDBWT3pFYVdYdlYwZkJpYjBuNk5IX2E5Slpzekt3Wnk5NUFwaTZ4SXcyZGhWWFJCQVVMRDlKMGMxRmhpSldXbkJUUUdBYXFrQ2QzZ2RPV002X3RrUQ?oc=5",
+      "publisher": "Rappler",
+      "source_label": "菲律宾光伏项目新闻",
+      "source_id": "solar_ph",
+      "source_method": "google_news_search",
+      "category_hint": "solar_ground",
+      "published_at": "2026-11-28T01:28:44+00:00",
+      "first_seen_at": "2026-11-28T10:36:18+00:00",
+      "summary_excerpt": "[Vantage Point] The Legarda-Leviste solar empire: From government contracts to private billions Rappler",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "d0ec883895bc6e51a724",
+      "title": "Camarines Norte port to become Philippines’ offshore wind energy hub - thechronicle.com.ph",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ1ByNWMtbC01RTlfcG5DbVZ2MExId0FyZTVHX0VOUElLcVFTQlQ2aTlCMUU3dmxiSXZ0ODlxYzJUYUlReTNKZS04bG9aeXVlSVF1Ri1uVldjLWduQ0lKZGVlNWdqaVN1SHByWE9JOWxDZDhGYmtjME5BTlpqNkFhWFFBU091X1JWXzBiaEpSZkwtcGNLaUFLYk5UcTY?oc=5",
+      "publisher": "thechronicle.com.ph",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-28T01:20:09+00:00",
+      "first_seen_at": "2026-11-28T10:36:18+00:00",
+      "summary_excerpt": "Camarines Norte port to become Philippines’ offshore wind energy hub thechronicle.com.ph",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "f70d48c5f6e8ddebf1d8",
+      "title": "Belgian authorities force Google to halt data center construction - Inquirer.net",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVzU3anducVlDRXNvODJFV2NzQjJWS3l4b0dlMnlPMDVpM1hYRlVzTy1aVTVMVFh5VTB0aXQ5R3plNlFQUDloM0ZDaEZDMFRJNl91bUdnb0xOTWdSck4zVXV0NjJLVlVFeHRxY0RpTm13eEJUeVJaWnRnWTRmOFpKYUl4d3FmN003Ujk1WjZPTTRHa0NzQzVQSHRPUU9lQmtjb0h1ZUtBR3FncU9p0gGyAUFVX3lxTE9GMW9PYW1yZ1FwQkhMOVdXS1FKVTJJdlYxTF9IS3drTkdOemRka1lkX0ZiUW5rRTNlM3ZsUmNSVlNTTUpxdjh5RTJHU3NqUmZKSTJKbnhNNE9INklnUGtwbmRSSXFWeGFDeXFwMm0xRDFXZm00dzBLVlVtMnNvQlBtbjVuZnVlRDV5aGJXLWlJSmJUbG9SbHNQejFpRnVsZ3VQaWJvMlBiREFjbmFRTnNoa0E?oc=5",
+      "publisher": "Inquirer.net",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-28T00:42:00+00:00",
+      "first_seen_at": "2026-11-28T10:36:18+00:00",
+      "summary_excerpt": "Belgian authorities force Google to halt data center construction Inquirer.net",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "6c47fca74c4f0e25b873",
+      "title": "PPA breaks ground on ₱2.3B offshore wind port in Camarines Norte - Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOamVxWXE2MmstdlA4QjFuNFdNYmxKUjNBMUVZYnJPOHR0QWFuSWNQZ2lnSmlFTnVpcnhNM2RKRS1fVnU0UXFPMnVHMzh4MmI1dUZLdVpzY0VyUFd5YmdTMTZudTVzTlZUTk13Q3pNM2sxV24yMU5QWi1NVmFmZHFGN2dzSUt3c2tibWdTWDhseUNCX3pLWF83bk1wZms3d2pDcm5Edmh0OXo2YXNSdU5N?oc=5",
+      "publisher": "Daily Tribune",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-28T00:04:36+00:00",
+      "first_seen_at": "2026-11-28T10:36:18+00:00",
+      "summary_excerpt": "PPA breaks ground on ₱2.3B offshore wind port in Camarines Norte Daily Tribune",
+      "review_status": "unverified_discovery"
+    },
     {
       "id": "67f067badb7230b6cc2a",
       "title": "ACEN to beef up power capacity amid El Niño - Inquirer.net",
@@ -130,6 +186,34 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "49516781b57add32ba89",
+      "title": "Citicore Targets 2027 Growth with Solar Projects Boosting Luzon Grid - Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS3pjUVEwWHNocjdxY0hhbmpmd3dVRTdod0swOUpuRE9Tb21RSldLNDFnTEVWQUM4WktFSGtYSHNJblRDeGdBRFFiWjloamVNTnVoMnk4YW9rc2tNT2ZmcW5KZUZNRHFKN21PZnROcFdyaGM0NWFvTFFQNWx5ZmxrenR4cTRUZms1anZtdnZWaVVBdHM?oc=5",
+      "publisher": "Daily Tribune",
+      "source_label": "菲律宾储能项目新闻",
+      "source_id": "bess_ph",
+      "source_method": "google_news_search",
+      "category_hint": "storage",
+      "published_at": "2026-11-27T07:42:07+00:00",
+      "first_seen_at": "2026-11-28T10:36:18+00:00",
+      "summary_excerpt": "Citicore Targets 2027 Growth with Solar Projects Boosting Luzon Grid Daily Tribune",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "63fa34bb413f43b20ef0",
+      "title": "PetroGreen, Ming Yang partner for 2 GW Philippines offshore wind project - Renewable Watch",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMTV2TFUtMFktcXE2b1dqVGxSWlpXek00cG9ucGpleUg4SGR6a1hEUnZEQ3pXOTc3T2JUM3ZLRE9FdkRWWW5nSDlTRmlMS3oyTElTcjlwei1Xa2pPUXhRanVhcXF4X1F3dFhNRXdhcWRaNmRaTUpFa1VZTnd5UVdJTHl1WlpBZWZKd3dEeDFEX1pQY1RYd09mTTVUZmZjaDdvUEpPdTkyUlpWU1RrejJFaA?oc=5",
+      "publisher": "Renewable Watch",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-27T07:03:39+00:00",
+      "first_seen_at": "2026-11-28T10:36:18+00:00",
+      "summary_excerpt": "PetroGreen, Ming Yang partner for 2 GW Philippines offshore wind project Renewable Watch",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "331c71e96056df0fe458",
       "title": "Schneider Electric Launches Ultra-Fast EV Charging and Battery Energy Storage Solutions to Advance Hong Kong’s EV Charging Infrastructure - Newspatrolling.com",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRTl2REtaRHhxTlhjQkp2d3d2aWxGTERSYUZ3T3d2c0lzUXktYmh0NFF4OVJzcEJRVFh4b3lFTW1MVHg5VnBVM2tDbEJRTzFmQmJXd2U4TEZiaU5QanJpSGFCUUN0cGVzMVRhY0cxakVfZGVtMi1HTHpJY0ZJaGZnd3czYmdUN0t6RlJaVEZRNjlLR1FiRTVOZE1kVTJ4TkR3TjcxZGJHRVZ4ZHdKdWVKOHJNS1g3ZzJNUFRrM3M5TnR3LXQtTHNYbjFfRFFKMVFrcG41alpsVjlMWi1ua3Qwcm9SZ3FxNllxZndBN19JbkROa3M2YnJj?oc=5",
@@ -155,6 +239,20 @@
       "published_at": "2026-11-27T05:54:31+00:00",
       "first_seen_at": "2026-11-27T10:59:02+00:00",
       "summary_excerpt": "Philippine Ports Authority Breaks Ground on P2.3B Offshore Wind Port in Camarines Norte Daily Tribune",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "795a7aefeb8fd0f53f22",
+      "title": "PPA breaks ground on P2.3B offshore wind port in Camarines Norte - Daily Tribune",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcXVXZHBIV040aVZMcHpoaDVOZ3p6dFZ4c0ducS1TTk15VGpBWGZ4OXRvNkdlblBfSnJmanJLa0o2a3lROWtQcXFYbVRRS0FuVGVuZFB6RkwxTzZYRVlvOVpSbWxtYVZINktzS1NOOGJzVUtaUW1pV0ZJT0U4S203WWRaVll0WW95NjNObTJvczV4aXduVEQ5dFd2bnlLdw?oc=5",
+      "publisher": "Daily Tribune",
+      "source_label": "菲律宾风电项目新闻",
+      "source_id": "wind_ph",
+      "source_method": "google_news_search",
+      "category_hint": "wind",
+      "published_at": "2026-11-27T05:54:31+00:00",
+      "first_seen_at": "2026-11-28T10:36:18+00:00",
+      "summary_excerpt": "PPA breaks ground on P2.3B offshore wind port in Camarines Norte Daily Tribune",
       "review_status": "unverified_discovery"
     },
     {
@@ -449,6 +547,20 @@
       "published_at": "2026-11-26T02:59:00+00:00",
       "first_seen_at": "2026-11-26T11:02:01+00:00",
       "summary_excerpt": "[SMM PV Flash] Philippines Breaks Ground on World's Largest Integrated Solar and Battery Storage Project Shanghai Metals Market",
+      "review_status": "unverified_discovery"
+    },
+    {
+      "id": "a3cbf5c8b294c935eed9",
+      "title": "- philgeps.gov.ph",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GYkR1ZFZkaVZBTUkxOTlpdkpocnR2VV9JNC1aZHZ3SWV4MUY2X0pGWEZXNENwZENhbXhQVHQ3dFBMRDRUS0g2Wm45OVd0S2JtdnUzVEVkZzRrS0IyVVA1NEpyMU51RHpLVGc?oc=5",
+      "publisher": "philgeps.gov.ph",
+      "source_label": "PhilGEPS 采购资讯索引",
+      "source_id": "philgeps_procurement",
+      "source_method": "google_news_search",
+      "category_hint": "procurement",
+      "published_at": "2026-11-26T00:38:32+00:00",
+      "first_seen_at": "2026-11-28T10:36:18+00:00",
+      "summary_excerpt": "philgeps.gov.ph",
       "review_status": "unverified_discovery"
     },
     {
@@ -3602,6 +3714,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "8a334166232909c912a1",
+      "title": "Data center demonstrators break into Microsoft site in Amsterdam, say more European protests planned - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ3RiVDV2VjRMcFY2ZWVqMjAtc0RTell3bjZ6dXZvQlFNZjFoTUJEUVJIM214Rk5lNzdOYU12UUR2TjVJV0VlMU9SdDRPODdNaXhJakVaSTdTTlh6akNaM1VhY3gtblY2eHVqcVJObTVPelRqRVFZN3g1ekxsWWVhTlctZlpVdkZDaFJQaEp0NVlFVnZ0dEtHZXN30gGaAUFVX3lxTE1WX29ENlloaUU5WEV5US12X2hjVVM4S2lzTXphRUl4V2szNVV3VERkaklGMGJiM2dQOWJDQzEzSWZDZnpMWlhlcnBhYkpZd2NOa05MUWt4RS1zTGo2ZVVrSmJOem4taXhxZ2RSRHVtYzdVVmhXWFFNWmdBY1IxRFRocEtZWWhxdXMyNmR1eWNfSC02R05pbF9oX3c?oc=5",
+      "publisher": "DW.com",
+      "source_label": "菲律宾数据中心建设新闻",
+      "source_id": "datacenter_ph",
+      "source_method": "google_news_search",
+      "category_hint": "smart_datacenter",
+      "published_at": "2026-11-06T08:00:00+00:00",
+      "first_seen_at": "2026-11-28T10:36:18+00:00",
+      "summary_excerpt": "Data center demonstrators break into Microsoft site in Amsterdam, say more European protests planned DW.com",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "80eff236d3166aa5b3b9",
       "title": "Chinese Top DC Charging Station Producer Reshapes Global EV Infrastructure Leadership - EIN News",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZVJhR3N4YXQ1YjgtNVdhbUNlMHhqYXlROVJuMmNaV0NKeDhkNGdjUl9xYkFhY3dPbDI4eG51N2MyTGpLTFdwa0RwVmtxUTNaM245OTFwTWtVR1BzU2d1ZmZNenQ4Zmo2b0ZPaWZhd3UzUEdQZDRCN3pYQzJZbjRybUtxN1A2U28ySW5tNVBqZTM4T29SSTB1MVF1MW0taGhKZDgtNHg3Z19Ra19wekhpeTJWWlpBVFFIVWNSUl9OT20xZnp6a2c?oc=5",
@@ -6318,6 +6444,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "4b31772cf7a78efc7839",
+      "title": "ICT - Bases Conversion and Development Authority (BCDA)",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE8yT3ZxZ0dRWEp1S3hFMzdsM2IxUTQyMXVyUzdheGpsNl9xZl9HRkdndmVVSG1zUHdFVi1VaXgyS0o?oc=5",
+      "publisher": "Bases Conversion and Development Authority (BCDA)",
+      "source_label": "BCDA 基础设施索引",
+      "source_id": "bcda_clark",
+      "source_method": "google_news_search",
+      "category_hint": "ict",
+      "published_at": "2026-05-16T09:49:23+00:00",
+      "first_seen_at": "2026-11-28T10:36:18+00:00",
+      "summary_excerpt": "ICT Bases Conversion and Development Authority (BCDA)",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "02a1bb882c9247f5dfc2",
       "title": "BIDS AND AWARDS COMMITTEE Bid Bulletin No. 1 for the 9th Public Bidding for CY 2026 1. SERVICES FOR THE DELIVERY AND SETTING-UP - Department of Energy Philippines",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObzVreFhEWlNjWmIxNUJiM0M2RGNObDJBRDdXdWxkMG9XWlJ3ajRMd2cyMENyR1ctaWJYWGZFcXNvSHJUNWp2MU9tN2JnRVlSX2VBVWZYTFI4UHRUY0dTQTIxT2Izd2lVdVVHaG9qUkRuSUFHSG9ySHloRlRLdDRBdWJrY3ktSGJWeHo1TVN6NlJPSHJfZ1Y3MFZzR3ljd3FmcndmOEQzX3NBbnZ2c3c?oc=5",
@@ -6640,6 +6780,20 @@
       "review_status": "unverified_discovery"
     },
     {
+      "id": "844ddefd09fecef1161d",
+      "title": "PROCUREMENT OF SUPPLY, DELIVERY AND INSTALLATION OF REPLACEMENT BATTERIES FOR THE UPS (UNINTERRUPTIBLE POWER SUPPLY) IN THE NCC GOVERNMENT BUILDING DATA CENTER UNDER PR0001525 - Bases Conversion and Development Authority (BCDA)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT1hsbGRHbmZRWWp6bG9ZWHlhTHYyb29CWmRidERqcjVwQzdSZllSVE1Kc3BDamF2RV9sdTJNU3hEUnpnTWxkOUtrRWxPVS13UlBEZkVvTU1QY0RxWWZwbC1TQVJJWnI0NC0yTWdrV2p3eHA0YjNpd2pFUkFSc0hUdndBTnhfZVllOG5WOTBBbDZPaHVLZ0MtV1lPNlJ4UkxYVnpveHRKZXBtVy1lTkdiekFFa01mY0NSRFRnTg?oc=5",
+      "publisher": "Bases Conversion and Development Authority (BCDA)",
+      "source_label": "BCDA 基础设施索引",
+      "source_id": "bcda_clark",
+      "source_method": "google_news_search",
+      "category_hint": "ict",
+      "published_at": "2026-01-08T08:00:00+00:00",
+      "first_seen_at": "2026-11-28T10:36:18+00:00",
+      "summary_excerpt": "PROCUREMENT OF SUPPLY, DELIVERY AND INSTALLATION OF REPLACEMENT BATTERIES FOR THE UPS (UNINTERRUPTIBLE POWER SUPPLY) IN THE NCC GOVERNMENT BUILDING DATA CENTER UNDER PR0001525 Bases Conversion and Development Authority (BCDA)",
+      "review_status": "unverified_discovery"
+    },
+    {
       "id": "5b504f6884b465098b36",
       "title": "PPP Center reports strong 2025 pipeline growth and major milestones, guided by transparency and accountability reforms - (PPP) Center of the Philippines",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUGhqOTBsbUd0LV9meHdkdUVxcll2aFhoMEltQnpQTUNSbXZmS0toR05JbTFTT2RxTUNtVk9BRmJaWnBoeXowd2NTSTl5dlFOMHJVUVdFbmRDMkc1SHB1XzY1U2hiX0NkMzFtZXJhSGRhQzlLMmpobnV0aVUwdUdxRGl1QjhpQmI4NUU3a3RMVHFTU2ZxMlhWT3RhQzRaUVB0RE5kZTVVNUJBQndhaVF5YXFmS1RvMUIwMlFnY3VCNk1VX1dMdHdpQXlQY08zWWRheTdNaGp2UGlBUGw3ai1QSFIwQTdZQzg?oc=5",
@@ -6749,20 +6903,6 @@
       "published_at": "2025-11-28T18:56:52+00:00",
       "first_seen_at": "2026-11-24T12:37:24+00:00",
       "summary_excerpt": "VISAYAS INDICATIVE POWER PROJECTS As of 30 September 2025 Department of Energy Philippines",
-      "review_status": "unverified_discovery"
-    },
-    {
-      "id": "b072076d4533567cd286",
-      "title": "DOTr, PNR, and ADB hold first Pre-Bid Conference for the North-South Commuter Railway O&M PPP Project - (PPP) Center of the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVTlBT1R1NjFLTzIxX2VJd1FPT2xzVk90UGMzRmRuemQ1TktaZS0ydGMxNnlveENsZTFZM0ZROVR4eDgxV2NodDJEdnFSV3p4dFd3X3pjdlRMdE9vLW1sbUJld09yRjUzcEJJNWJiV0g0RDdyb3RGUmVSUGJGSjBNTnJkWEd5Sklhd0c5cWhKMDJHaGZzQlR0VGNsYmEzdHJkaEQ0RnBEamM1UQ?oc=5",
-      "publisher": "(PPP) Center of the Philippines",
-      "source_label": "PPP Center 项目索引",
-      "source_id": "ppp_infrastructure",
-      "source_method": "google_news_search",
-      "category_hint": "infrastructure",
-      "published_at": "2025-11-28T08:00:00+00:00",
-      "first_seen_at": "2026-11-22T06:56:34+00:00",
-      "summary_excerpt": "DOTr, PNR, and ADB hold first Pre-Bid Conference for the North-South Commuter Railway O&M PPP Project (PPP) Center of the Philippines",
       "review_status": "unverified_discovery"
     }
   ]

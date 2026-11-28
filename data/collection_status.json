@@ -1,99 +1,99 @@
 {
-  "generated_at": "2026-11-27T22:45:21+00:00",
+  "generated_at": "2026-11-28T10:36:18+00:00",
   "success_sources": 12,
   "total_sources": 12,
-  "new_leads": 101,
-  "stored_leads": 483,
+  "new_leads": 98,
+  "stored_leads": 493,
   "sources": [
     {
       "source_id": "doe_energy",
       "label": "DOE 官方信息索引",
       "state": "ok",
       "items_seen": 35,
-      "new_items": 3,
-      "checked_at": "2026-11-27T22:45:21+00:00",
+      "new_items": 2,
+      "checked_at": "2026-11-28T10:36:18+00:00",
       "error": "",
-      "elapsed_ms": 282
+      "elapsed_ms": 311
     },
     {
       "source_id": "doe_procurement",
       "label": "DOE 项目及招标索引",
       "state": "ok",
       "items_seen": 35,
-      "new_items": 4,
-      "checked_at": "2026-11-27T22:45:21+00:00",
+      "new_items": 8,
+      "checked_at": "2026-11-28T10:36:18+00:00",
       "error": "",
-      "elapsed_ms": 241
+      "elapsed_ms": 411
     },
     {
       "source_id": "ppp_infrastructure",
       "label": "PPP Center 项目索引",
       "state": "ok",
       "items_seen": 35,
-      "new_items": 32,
-      "checked_at": "2026-11-27T22:45:21+00:00",
+      "new_items": 33,
+      "checked_at": "2026-11-28T10:36:18+00:00",
       "error": "",
-      "elapsed_ms": 703
+      "elapsed_ms": 522
     },
     {
       "source_id": "bcda_clark",
       "label": "BCDA 基础设施索引",
       "state": "ok",
       "items_seen": 35,
-      "new_items": 24,
-      "checked_at": "2026-11-27T22:45:21+00:00",
+      "new_items": 26,
+      "checked_at": "2026-11-28T10:36:18+00:00",
       "error": "",
-      "elapsed_ms": 506
+      "elapsed_ms": 489
     },
     {
       "source_id": "dict_digital",
       "label": "DICT 数字工程索引",
       "state": "ok",
       "items_seen": 35,
-      "new_items": 22,
-      "checked_at": "2026-11-27T22:45:21+00:00",
+      "new_items": 18,
+      "checked_at": "2026-11-28T10:36:18+00:00",
       "error": "",
-      "elapsed_ms": 331
+      "elapsed_ms": 398
     },
     {
       "source_id": "philgeps_procurement",
       "label": "PhilGEPS 采购资讯索引",
       "state": "ok",
       "items_seen": 35,
-      "new_items": 2,
-      "checked_at": "2026-11-27T22:45:21+00:00",
+      "new_items": 3,
+      "checked_at": "2026-11-28T10:36:18+00:00",
       "error": "",
-      "elapsed_ms": 348
+      "elapsed_ms": 474
     },
     {
       "source_id": "solar_ph",
       "label": "菲律宾光伏项目新闻",
       "state": "ok",
-      "items_seen": 33,
-      "new_items": 2,
-      "checked_at": "2026-11-27T22:45:21+00:00",
+      "items_seen": 34,
+      "new_items": 1,
+      "checked_at": "2026-11-28T10:36:18+00:00",
       "error": "",
-      "elapsed_ms": 367
+      "elapsed_ms": 434
     },
     {
       "source_id": "wind_ph",
       "label": "菲律宾风电项目新闻",
       "state": "ok",
       "items_seen": 35,
-      "new_items": 3,
-      "checked_at": "2026-11-27T22:45:21+00:00",
+      "new_items": 4,
+      "checked_at": "2026-11-28T10:36:18+00:00",
       "error": "",
-      "elapsed_ms": 440
+      "elapsed_ms": 394
     },
     {
       "source_id": "bess_ph",
       "label": "菲律宾储能项目新闻",
       "state": "ok",
       "items_seen": 35,
-      "new_items": 7,
-      "checked_at": "2026-11-27T22:45:21+00:00",
+      "new_items": 1,
+      "checked_at": "2026-11-28T10:36:18+00:00",
       "error": "",
-      "elapsed_ms": 385
+      "elapsed_ms": 449
     },
     {
       "source_id": "ev_ph",
@@ -101,29 +101,29 @@
       "state": "ok",
       "items_seen": 18,
       "new_items": 0,
-      "checked_at": "2026-11-27T22:45:21+00:00",
+      "checked_at": "2026-11-28T10:36:18+00:00",
       "error": "",
-      "elapsed_ms": 353
+      "elapsed_ms": 282
     },
     {
       "source_id": "datacenter_ph",
       "label": "菲律宾数据中心建设新闻",
       "state": "ok",
       "items_seen": 35,
-      "new_items": 1,
-      "checked_at": "2026-11-27T22:45:21+00:00",
+      "new_items": 2,
+      "checked_at": "2026-11-28T10:36:18+00:00",
       "error": "",
-      "elapsed_ms": 484
+      "elapsed_ms": 470
     },
     {
       "source_id": "elv_fiber_ph",
       "label": "菲律宾弱电和光纤项目新闻",
       "state": "ok",
       "items_seen": 6,
-      "new_items": 1,
-      "checked_at": "2026-11-27T22:45:21+00:00",
+      "new_items": 0,
+      "checked_at": "2026-11-28T10:36:18+00:00",
       "error": "",
-      "elapsed_ms": 265
+      "elapsed_ms": 246
     }
   ]
 }
